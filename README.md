@@ -6,7 +6,7 @@ monoOne is a monospaced font for programming and code review.
 ##how does it look?
 [specimen (pdf)](specimen/monoOneSpecimen.pdf)
 
-example (screenshot taken with linux/vim)
+example (screenshot taken with linux/vim on low resolution screen)
 
 ![screenshot vim](specimen/monoOneVimScreenshot.png)
 
@@ -17,7 +17,7 @@ example (screenshot taken with linux/vim)
 * Linux/Unix - distro dependent, i hope you know how to install it
 
 ##about
-It all started with the search for a better programming font. I tried nearly every suitable monospace typeface, but i couldn't find the optimal solution, at least not for me. So it slowly became a small, personal research-project, exploring the typographic needs of code display. I started the development with following functional specifications:
+It all started with the search for a better programming font. I tried nearly every suitable monospace typeface, but i couldn't find the optimal solution, at least not for me. So it slowly became a small, personal research-project, exploring the typographic needs of code display. I started the development with the following functional specifications:
 
 * _monospaced_: this is the default for nearly all programming environments, but there are some discussion if this specific feature is just historic ballast, while the pro-monospace side is arguing that the possibility of lining up code and the resulting 2-dimensional structuring is useful. I think this is just an minor argument, but a more substantial reason is that in code, every character has potentially the same significance and should be given the same space to represent that. Give every character the same amount of space emphases reading on the character level and makes it easier to spot mistakes. Additionally it is a simple convention through all coding environments - the coder can be sure that her code will look similar for other programmers, even if they use another editor and typeface. 
 * _must work well on low and high resolution displays_: Right now we are in the transition to high resolution displays, bringing font rendering quality on screen in the realms of print. But we're not there yet, and especially on cheap laptops and typical office-displays we won't be there in the foreseeable future. So the glyphs must survive being squashed into a grid of a few pixels extremely well, but they should be designed with attention to detail, even when it's only visible in print or on retina displays. 
