@@ -4,11 +4,11 @@ monoOne
 monoOne is a monospaced font for programming and code review. 
 
 ##how does it look?
-[specimen (pdf)](/specimnen/monoOneSpecimen.pdf)
+[specimen (pdf)](specimen/monoOneSpecimen.pdf)
 
 example (screenshot taken with linux/vim)
 
-![screenshot vim](/specimnen/monoOneVimScreenshot.png)
+![screenshot vim](specimen/monoOneVimScreenshot.png)
 
 ##installation
 * [OS X](http://support.apple.com/kb/HT2509)
