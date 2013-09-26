@@ -8,6 +8,8 @@ monoOne is a monospaced font for programming and code review.
 
 ![just some glyphs](specimen/someGlyphs.png)
 
+![g](specimen/g.png)
+
 example (screenshot taken with linux/vim on low resolution screen)
 
 ![screenshot vim](specimen/monoOneVimScreenshot.png)
