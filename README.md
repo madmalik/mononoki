@@ -6,6 +6,8 @@ monoOne is a monospaced font for programming and code review.
 ##how does it look?
 [specimen (pdf)](specimen/monoOneSpecimen.pdf)
 
+![just some glyphs](specimen/someGlyphs.png)
+
 example (screenshot taken with linux/vim on low resolution screen)
 
 ![screenshot vim](specimen/monoOneVimScreenshot.png)
