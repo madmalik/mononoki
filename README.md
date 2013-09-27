@@ -37,4 +37,4 @@ Over the time of the development the design became more and more simplicstic whi
 The special characters seem exaggerated, but are identifiable in all point sizes and circumstances.
 The font is created with a mathematical description of the pure skeleton and an algorithm that creates the strokes. Every parameter like the weight, x-height, overshoot etc. can be manipulated through code, so i could fine-tune all the parameters without having to restart drawing.
 
-monoOne has a over 300 characters, including the [powerline](https://github.com/Lokaltog/powerline) symbols.
+monoOne has a over 400 characters, including the [powerline](https://github.com/Lokaltog/powerline) symbols.
