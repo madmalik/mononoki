@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divisionslash" format="1">
+  <advance width="1150"/>
+  <unicode hex="2215"/>
+  <outline>
+    <component base="slashRational" xOffset="304" yOffset="-164" xScale="0.93" yScale="0.93"/>
+  </outline>
+</glyph>

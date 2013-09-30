@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="1150"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="654" y="1345" type="line" smooth="yes"/>
+      <point x="654" y="1377"/>
+      <point x="637" y="1395"/>
+      <point x="604" y="1395" type="curve" smooth="yes"/>
+      <point x="534" y="1395" type="line" smooth="yes"/>
+      <point x="502" y="1395"/>
+      <point x="484" y="1377"/>
+      <point x="484" y="1345" type="curve" smooth="yes"/>
+      <point x="484" y="1252" type="line" smooth="yes"/>
+      <point x="484" y="1220"/>
+      <point x="501" y="1202"/>
+      <point x="534" y="1202" type="curve" smooth="yes"/>
+      <point x="604" y="1202" type="line" smooth="yes"/>
+      <point x="637" y="1202"/>
+      <point x="654" y="1219"/>
+      <point x="654" y="1252" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="575" y="1000" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
