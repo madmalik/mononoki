@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Yi-cy" format="1">
-  <advance width="1150"/>
-  <unicode hex="0407"/>
-  <outline>
-    <component base="I"/>
-    <component base="dieresis" yOffset="400"/>
-  </outline>
-</glyph>
