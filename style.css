@@ -92,6 +92,7 @@ body {
 .container {
   padding: 0;
   margin: 0;
+  position: relative;
   
   display: -webkit-box;
   display: -moz-box;
@@ -134,12 +135,14 @@ body {
 	font-size: 275%;
 }
 
-.resolution-title .g {
+.background {
 	color: #eee8d5;
-	font-size: 1000%;
-	float: left;
-	margin-top: -50px;
-
+	font-size: 400%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    white-space: pre;
 }
 
 .code {
