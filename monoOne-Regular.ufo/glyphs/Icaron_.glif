@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Icaron" format="1">
-  <advance width="1150"/>
-  <unicode hex="01CF"/>
-  <outline>
-    <component base="I"/>
-    <component base="caron" yOffset="400"/>
-  </outline>
-</glyph>

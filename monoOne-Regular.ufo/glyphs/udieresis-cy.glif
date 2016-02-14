@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="udieresis-cy" format="1">
-  <advance width="1150"/>
-  <unicode hex="04F1"/>
-  <outline>
-    <component base="u-cy"/>
-    <component base="dieresis"/>
-  </outline>
-</glyph>
