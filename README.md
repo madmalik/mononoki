@@ -1,5 +1,5 @@
-# Mononoki
-####  a font for programming and code review
+#Mononoki
+####a font for programming and code review
 
 I'm in a middle of a big update. Insert under construction gif and yadda yadda
 
@@ -12,3 +12,5 @@ for a closer look [http://madmalik.github.io/mononoki/](http://madmalik.github.i
 * [Windows](http://windows.microsoft.com/en-us/windows-vista/install-or-uninstall-fonts)
 * Linux/Unix - distro dependent, i hope you know how to install it
 
+##old version
+if you prefer the predecessor to mononoki, please look into the branch monoOne
