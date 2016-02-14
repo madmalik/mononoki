@@ -1,0 +1,200 @@
+@font-face {
+    font-family: 'mononoki';
+    src: url('fonts/mononoki-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('fonts/mononoki-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('fonts/mononoki-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki-Italic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url('fonts/mononoki-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/mononoki-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/mononoki-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/mononoki-BoldItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: italic;
+}
+
+/*
+$base03:    #002b36
+$base02:    #073642
+$base01:    #586e75
+$base00:    #657b83
+$base0:     #839496
+$base1:     #93a1a1
+$base2:     #eee8d5
+$base3:     #fdf6e3
+$yellow:    #b58900
+$orange:    #cb4b16
+$red:       #dc322f
+$magenta:   #d33682
+$violet:    #6c71c4
+$blue:      #268bd2
+$cyan:      #2aa198
+$green:     #859900*/
+
+
+body {
+	color: #586e75;
+	font-family: mononoki;
+	width:90%;
+	max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 16px;
+    background-color: #fdf6e3;
+}
+
+.headline {
+	text-align: center;
+}
+
+.headline .asciiart {	
+	white-space: pre;
+	text-align: left;
+	color: #cb4b16; 
+}
+
+.headline .mono {
+	color: #93a1a1;
+	font-weight: bold;
+}
+
+.wingdings {
+	font-size: 200%;
+	color: #93a1a1;
+}
+
+.container {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.container .showcase-left {
+  flex-flow: row wrap-reverse;
+}
+
+.box {
+	width: 400px;
+	margin: 16px 16px 16px 16px;
+}
+
+.monospaced-title {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 300%;
+	text-align: right;
+	color: #002b36;
+}
+.monospaced-title .accent {
+	border-radius: 3px;
+	color: #fdf6e3;
+	background-color: #002b36; 
+	height: 20px;
+}
+
+.resolution-title {
+	text-align: right;
+}
+
+.resolution-title .high {
+	font-size: 275%;
+}
+
+.background {
+	color: #eee8d5;
+	font-size: 400%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    white-space: pre;
+}
+
+.code {
+	 white-space: pre;
+}
+
+.showcase {
+	font-size: 100%;
+	color: #93a1a1;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.box .dropcap {
+	color: #cb4b16; 
+	float: left;
+	margin: 0px 0px 0px 0px;
+	white-space: pre;
+}
+
+
+.big {
+	color: #93a1a1;
+	font-size: 400%;
+}
+
+
+.align-right {
+	text-align: right;
+}
+
+/* code highlights */
+.keyword { color: #b58900; }
+.op { color: #cb4b16; }
+.string { color: #268bd2; }
+.comment { 
+	color: #93a1a1;
+	font-style: italic; 
+}
+.linenr {
+	color: #93a1a1;
+}
+
+footer {
+	margin-top: 160px;
+	text-align: center;
+	font-style: italic;
+	color: #93a1a1;
+}
