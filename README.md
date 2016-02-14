@@ -5,3 +5,10 @@ I'm in a middle of a big update. Insert under construction gif and yadda yadda
 
 
 for a closer look [http://madmalik.github.io/mononoki/](http://madmalik.github.io/mononoki/)
+
+##installation
+[download monoki.zip](export/monoki.zip) and unpack it
+* [OS X](http://support.apple.com/kb/HT2509)
+* [Windows](http://windows.microsoft.com/en-us/windows-vista/install-or-uninstall-fonts)
+* Linux/Unix - distro dependent, i hope you know how to install it
+
