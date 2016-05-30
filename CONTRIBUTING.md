@@ -4,7 +4,7 @@
 
 One thing you can always do is just ask me to add a glyph. I'll do my best to react to demands, but since I'm doing this in my free time a cannot make guarantees.
 
-If you want to add glyphs yourself: Since my app of choice (glyphs) is closed source and paid, and all open font development seems to happen with fontforge, I created an ufo version of the regular version of the font.
+If you want to add glyphs yourself: Since my app of choice (glyphs) is closed source and paid, and all open font development seems to happen with fontforge, I created an ufo version of the regular version of the font. Fontforge knows how to handle these.
 
 Please just use this version for contributions. The dimensions of typical elements are:
 ```              
@@ -50,4 +50,4 @@ Contributions don't have to be release-ready. I'm happy to adjust curves, round 
 
 
 
-Again, if I react slowly, please don't take that seriously. I appreciate an help, suggestions and feedback, but sometimes I cannot react on the same day. 
+Again, if I react slowly, do not take it personally. I appreciate any help, suggestions and feedback, but sometimes I cannot react on the same day. 
