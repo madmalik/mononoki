@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0A2" format="1">
+  <advance width="600"/>
+  <unicode hex="E0A2"/>
+  <note>
+    uniE0A2
+  </note>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-30 16:12:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

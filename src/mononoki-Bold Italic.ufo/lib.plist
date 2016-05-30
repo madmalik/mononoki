@@ -557,7 +557,7 @@
 		<string>percent</string>
 		<string>perthousand</string>
 		<string>therefore</string>
-		<string>uni2665</string>
+		<string>heart</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
@@ -587,6 +587,13 @@
 		<string>ring</string>
 		<string>tilde</string>
 		<string>brevecomb-cy</string>
+		<string>uniE0A0</string>
+		<string>uniE0A1</string>
+		<string>uniE0A2</string>
+		<string>uniE0B0</string>
+		<string>uniE0B1</string>
+		<string>uniE0B2</string>
+		<string>uniE0B3</string>
 	</array>
 </dict>
 </plist>

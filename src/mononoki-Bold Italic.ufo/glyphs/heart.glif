@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heart" format="1">
+  <advance width="600"/>
+  <unicode hex="2665"/>
+  <note>
+    heart
+  </note>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-30 16:47:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

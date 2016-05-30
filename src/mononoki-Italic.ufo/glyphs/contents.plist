@@ -648,6 +648,8 @@
 	<string>hardsign-cy.glif</string>
 	<key>hcircumflex</key>
 	<string>hcircumflex.glif</string>
+	<key>heart</key>
+	<string>heart.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hyphen</key>
@@ -1030,8 +1032,20 @@
 	<string>underscore.glif</string>
 	<key>uni00B5</key>
 	<string>uni00B_5.glif</string>
-	<key>uni2665</key>
-	<string>uni2665.glif</string>
+	<key>uniE0A0</key>
+	<string>uniE_0A_0.glif</string>
+	<key>uniE0A1</key>
+	<string>uniE_0A_1.glif</string>
+	<key>uniE0A2</key>
+	<string>uniE_0A_2.glif</string>
+	<key>uniE0B0</key>
+	<string>uniE_0B_0.glif</string>
+	<key>uniE0B1</key>
+	<string>uniE_0B_1.glif</string>
+	<key>uniE0B2</key>
+	<string>uniE_0B_2.glif</string>
+	<key>uniE0B3</key>
+	<string>uniE_0B_3.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>upsilon</key>
