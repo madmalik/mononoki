@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="1">
+  <advance width="575"/>
+  <unicode hex="0144"/>
+  <outline>
+    <component base="n"/>
+    <component base="acute" yOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 12:00:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

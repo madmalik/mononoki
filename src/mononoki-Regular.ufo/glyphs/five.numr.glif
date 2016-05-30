@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.numr" format="1">
+  <advance width="250"/>
+  <outline>
+    <component base="five.dnom" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-22 17:09:46 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>five.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>five.dnom</string>
+    </dict>
+  </lib>
+</glyph>

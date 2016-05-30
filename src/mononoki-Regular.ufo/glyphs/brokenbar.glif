@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="575"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="305" y="-178" type="line" smooth="yes"/>
+      <point x="322" y="-178"/>
+      <point x="330" y="-169"/>
+      <point x="330" y="-153" type="curve" smooth="yes"/>
+      <point x="330" y="168" type="line" smooth="yes"/>
+      <point x="330" y="185"/>
+      <point x="321" y="193"/>
+      <point x="305" y="193" type="curve" smooth="yes"/>
+      <point x="270" y="193" type="line" smooth="yes"/>
+      <point x="254" y="193"/>
+      <point x="245" y="185"/>
+      <point x="245" y="168" type="curve" smooth="yes"/>
+      <point x="245" y="-153" type="line" smooth="yes"/>
+      <point x="245" y="-170"/>
+      <point x="254" y="-178"/>
+      <point x="270" y="-178" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="305" y="379" type="line" smooth="yes"/>
+      <point x="321" y="379"/>
+      <point x="330" y="388"/>
+      <point x="330" y="404" type="curve" smooth="yes"/>
+      <point x="330" y="725" type="line" smooth="yes"/>
+      <point x="330" y="742"/>
+      <point x="322" y="750"/>
+      <point x="305" y="750" type="curve" smooth="yes"/>
+      <point x="270" y="750" type="line" smooth="yes"/>
+      <point x="254" y="750"/>
+      <point x="245" y="741"/>
+      <point x="245" y="725" type="curve" smooth="yes"/>
+      <point x="245" y="404" type="line" smooth="yes"/>
+      <point x="245" y="388"/>
+      <point x="254" y="379"/>
+      <point x="270" y="379" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 14:22:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>
