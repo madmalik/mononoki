@@ -70,8 +70,14 @@ body {
 }
 
 a {
+  transition: color 0.5s ease;
   color: #268bd2;
+  text-decoration: none;
 } 
+
+a:hover {
+  color: #cb4b16;
+}
 
 .orange {
   color: #cb4b16;
