@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="1">
+  <advance width="250"/>
+  <outline>
+    <contour>
+      <point x="208" y="121" type="line"/>
+      <point x="219" y="196" type="line"/>
+      <point x="221" y="208"/>
+      <point x="212" y="219"/>
+      <point x="198" y="219" type="curve"/>
+      <point x="181" y="219" type="line"/>
+      <point x="168" y="219"/>
+      <point x="154" y="208"/>
+      <point x="152" y="196" type="curve"/>
+      <point x="141" y="121" type="line"/>
+      <point x="81" y="121" type="line"/>
+      <point x="218" y="331" type="line"/>
+      <point x="228" y="344"/>
+      <point x="220" y="360"/>
+      <point x="203" y="360" type="curve"/>
+      <point x="185" y="360" type="line"/>
+      <point x="172" y="360"/>
+      <point x="160" y="353"/>
+      <point x="153" y="343" type="curve"/>
+      <point x="9" y="124" type="line"/>
+      <point x="9" y="124" type="line"/>
+      <point x="5" y="118"/>
+      <point x="3" y="112"/>
+      <point x="2" y="105" type="curve"/>
+      <point x="-1" y="85" type="line"/>
+      <point x="-3" y="73"/>
+      <point x="6" y="63"/>
+      <point x="19" y="63" type="curve"/>
+      <point x="131" y="63" type="line"/>
+      <point x="123" y="13" type="line"/>
+      <point x="122" y="2"/>
+      <point x="129" y="-10"/>
+      <point x="144" y="-10" type="curve"/>
+      <point x="162" y="-10" type="line"/>
+      <point x="176" y="-10"/>
+      <point x="188" y="2"/>
+      <point x="189" y="13" type="curve"/>
+      <point x="197" y="63" type="line"/>
+      <point x="213" y="63" type="line"/>
+      <point x="227" y="63"/>
+      <point x="239" y="73"/>
+      <point x="241" y="85" type="curve"/>
+      <point x="243" y="98" type="line"/>
+      <point x="245" y="109"/>
+      <point x="237" y="121"/>
+      <point x="223" y="121" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 13:05:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

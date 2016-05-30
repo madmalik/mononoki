@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="575"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="485" y="82" type="line"/>
+      <point x="477" y="101"/>
+      <point x="458" y="109"/>
+      <point x="439" y="101" type="curve"/>
+      <point x="413" y="92"/>
+      <point x="392" y="88"/>
+      <point x="368" y="88" type="curve"/>
+      <point x="315" y="88"/>
+      <point x="281" y="113"/>
+      <point x="281" y="214" type="curve"/>
+      <point x="281" y="424" type="line"/>
+      <point x="435" y="424" type="line"/>
+      <point x="455" y="424"/>
+      <point x="470" y="439"/>
+      <point x="470" y="459" type="curve"/>
+      <point x="470" y="485" type="line"/>
+      <point x="470" y="506"/>
+      <point x="455" y="520"/>
+      <point x="435" y="520" type="curve"/>
+      <point x="281" y="520" type="line"/>
+      <point x="281" y="645" type="line"/>
+      <point x="281" y="665"/>
+      <point x="266" y="680"/>
+      <point x="246" y="680" type="curve"/>
+      <point x="211" y="680" type="line"/>
+      <point x="191" y="680"/>
+      <point x="176" y="665"/>
+      <point x="176" y="645" type="curve"/>
+      <point x="176" y="520" type="line"/>
+      <point x="110" y="520" type="line"/>
+      <point x="90" y="520"/>
+      <point x="75" y="506"/>
+      <point x="75" y="485" type="curve"/>
+      <point x="75" y="459" type="line"/>
+      <point x="75" y="439"/>
+      <point x="90" y="424"/>
+      <point x="110" y="424" type="curve"/>
+      <point x="176" y="424" type="line"/>
+      <point x="176" y="214" type="line"/>
+      <point x="176" y="47"/>
+      <point x="270" y="-10"/>
+      <point x="368" y="-10" type="curve"/>
+      <point x="404" y="-10"/>
+      <point x="443" y="-2"/>
+      <point x="476" y="11" type="curve"/>
+      <point x="497" y="17"/>
+      <point x="504" y="37"/>
+      <point x="496" y="56" type="curve"/>
+    </contour>
+    <contour>
+      <point x="288" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="288" y="520" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="555" y="520" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="288" y="250" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 20:48:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

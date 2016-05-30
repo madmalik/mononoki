@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="575"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="475" y="57" type="line"/>
+      <point x="472" y="72"/>
+      <point x="463" y="77"/>
+      <point x="446" y="74" type="curve"/>
+      <point x="420" y="68"/>
+      <point x="396" y="67"/>
+      <point x="380" y="67" type="curve" smooth="yes"/>
+      <point x="320" y="68"/>
+      <point x="305" y="91"/>
+      <point x="314" y="150" type="curve" smooth="yes"/>
+      <point x="357" y="423" type="line"/>
+      <point x="507" y="423" type="line"/>
+      <point x="525" y="424"/>
+      <point x="534" y="432"/>
+      <point x="537" y="449" type="curve" smooth="yes"/>
+      <point x="541" y="475" type="line" smooth="yes"/>
+      <point x="543" y="492"/>
+      <point x="537" y="500"/>
+      <point x="520" y="500" type="curve"/>
+      <point x="135" y="500" type="line"/>
+      <point x="119" y="500"/>
+      <point x="108" y="492"/>
+      <point x="106" y="475" type="curve" smooth="yes"/>
+      <point x="102" y="449" type="line" smooth="yes"/>
+      <point x="99" y="432"/>
+      <point x="107" y="424"/>
+      <point x="123" y="424" type="curve" smooth="yes"/>
+      <point x="273" y="424" type="line"/>
+      <point x="229" y="150" type="line" smooth="yes"/>
+      <point x="212" y="40"/>
+      <point x="254" y="-10"/>
+      <point x="368" y="-10" type="curve" smooth="yes"/>
+      <point x="388" y="-10"/>
+      <point x="419" y="-9"/>
+      <point x="457" y="0" type="curve" smooth="yes"/>
+      <point x="475" y="4"/>
+      <point x="483" y="16"/>
+      <point x="479" y="31" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-30 08:33:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oneseventh" format="1">
-  <advance width="575"/>
+  <advance width="588"/>
   <unicode hex="2150"/>
   <outline>
     <component base="one.numr"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 14:36:53 +0000</string>
+      <string>2016-05-30 09:30:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

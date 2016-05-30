@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.dnom" format="1">
+  <advance width="250"/>
+  <outline>
+    <contour>
+      <point x="68" y="49" type="line"/>
+      <point x="80" y="73"/>
+      <point x="108" y="93"/>
+      <point x="142" y="116" type="curve" smooth="yes"/>
+      <point x="193" y="152"/>
+      <point x="251" y="192"/>
+      <point x="261" y="257" type="curve" smooth="yes"/>
+      <point x="273" y="333"/>
+      <point x="216" y="365"/>
+      <point x="151" y="365" type="curve" smooth="yes"/>
+      <point x="124" y="365"/>
+      <point x="94" y="360"/>
+      <point x="68" y="350" type="curve"/>
+      <point x="55" y="345"/>
+      <point x="46" y="332"/>
+      <point x="49" y="321" type="curve"/>
+      <point x="52" y="308" type="line" smooth="yes"/>
+      <point x="55" y="297"/>
+      <point x="68" y="291"/>
+      <point x="81" y="295" type="curve"/>
+      <point x="105" y="302"/>
+      <point x="122" y="306"/>
+      <point x="142" y="306" type="curve" smooth="yes"/>
+      <point x="180" y="306"/>
+      <point x="200" y="292"/>
+      <point x="194" y="257" type="curve" smooth="yes"/>
+      <point x="188" y="219"/>
+      <point x="155" y="195"/>
+      <point x="109" y="163" type="curve" smooth="yes"/>
+      <point x="69" y="136"/>
+      <point x="6" y="97"/>
+      <point x="-6" y="24" type="curve" smooth="yes"/>
+      <point x="-8" y="12" type="line" smooth="yes"/>
+      <point x="-10" y="0"/>
+      <point x="0" y="-11"/>
+      <point x="14" y="-11" type="curve" smooth="yes"/>
+      <point x="204" y="-11" type="line" smooth="yes"/>
+      <point x="218" y="-11"/>
+      <point x="230" y="1"/>
+      <point x="231" y="12" type="curve" smooth="yes"/>
+      <point x="234" y="26" type="line" smooth="yes"/>
+      <point x="235" y="37"/>
+      <point x="228" y="49"/>
+      <point x="213" y="49" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 13:05:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

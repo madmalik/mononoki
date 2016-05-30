@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="575"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="240" y="780" type="line"/>
+      <point x="220" y="780"/>
+      <point x="205" y="765"/>
+      <point x="205" y="745" type="curve"/>
+      <point x="205" y="679" type="line"/>
+      <point x="205" y="659"/>
+      <point x="220" y="644"/>
+      <point x="240" y="644" type="curve"/>
+      <point x="305" y="644" type="line"/>
+      <point x="326" y="644"/>
+      <point x="340" y="659"/>
+      <point x="340" y="679" type="curve"/>
+      <point x="340" y="745" type="line"/>
+      <point x="340" y="766"/>
+      <point x="325" y="780"/>
+      <point x="305" y="780" type="curve"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 20:44:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="1">
+  <advance width="575"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="166" y="710"/>
+      <point x="62" y="462"/>
+      <point x="62" y="251" type="curve" smooth="yes"/>
+      <point x="62" y="84"/>
+      <point x="128" y="-10"/>
+      <point x="247" y="-10" type="curve" smooth="yes"/>
+      <point x="441" y="-10"/>
+      <point x="545" y="239"/>
+      <point x="545" y="449" type="curve" smooth="yes"/>
+      <point x="545" y="616"/>
+      <point x="479" y="710"/>
+      <point x="361" y="710" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="402" y="634"/>
+      <point x="438" y="597"/>
+      <point x="452" y="528" type="curve"/>
+      <point x="147" y="264" type="line"/>
+      <point x="149" y="412"/>
+      <point x="218" y="634"/>
+      <point x="349" y="634" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="206" y="67"/>
+      <point x="170" y="104"/>
+      <point x="155" y="174" type="curve"/>
+      <point x="460" y="438" type="line"/>
+      <point x="458" y="289"/>
+      <point x="390" y="67"/>
+      <point x="259" y="67" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 20:50:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

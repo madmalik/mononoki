@@ -1,0 +1,10 @@
+@hex_digit_decorated = [ zero.hex one.hex two.hex three.hex four.hex five.hex six.hex seven.hex eight.hex nine.hex a.hex b.hex c.hex d.hex e.hex f.hex A.hex B.hex C.hex D.hex E.hex F.hex ];
+
+@hex_digit = [ zero one two three four five six seven eight nine a b c d e f A B C D E F ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn CAT;
+

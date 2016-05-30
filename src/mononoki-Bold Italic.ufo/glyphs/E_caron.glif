@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="1">
+  <advance width="575"/>
+  <unicode hex="011A"/>
+  <outline>
+    <component base="E"/>
+    <component base="caron" yOffset="200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 15:51:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

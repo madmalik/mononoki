@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="575"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="110" y="434" type="line"/>
+      <point x="90" y="434"/>
+      <point x="75" y="419"/>
+      <point x="75" y="399" type="curve"/>
+      <point x="75" y="372" type="line"/>
+      <point x="75" y="352"/>
+      <point x="90" y="337"/>
+      <point x="110" y="337" type="curve"/>
+      <point x="395" y="337" type="line"/>
+      <point x="395" y="160" type="line"/>
+      <point x="395" y="140"/>
+      <point x="410" y="125"/>
+      <point x="430" y="125" type="curve"/>
+      <point x="465" y="125" type="line"/>
+      <point x="486" y="125"/>
+      <point x="500" y="140"/>
+      <point x="500" y="160" type="curve"/>
+      <point x="500" y="399" type="line"/>
+      <point x="500" y="419"/>
+      <point x="485" y="434"/>
+      <point x="465" y="434" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 14:15:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

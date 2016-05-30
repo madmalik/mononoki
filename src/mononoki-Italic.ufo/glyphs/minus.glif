@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="1">
+  <advance width="575"/>
+  <unicode hex="2212"/>
+  <outline>
+    <component base="hyphen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 14:16:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

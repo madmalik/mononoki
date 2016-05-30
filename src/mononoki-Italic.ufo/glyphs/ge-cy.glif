@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy" format="1">
+  <advance width="575"/>
+  <unicode hex="0433"/>
+  <outline>
+    <contour>
+      <point x="513" y="423"/>
+      <point x="523" y="432"/>
+      <point x="526" y="448" type="curve" smooth="yes"/>
+      <point x="531" y="475" type="line" smooth="yes"/>
+      <point x="534" y="491"/>
+      <point x="526" y="500"/>
+      <point x="510" y="500" type="curve" smooth="yes"/>
+      <point x="150" y="500" type="line" smooth="yes"/>
+      <point x="134" y="500"/>
+      <point x="123" y="491"/>
+      <point x="121" y="475" type="curve" smooth="yes"/>
+      <point x="49" y="25" type="line" smooth="yes"/>
+      <point x="47" y="9"/>
+      <point x="54" y="0"/>
+      <point x="70" y="0" type="curve" smooth="yes"/>
+      <point x="105" y="0" type="line" smooth="yes"/>
+      <point x="122" y="0"/>
+      <point x="132" y="8"/>
+      <point x="134" y="25" type="curve" smooth="yes"/>
+      <point x="197" y="423" type="line"/>
+      <point x="497" y="423" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="328" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="515" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-29 16:25:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

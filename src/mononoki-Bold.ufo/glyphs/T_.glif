@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="575"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="564" y="685" type="line"/>
+      <point x="564" y="706"/>
+      <point x="549" y="720"/>
+      <point x="529" y="720" type="curve"/>
+      <point x="47" y="720" type="line"/>
+      <point x="26" y="720"/>
+      <point x="12" y="705"/>
+      <point x="12" y="685" type="curve"/>
+      <point x="12" y="659" type="line"/>
+      <point x="12" y="639"/>
+      <point x="26" y="624"/>
+      <point x="46" y="624" type="curve"/>
+      <point x="235" y="624" type="line"/>
+      <point x="235" y="35" type="line"/>
+      <point x="235" y="15"/>
+      <point x="250" y="0"/>
+      <point x="270" y="0" type="curve"/>
+      <point x="305" y="0" type="line"/>
+      <point x="326" y="0"/>
+      <point x="340" y="15"/>
+      <point x="340" y="35" type="curve"/>
+      <point x="340" y="624" type="line"/>
+      <point x="529" y="624" type="line"/>
+      <point x="549" y="624"/>
+      <point x="564" y="639"/>
+      <point x="564" y="659" type="curve"/>
+    </contour>
+    <contour>
+      <point x="288" y="350" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="288" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="288" y="700" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 20:41:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

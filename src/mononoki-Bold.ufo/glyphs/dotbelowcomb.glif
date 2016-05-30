@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="575"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="200" y="-169" type="line" smooth="yes"/>
+      <point x="200" y="-190"/>
+      <point x="214" y="-204"/>
+      <point x="235" y="-204" type="curve" smooth="yes"/>
+      <point x="340" y="-204" type="line" smooth="yes"/>
+      <point x="362" y="-204"/>
+      <point x="375" y="-191"/>
+      <point x="375" y="-169" type="curve" smooth="yes"/>
+      <point x="375" y="-81" type="line" smooth="yes"/>
+      <point x="375" y="-59"/>
+      <point x="362" y="-46"/>
+      <point x="340" y="-46" type="curve" smooth="yes"/>
+      <point x="235" y="-46" type="line" smooth="yes"/>
+      <point x="214" y="-46"/>
+      <point x="200" y="-60"/>
+      <point x="200" y="-81" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 14:33:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

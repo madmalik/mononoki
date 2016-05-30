@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="575"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="-10" y="-62" type="line"/>
+      <point x="-13" y="-82"/>
+      <point x="-1" y="-97"/>
+      <point x="19" y="-97" type="curve"/>
+      <point x="442" y="-97" type="line"/>
+      <point x="463" y="-97"/>
+      <point x="480" y="-82"/>
+      <point x="483" y="-62" type="curve"/>
+      <point x="487" y="-35" type="line"/>
+      <point x="490" y="-15"/>
+      <point x="478" y="0"/>
+      <point x="458" y="0" type="curve"/>
+      <point x="35" y="0" type="line"/>
+      <point x="15" y="0"/>
+      <point x="-3" y="-15"/>
+      <point x="-6" y="-35" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-23 09:18:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

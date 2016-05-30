@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="575"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="96" y="-92"/>
+      <point x="84" y="-110"/>
+      <point x="89" y="-130" type="curve"/>
+      <point x="95" y="-158" type="line"/>
+      <point x="99" y="-179"/>
+      <point x="117" y="-188"/>
+      <point x="137" y="-185" type="curve"/>
+      <point x="347" y="-142"/>
+      <point x="495" y="43"/>
+      <point x="495" y="285" type="curve"/>
+      <point x="495" y="527"/>
+      <point x="347" y="712"/>
+      <point x="137" y="755" type="curve"/>
+      <point x="117" y="758"/>
+      <point x="99" y="749"/>
+      <point x="95" y="728" type="curve"/>
+      <point x="89" y="700" type="line"/>
+      <point x="84" y="680"/>
+      <point x="96" y="662"/>
+      <point x="116" y="658" type="curve"/>
+      <point x="274" y="626"/>
+      <point x="389" y="481"/>
+      <point x="389" y="285" type="curve"/>
+      <point x="389" y="89"/>
+      <point x="274" y="-56"/>
+      <point x="116" y="-88" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-19 19:22:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

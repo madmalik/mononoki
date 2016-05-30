@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.numr" format="1">
+  <advance width="250"/>
+  <outline>
+    <component base="six.dnom" xOffset="63" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-22 17:09:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>six.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>six.dnom</string>
+    </dict>
+  </lib>
+</glyph>

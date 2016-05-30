@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="575"/>
+  <unicode hex="0039"/>
+  <outline>
+    <component base="six" xOffset="573" yOffset="714" xScale="-1" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 13:03:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

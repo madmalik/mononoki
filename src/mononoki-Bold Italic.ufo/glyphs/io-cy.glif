@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="io-cy" format="1">
+  <advance width="575"/>
+  <unicode hex="0451"/>
+  <outline>
+    <component base="ie-cy"/>
+    <component base="dieresis" xOffset="1" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-29 16:27:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

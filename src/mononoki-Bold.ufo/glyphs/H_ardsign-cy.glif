@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardsign-cy" format="1">
+  <advance width="575"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="220" y="96" type="line"/>
+      <point x="220" y="344" type="line"/>
+      <point x="265" y="344" type="line" smooth="yes"/>
+      <point x="375" y="344"/>
+      <point x="432" y="301"/>
+      <point x="432" y="220" type="curve" smooth="yes"/>
+      <point x="432" y="140"/>
+      <point x="374" y="96"/>
+      <point x="265" y="96" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="220" y="440" type="line"/>
+      <point x="221" y="684" type="line" smooth="yes"/>
+      <point x="221" y="704"/>
+      <point x="205" y="720"/>
+      <point x="185" y="720" type="curve" smooth="yes"/>
+      <point x="45" y="720" type="line" smooth="yes"/>
+      <point x="24" y="720"/>
+      <point x="10" y="706"/>
+      <point x="10" y="685" type="curve" smooth="yes"/>
+      <point x="10" y="658" type="line" smooth="yes"/>
+      <point x="10" y="637"/>
+      <point x="24" y="623"/>
+      <point x="45" y="623" type="curve" smooth="yes"/>
+      <point x="115" y="623" type="line"/>
+      <point x="115" y="35" type="line" smooth="yes"/>
+      <point x="115" y="14"/>
+      <point x="129" y="0"/>
+      <point x="150" y="0" type="curve" smooth="yes"/>
+      <point x="265" y="0" type="line" smooth="yes"/>
+      <point x="434" y="0"/>
+      <point x="537" y="83"/>
+      <point x="537" y="220" type="curve" smooth="yes"/>
+      <point x="537" y="357"/>
+      <point x="435" y="440"/>
+      <point x="265" y="440" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-30 10:12:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

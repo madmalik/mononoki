@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="575"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="180" y="685" type="line"/>
+      <point x="180" y="706"/>
+      <point x="166" y="720"/>
+      <point x="145" y="720" type="curve" smooth="yes"/>
+      <point x="110" y="720" type="line" smooth="yes"/>
+      <point x="89" y="720"/>
+      <point x="75" y="706"/>
+      <point x="75" y="685" type="curve" smooth="yes"/>
+      <point x="75" y="35" type="line" smooth="yes"/>
+      <point x="75" y="14"/>
+      <point x="89" y="0"/>
+      <point x="110" y="0" type="curve" smooth="yes"/>
+      <point x="145" y="0" type="line" smooth="yes"/>
+      <point x="166" y="0"/>
+      <point x="180" y="14"/>
+      <point x="180" y="35" type="curve" smooth="yes"/>
+      <point x="180" y="125" type="line"/>
+      <point x="213" y="122"/>
+      <point x="241" y="121"/>
+      <point x="259" y="121" type="curve" smooth="yes"/>
+      <point x="430" y="121"/>
+      <point x="500" y="200"/>
+      <point x="500" y="392" type="curve" smooth="yes"/>
+      <point x="500" y="583"/>
+      <point x="430" y="662"/>
+      <point x="259" y="662" type="curve" smooth="yes"/>
+      <point x="239" y="662"/>
+      <point x="212" y="661"/>
+      <point x="180" y="658" type="curve"/>
+    </contour>
+    <contour>
+      <point x="180" y="563" type="line"/>
+      <point x="214" y="565"/>
+      <point x="242" y="565"/>
+      <point x="259" y="565" type="curve" smooth="yes"/>
+      <point x="363" y="565"/>
+      <point x="395" y="524"/>
+      <point x="395" y="392" type="curve" smooth="yes"/>
+      <point x="395" y="259"/>
+      <point x="363" y="218"/>
+      <point x="259" y="218" type="curve" smooth="yes"/>
+      <point x="241" y="218"/>
+      <point x="213" y="219"/>
+      <point x="180" y="221" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 20:30:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="575"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="351" y="770" type="line"/>
+      <point x="331" y="770"/>
+      <point x="313" y="755"/>
+      <point x="310" y="735" type="curve"/>
+      <point x="171" y="-143" type="line"/>
+      <point x="168" y="-164"/>
+      <point x="181" y="-178"/>
+      <point x="201" y="-178" type="curve"/>
+      <point x="236" y="-178" type="line"/>
+      <point x="257" y="-178"/>
+      <point x="273" y="-163"/>
+      <point x="276" y="-143" type="curve"/>
+      <point x="415" y="735" type="line"/>
+      <point x="419" y="756"/>
+      <point x="406" y="770"/>
+      <point x="386" y="770" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 16:32:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

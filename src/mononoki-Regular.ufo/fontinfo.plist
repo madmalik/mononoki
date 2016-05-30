@@ -6,8 +6,6 @@
 	<integer>750</integer>
 	<key>capHeight</key>
 	<integer>700</integer>
-	<key>copyright</key>
-	<string>Copyright © 2015 by Matthias Tellen. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
@@ -15,7 +13,7 @@
 	<key>isFixedPitch</key>
 	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2015/12/25 17:43:02</string>
+	<string>2016/05/30 11:02:42</string>
 	<key>openTypeNameDesigner</key>
 	<string>Matthias Tellen</string>
 	<key>openTypeNamePreferredFamilyName</key>
@@ -61,9 +59,9 @@
 	<key>unitsPerEm</key>
 	<integer>1024</integer>
 	<key>versionMajor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>9</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>

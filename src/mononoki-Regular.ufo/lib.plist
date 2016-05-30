@@ -14,7 +14,7 @@
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
-	<false/>
+	<true/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
@@ -33,7 +33,7 @@
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
@@ -422,6 +422,7 @@
 		<string>seven.hex</string>
 		<string>eight.hex</string>
 		<string>nine.hex</string>
+		<string>fraction</string>
 		<string>onefraction</string>
 		<string>onehalf</string>
 		<string>zerothird</string>
@@ -462,7 +463,6 @@
 		<string>seven.numr</string>
 		<string>eight.numr</string>
 		<string>nine.numr</string>
-		<string>fraction</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>

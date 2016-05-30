@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="575"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="260" y="720" type="line"/>
+      <point x="240" y="720"/>
+      <point x="225" y="705"/>
+      <point x="225" y="685" type="curve"/>
+      <point x="236" y="240" type="line"/>
+      <point x="236" y="220"/>
+      <point x="251" y="205"/>
+      <point x="271" y="205" type="curve"/>
+      <point x="304" y="205" type="line"/>
+      <point x="324" y="205"/>
+      <point x="340" y="220"/>
+      <point x="340" y="240" type="curve"/>
+      <point x="350" y="685" type="line"/>
+      <point x="350" y="705"/>
+      <point x="336" y="720"/>
+      <point x="315" y="720" type="curve"/>
+    </contour>
+    <contour>
+      <point x="340" y="72" type="line"/>
+      <point x="340" y="92"/>
+      <point x="326" y="107"/>
+      <point x="305" y="107" type="curve"/>
+      <point x="270" y="107" type="line"/>
+      <point x="250" y="107"/>
+      <point x="235" y="92"/>
+      <point x="235" y="72" type="curve"/>
+      <point x="235" y="25" type="line"/>
+      <point x="235" y="4"/>
+      <point x="250" y="-10"/>
+      <point x="270" y="-10" type="curve"/>
+      <point x="305" y="-10" type="line"/>
+      <point x="326" y="-10"/>
+      <point x="340" y="4"/>
+      <point x="340" y="25" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-14 11:57:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

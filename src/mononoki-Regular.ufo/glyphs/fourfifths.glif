@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourfifths" format="1">
-  <advance width="575"/>
+  <advance width="567"/>
   <unicode hex="2158"/>
   <outline>
     <component base="four.numr"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 14:36:40 +0000</string>
+      <string>2016-05-30 09:30:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>four.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

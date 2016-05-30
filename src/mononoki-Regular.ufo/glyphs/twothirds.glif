@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twothirds" format="1">
-  <advance width="575"/>
+  <advance width="563"/>
   <unicode hex="2154"/>
   <outline>
     <component base="two.numr"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 14:36:16 +0000</string>
+      <string>2016-05-30 09:30:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>two.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

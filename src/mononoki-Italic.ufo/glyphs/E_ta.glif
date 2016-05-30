@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="1">
+  <advance width="575"/>
+  <unicode hex="0397"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-23 16:24:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>
