@@ -85,11 +85,16 @@ a:hover {
 
 .headline {
 	text-align: center;
+  color: #cb4b16; 
+  margin-bottom: 48px;
 }
 
-.headline .asciiart {	
-	white-space: pre;
-	text-align: left;
+h1 {	
+  line-height: 64px;
+  margin-bottom: 16px;
+  font-weight: normal;
+  font-size: 96px;
+	text-align: center;
 	color: #cb4b16; 
 }
 
@@ -189,6 +194,9 @@ a:hover {
 	font-size: 400%;
 }
 
+.align-center {
+  text-align: center;
+}
 
 .align-right {
 	text-align: right;
