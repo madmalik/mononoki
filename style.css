@@ -194,8 +194,9 @@ h1 {
 	font-size: 400%;
 }
 
-.align-center {
+.donation {
   text-align: center;
+  margin-bottom: 32px;
 }
 
 .align-right {
