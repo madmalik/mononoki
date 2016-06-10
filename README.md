@@ -15,4 +15,4 @@ if you prefer the predecessor to mononoki, please look into the branch monoOne
 
 ##credit
 
-Box drawing characters created with [https://github.com/adobe-type-tools/box-drawing](box-drawing)
+Box drawing characters created with [box drawing](https://github.com/adobe-type-tools/box-drawing)
