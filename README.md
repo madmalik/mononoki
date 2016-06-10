@@ -11,3 +11,8 @@ for a closer look [http://madmalik.github.io/mononoki/](http://madmalik.github.i
 
 ##old version
 if you prefer the predecessor to mononoki, please look into the branch monoOne
+
+
+##credit
+
+Box drawing characters created with [https://github.com/adobe-type-tools/box-drawing](box-drawing)
