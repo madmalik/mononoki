@@ -7,7 +7,7 @@
       <point x="486" y="57" type="line"/>
       <point x="480" y="72"/>
       <point x="470" y="77"/>
-      <point x="454" y="74" type="curve" smooth="yes"/>
+      <point x="454" y="74" type="curve"/>
       <point x="429" y="68"/>
       <point x="405" y="67"/>
       <point x="389" y="67" type="curve" smooth="yes"/>
@@ -36,9 +36,26 @@
       <point x="477" y="0" type="curve" smooth="yes"/>
       <point x="494" y="4"/>
       <point x="500" y="16"/>
-      <point x="494" y="31" type="curve" smooth="yes"/>
+      <point x="494" y="31" type="curve"/>
     </contour>
-    <component base="periodcentered" xOffset="170" yOffset="10"/>
+    <contour>
+      <point x="500" y="284" type="line" smooth="yes"/>
+      <point x="500" y="300"/>
+      <point x="492" y="309"/>
+      <point x="475" y="309" type="curve" smooth="yes"/>
+      <point x="440" y="309" type="line" smooth="yes"/>
+      <point x="424" y="309"/>
+      <point x="415" y="300"/>
+      <point x="415" y="283" type="curve" smooth="yes"/>
+      <point x="415" y="237" type="line" smooth="yes"/>
+      <point x="415" y="221"/>
+      <point x="424" y="212"/>
+      <point x="440" y="212" type="curve" smooth="yes"/>
+      <point x="475" y="212" type="line" smooth="yes"/>
+      <point x="492" y="212"/>
+      <point x="500" y="221"/>
+      <point x="500" y="237" type="curve" smooth="yes"/>
+    </contour>
     <contour>
       <point x="328" y="699" type="move" name="top"/>
     </contour>
@@ -52,7 +69,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-23 18:06:35 +0000</string>
+      <string>2016-06-09 18:35:33 +0000</string>
     </dict>
   </lib>
 </glyph>

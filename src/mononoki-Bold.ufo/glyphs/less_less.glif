@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_less" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="less"/>
+    <component base="less"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-06-09 18:31:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

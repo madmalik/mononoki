@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04EE" format="1">
+  <advance width="575"/>
+  <unicode hex="04EE"/>
+  <outline>
+    <component base="uni0423"/>
+    <component base="macron" xOffset="31" yOffset="200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-29 16:25:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

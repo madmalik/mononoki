@@ -5,6 +5,11 @@
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
-languagesystem latn dflt;
-languagesystem latn CAT;
+
+feature aalt {
+# automatic
+feature locl;
+feature frac;
+feature ordn;
+} aalt;
 

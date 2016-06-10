@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2159" format="1">
+  <advance width="579"/>
+  <unicode hex="2159"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="250"/>
+    <component base="six.dnom" xOffset="325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-30 09:30:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.numr</string>
+    </dict>
+  </lib>
+</glyph>

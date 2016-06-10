@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar_bar" format="1">
+  <advance width="1150"/>
+  <outline>
+    <component base="bar" xOffset="490"/>
+    <component base="bar" xOffset="85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-06-09 18:31:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

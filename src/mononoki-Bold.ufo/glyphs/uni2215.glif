@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2215" format="1">
+  <advance width="575"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="75" y="225" type="line"/>
+      <point x="61" y="211"/>
+      <point x="61" y="192"/>
+      <point x="75" y="178" type="curve"/>
+      <point x="98" y="155" type="line"/>
+      <point x="112" y="141"/>
+      <point x="131" y="141"/>
+      <point x="145" y="155" type="curve"/>
+      <point x="499" y="509" type="line"/>
+      <point x="513" y="523"/>
+      <point x="513" y="542"/>
+      <point x="499" y="556" type="curve"/>
+      <point x="476" y="579" type="line"/>
+      <point x="463" y="593"/>
+      <point x="443" y="593"/>
+      <point x="429" y="579" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 14:37:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

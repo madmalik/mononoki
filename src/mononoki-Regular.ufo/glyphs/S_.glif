@@ -25,7 +25,7 @@
       <point x="255" y="69" type="curve" smooth="yes"/>
       <point x="221" y="69"/>
       <point x="169" y="75"/>
-      <point x="130" y="91" type="curve"/>
+      <point x="130" y="91" type="curve" smooth="yes"/>
       <point x="115" y="97"/>
       <point x="104" y="92"/>
       <point x="98" y="77" type="curve" smooth="yes"/>
@@ -65,7 +65,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 20:41:23 +0000</string>
+      <string>2016-06-09 18:35:33 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Regular Dec 14 13, 11:16</key>

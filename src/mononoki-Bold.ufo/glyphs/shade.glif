@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shade" format="1">
+  <advance width="575"/>
+  <unicode hex="2592"/>
+  <outline>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="28" y="-250" type="line"/>
+      <point x="0" y="-194" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="-250" type="line"/>
+      <point x="171" y="-250" type="line"/>
+      <point x="0" y="92" type="line"/>
+      <point x="0" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="-250" type="line"/>
+      <point x="314" y="-250" type="line"/>
+      <point x="0" y="378" type="line"/>
+      <point x="0" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="-250" type="line"/>
+      <point x="457" y="-250" type="line"/>
+      <point x="0" y="664" type="line"/>
+      <point x="0" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="-250" type="line"/>
+      <point x="575" y="-194" type="line"/>
+      <point x="28" y="900" type="line"/>
+      <point x="0" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="36" type="line"/>
+      <point x="575" y="92" type="line"/>
+      <point x="171" y="900" type="line"/>
+      <point x="143" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="322" type="line"/>
+      <point x="575" y="378" type="line"/>
+      <point x="314" y="900" type="line"/>
+      <point x="286" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="608" type="line"/>
+      <point x="575" y="664" type="line"/>
+      <point x="457" y="900" type="line"/>
+      <point x="429" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-06-10 08:26:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

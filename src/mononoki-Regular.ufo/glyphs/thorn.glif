@@ -4,7 +4,7 @@
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="170" y="676" type="line"/>
+      <point x="170" y="676" type="line" smooth="yes"/>
       <point x="170" y="693"/>
       <point x="161" y="700"/>
       <point x="144" y="700" type="curve" smooth="yes"/>
@@ -59,7 +59,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 11:51:42 +0000</string>
+      <string>2016-06-09 18:35:34 +0000</string>
     </dict>
   </lib>
 </glyph>

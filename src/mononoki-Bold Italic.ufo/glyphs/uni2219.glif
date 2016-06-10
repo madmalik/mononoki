@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2219" format="1">
+  <advance width="575"/>
+  <unicode hex="2219"/>
+  <outline>
+    <component base="bullet" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-22 14:06:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

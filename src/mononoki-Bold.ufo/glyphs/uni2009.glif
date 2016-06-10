@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2009" format="1">
+  <advance width="575"/>
+  <unicode hex="2009"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-22 18:19:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>
