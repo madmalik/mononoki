@@ -199,6 +199,10 @@ h1 {
   margin-bottom: 32px;
 }
 
+.small-headline {
+  margin-bottom: 1.3em;
+}
+
 .align-right {
 	text-align: right;
 }
