@@ -37,7 +37,6 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature frac;\012feature ordn;\012";
 name = aalt;
 }
 );

@@ -8,8 +8,5 @@ languagesystem DFLT dflt;
 
 feature aalt {
 # automatic
-feature locl;
-feature frac;
-feature ordn;
 } aalt;
 
