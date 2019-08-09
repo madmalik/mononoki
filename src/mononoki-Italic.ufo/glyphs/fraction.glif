@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="1">
-  <advance width="75"/>
+  <advance width="575"/>
   <unicode hex="2044"/>
   <outline>
     <component base="uni2215" xOffset="-250" yOffset="15"/>

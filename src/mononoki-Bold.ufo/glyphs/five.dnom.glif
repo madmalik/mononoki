@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five.dnom" format="1">
-  <advance width="250"/>
+  <advance width="575"/>
   <outline>
     <contour>
       <point x="107" y="216" type="line"/>
