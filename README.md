@@ -4,7 +4,7 @@
 for a closer look [http://madmalik.github.io/mononoki/](http://madmalik.github.io/mononoki/)
 
 ## installation
-[download mononoki.zip](https://github.com/madmalik/mononoki/releases/download/1.2/mononoki.zip) and unpack it
+[download mononoki.zip](https://github.com/madmalik/mononoki/releases/download/1.3/mononoki.zip) and unpack it
 * [OS X](http://support.apple.com/kb/HT2509)
 * [Windows](http://windows.microsoft.com/en-us/windows-vista/install-or-uninstall-fonts)
 * Linux/Unix - distro dependent, i hope you know how to install it
