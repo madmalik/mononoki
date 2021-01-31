@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2158" format="1">
-  <advance width="567"/>
+  <advance width="575"/>
   <unicode hex="2158"/>
   <outline>
     <component base="four.numr"/>

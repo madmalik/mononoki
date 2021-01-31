@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.dnom" format="1">
-  <advance width="250"/>
+  <advance width="575"/>
   <outline>
     <contour>
       <point x="50" y="316" type="line" smooth="yes"/>
