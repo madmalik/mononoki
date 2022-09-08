@@ -4,7 +4,8 @@ DisplayStrings = (
 "/dcaron",
 "/rightanglebracket-math",
 "ß",
-"/uni1E9E"
+"/uni1E9E",
+"/Dcroat"
 );
 classes = (
 {
@@ -3175,7 +3176,7 @@ unicode = 010E;
 },
 {
 glyphname = Dcroat;
-lastChange = "2015-12-22 14:40:07 +0000";
+lastChange = "2022-09-08 16:13:29 +0000";
 layers = (
 {
 components = (
@@ -3184,7 +3185,7 @@ name = D;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 0, 200}";
+transform = "{1, 0, 0, 1, -100, -300}";
 }
 );
 layerId = "A14B1AE3-86D5-4EA7-AE2F-7B4FA04DAB2E";
@@ -3197,7 +3198,7 @@ name = D;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 0, 200}";
+transform = "{1, 0, 0, 1, -100, -300}";
 }
 );
 layerId = "FB732A47-0020-4E5B-B7FA-72B1D79E8828";
@@ -3210,7 +3211,7 @@ name = D;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 0, 200}";
+transform = "{1, 0, 0, 1, -200, -300}";
 }
 );
 layerId = "8A9476DE-11F4-4864-A7B4-14D9B7165FAE";
@@ -3224,6 +3225,10 @@ name = D;
 {
 name = macron;
 transform = "{1, 0, 0, 1, 0, 200}";
+},
+{
+name = macron;
+transform = "{1, 0, 0, 1, -200, -300}";
 }
 );
 layerId = "C492240F-DFB2-48B7-8D1C-81E7E6E3599E";
