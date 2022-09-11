@@ -1,12 +1,6 @@
 {
 .appVersion = "3133";
 DisplayStrings = (
-"/dcaron",
-"/rightanglebracket-math",
-"ßkK/space",
-"/uni1E9E",
-"/Dcroat",
-ykK,
 xkXK
 );
 classes = (
@@ -147201,5 +147195,5 @@ HV = 240;
 };
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
