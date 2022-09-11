@@ -1,61 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six.dnom" format="1">
-  <advance width="250"/>
-  <outline>
-    <contour>
-      <point x="244" y="334" type="line"/>
-      <point x="247" y="345"/>
-      <point x="243" y="359"/>
-      <point x="228" y="361" type="curve"/>
-      <point x="213" y="364"/>
-      <point x="197" y="365"/>
-      <point x="182" y="365" type="curve" smooth="yes"/>
-      <point x="101" y="365"/>
-      <point x="26" y="315"/>
-      <point x="0" y="150" type="curve" smooth="yes"/>
-      <point x="-16" y="45"/>
-      <point x="18" y="-15"/>
-      <point x="101" y="-15" type="curve" smooth="yes"/>
-      <point x="177" y="-15"/>
-      <point x="226" y="29"/>
-      <point x="238" y="103" type="curve" smooth="yes"/>
-      <point x="248" y="167"/>
-      <point x="211" y="210"/>
-      <point x="146" y="210" type="curve" smooth="yes"/>
-      <point x="124" y="210"/>
-      <point x="100" y="206"/>
-      <point x="77" y="200" type="curve"/>
-      <point x="99" y="286"/>
-      <point x="132" y="306"/>
-      <point x="173" y="306" type="curve" smooth="yes"/>
-      <point x="184" y="306"/>
-      <point x="194" y="305"/>
-      <point x="207" y="303" type="curve"/>
-      <point x="220" y="300"/>
-      <point x="234" y="310"/>
-      <point x="239" y="319" type="curve"/>
-    </contour>
-    <contour>
-      <point x="73" y="44"/>
-      <point x="56" y="68"/>
-      <point x="65" y="137" type="curve"/>
-      <point x="93" y="146"/>
-      <point x="115" y="151"/>
-      <point x="136" y="151" type="curve" smooth="yes"/>
-      <point x="162" y="151"/>
-      <point x="175" y="133"/>
-      <point x="171" y="103" type="curve" smooth="yes"/>
-      <point x="164" y="58"/>
-      <point x="148" y="44"/>
-      <point x="110" y="44" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:06:37 +0000</string>
-    </dict>
-  </lib>
+<glyph name="six.dnom" format="2">
+	<advance width="575"/>
+	<outline>
+		<contour>
+			<point x="249" y="-5" type="curve" smooth="yes"/>
+			<point x="237" y="-5"/>
+			<point x="185" y="-5"/>
+			<point x="132" y="-20" type="curve"/>
+			<point x="150" y="58"/>
+			<point x="198" y="86"/>
+			<point x="267" y="86" type="curve" smooth="yes"/>
+			<point x="299" y="86"/>
+			<point x="336" y="80"/>
+			<point x="376" y="70" type="curve" smooth="yes"/>
+			<point x="391" y="66"/>
+			<point x="403" y="75"/>
+			<point x="409" y="90" type="curve" smooth="yes"/>
+			<point x="419" y="117" type="line" smooth="yes"/>
+			<point x="425" y="133"/>
+			<point x="420" y="143"/>
+			<point x="405" y="146" type="curve" smooth="yes"/>
+			<point x="359" y="155"/>
+			<point x="317" y="160"/>
+			<point x="278" y="160" type="curve" smooth="yes"/>
+			<point x="153" y="160"/>
+			<point x="70" y="104"/>
+			<point x="38" y="-60" type="curve" smooth="yes"/>
+			<point x="10" y="-205"/>
+			<point x="54" y="-260"/>
+			<point x="189" y="-260" type="curve" smooth="yes"/>
+			<point x="309" y="-260"/>
+			<point x="386" y="-211"/>
+			<point x="402" y="-129" type="curve" smooth="yes"/>
+			<point x="417" y="-53"/>
+			<point x="370" y="-5"/>
+		</contour>
+		<contour>
+			<point x="204" y="-182" type="curve" smooth="yes"/>
+			<point x="127" y="-182"/>
+			<point x="107" y="-167"/>
+			<point x="120" y="-81" type="curve"/>
+			<point x="217" y="-81" type="line" smooth="yes"/>
+			<point x="299" y="-81"/>
+			<point x="324" y="-96"/>
+			<point x="317" y="-129" type="curve" smooth="yes"/>
+			<point x="311" y="-161"/>
+			<point x="281" y="-182"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
 </glyph>

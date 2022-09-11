@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2508" format="1">
-  <advance width="575"/>
-  <unicode hex="2508"/>
-  <outline>
-    <contour>
-      <point x="17" y="304" type="line"/>
-      <point x="125" y="304" type="line"/>
-      <point x="125" y="346" type="line"/>
-      <point x="17" y="346" type="line"/>
-    </contour>
-    <contour>
-      <point x="160" y="304" type="line"/>
-      <point x="268" y="304" type="line"/>
-      <point x="268" y="346" type="line"/>
-      <point x="160" y="346" type="line"/>
-    </contour>
-    <contour>
-      <point x="303" y="304" type="line"/>
-      <point x="411" y="304" type="line"/>
-      <point x="411" y="346" type="line"/>
-      <point x="303" y="346" type="line"/>
-    </contour>
-    <contour>
-      <point x="446" y="304" type="line"/>
-      <point x="554" y="304" type="line"/>
-      <point x="554" y="346" type="line"/>
-      <point x="446" y="346" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-10 08:26:49 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni2508" format="2">
+	<advance width="575"/>
+	<unicode hex="2508"/>
+	<outline>
+		<contour>
+			<point x="17" y="346" type="line"/>
+			<point x="17" y="304" type="line"/>
+			<point x="125" y="304" type="line"/>
+			<point x="125" y="346" type="line"/>
+		</contour>
+		<contour>
+			<point x="160" y="346" type="line"/>
+			<point x="160" y="304" type="line"/>
+			<point x="268" y="304" type="line"/>
+			<point x="268" y="346" type="line"/>
+		</contour>
+		<contour>
+			<point x="303" y="346" type="line"/>
+			<point x="303" y="304" type="line"/>
+			<point x="411" y="304" type="line"/>
+			<point x="411" y="346" type="line"/>
+		</contour>
+		<contour>
+			<point x="446" y="346" type="line"/>
+			<point x="446" y="304" type="line"/>
+			<point x="554" y="304" type="line"/>
+			<point x="554" y="346" type="line"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ubreve" format="1">
-  <advance width="575"/>
-  <unicode hex="016C"/>
-  <outline>
-    <component base="U"/>
-    <component base="breve" xOffset="33" yOffset="220"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-30 08:31:51 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Ubreve" format="2">
+	<advance width="575"/>
+	<unicode hex="016C"/>
+	<outline>
+		<component base="U"/>
+		<component base="breve" xOffset="33" yOffset="220"/>
+	</outline>
 </glyph>

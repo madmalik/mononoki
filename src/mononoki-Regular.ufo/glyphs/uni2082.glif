@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2082" format="2">
+	<advance width="575"/>
+	<unicode hex="2082"/>
+	<outline>
+		<component base="two.dnom"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>two</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>two</string>
+		</dict>
+	</lib>
+</glyph>

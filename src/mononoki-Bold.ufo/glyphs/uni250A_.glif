@@ -1,43 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni250A" format="1">
-  <advance width="575"/>
-  <unicode hex="250A"/>
-  <outline>
-    <contour>
-      <point x="266" y="-215" type="line"/>
-      <point x="308" y="-215" type="line"/>
-      <point x="308" y="1" type="line"/>
-      <point x="266" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="72" type="line"/>
-      <point x="308" y="72" type="line"/>
-      <point x="308" y="288" type="line"/>
-      <point x="266" y="288" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="359" type="line"/>
-      <point x="308" y="359" type="line"/>
-      <point x="308" y="575" type="line"/>
-      <point x="266" y="575" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="646" type="line"/>
-      <point x="308" y="646" type="line"/>
-      <point x="308" y="862" type="line"/>
-      <point x="266" y="862" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="933" type="line"/>
-      <point x="308" y="933" type="line"/>
-      <point x="308" y="1149" type="line"/>
-      <point x="266" y="1149" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-10 08:26:49 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni250A" format="2">
+	<advance width="575"/>
+	<unicode hex="250A"/>
+	<outline>
+		<contour>
+			<point x="266" y="1" type="line"/>
+			<point x="266" y="-215" type="line"/>
+			<point x="308" y="-215" type="line"/>
+			<point x="308" y="1" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="288" type="line"/>
+			<point x="266" y="72" type="line"/>
+			<point x="308" y="72" type="line"/>
+			<point x="308" y="288" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="575" type="line"/>
+			<point x="266" y="359" type="line"/>
+			<point x="308" y="359" type="line"/>
+			<point x="308" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="862" type="line"/>
+			<point x="266" y="646" type="line"/>
+			<point x="308" y="646" type="line"/>
+			<point x="308" y="862" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="1149" type="line"/>
+			<point x="266" y="933" type="line"/>
+			<point x="308" y="933" type="line"/>
+			<point x="308" y="1149" type="line"/>
+		</contour>
+	</outline>
 </glyph>

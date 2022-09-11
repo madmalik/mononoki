@@ -1,41 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bracketright" format="1">
-  <advance width="575"/>
-  <unicode hex="005D"/>
-  <outline>
-    <contour>
-      <point x="105" y="770" type="line"/>
-      <point x="85" y="770"/>
-      <point x="70" y="756"/>
-      <point x="70" y="735" type="curve"/>
-      <point x="70" y="709" type="line"/>
-      <point x="70" y="689"/>
-      <point x="85" y="674"/>
-      <point x="105" y="674" type="curve"/>
-      <point x="330" y="674" type="line"/>
-      <point x="330" y="-82" type="line"/>
-      <point x="105" y="-82" type="line"/>
-      <point x="85" y="-82"/>
-      <point x="70" y="-96"/>
-      <point x="70" y="-117" type="curve"/>
-      <point x="70" y="-143" type="line"/>
-      <point x="70" y="-164"/>
-      <point x="85" y="-178"/>
-      <point x="105" y="-178" type="curve"/>
-      <point x="400" y="-178" type="line"/>
-      <point x="421" y="-178"/>
-      <point x="435" y="-163"/>
-      <point x="435" y="-143" type="curve"/>
-      <point x="435" y="735" type="line"/>
-      <point x="435" y="756"/>
-      <point x="420" y="770"/>
-      <point x="400" y="770" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:51:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="bracketright" format="2">
+	<advance width="575"/>
+	<unicode hex="005D"/>
+	<outline>
+		<contour>
+			<point x="400" y="770" type="curve"/>
+			<point x="105" y="770" type="line"/>
+			<point x="85" y="770"/>
+			<point x="70" y="756"/>
+			<point x="70" y="735" type="curve"/>
+			<point x="70" y="709" type="line"/>
+			<point x="70" y="689"/>
+			<point x="85" y="674"/>
+			<point x="105" y="674" type="curve"/>
+			<point x="330" y="674" type="line"/>
+			<point x="330" y="-82" type="line"/>
+			<point x="105" y="-82" type="line"/>
+			<point x="85" y="-82"/>
+			<point x="70" y="-96"/>
+			<point x="70" y="-117" type="curve"/>
+			<point x="70" y="-143" type="line"/>
+			<point x="70" y="-164"/>
+			<point x="85" y="-178"/>
+			<point x="105" y="-178" type="curve"/>
+			<point x="400" y="-178" type="line"/>
+			<point x="421" y="-178"/>
+			<point x="435" y="-163"/>
+			<point x="435" y="-143" type="curve"/>
+			<point x="435" y="735" type="line"/>
+			<point x="435" y="756"/>
+			<point x="420" y="770"/>
+		</contour>
+	</outline>
 </glyph>

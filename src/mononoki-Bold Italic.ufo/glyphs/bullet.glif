@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bullet" format="1">
-  <advance width="575"/>
-  <unicode hex="2022"/>
-  <outline>
-    <contour>
-      <point x="418" y="150"/>
-      <point x="500" y="233"/>
-      <point x="500" y="335" type="curve"/>
-      <point x="500" y="437"/>
-      <point x="418" y="520"/>
-      <point x="318" y="520" type="curve"/>
-      <point x="217" y="520"/>
-      <point x="135" y="437"/>
-      <point x="135" y="335" type="curve"/>
-      <point x="135" y="233"/>
-      <point x="217" y="150"/>
-      <point x="318" y="150" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 16:32:38 +0000</string>
-    </dict>
-  </lib>
+<glyph name="bullet" format="2">
+	<advance width="575"/>
+	<unicode hex="2022"/>
+	<outline>
+		<contour>
+			<point x="318" y="150" type="curve"/>
+			<point x="418" y="150"/>
+			<point x="500" y="233"/>
+			<point x="500" y="335" type="curve"/>
+			<point x="500" y="437"/>
+			<point x="418" y="520"/>
+			<point x="318" y="520" type="curve"/>
+			<point x="217" y="520"/>
+			<point x="135" y="437"/>
+			<point x="135" y="335" type="curve"/>
+			<point x="135" y="233"/>
+			<point x="217" y="150"/>
+		</contour>
+	</outline>
 </glyph>

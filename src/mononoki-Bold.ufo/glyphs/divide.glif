@@ -1,67 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="divide" format="1">
-  <advance width="575"/>
-  <unicode hex="00F7"/>
-  <outline>
-    <contour>
-      <point x="340" y="495" type="line"/>
-      <point x="340" y="515"/>
-      <point x="326" y="530"/>
-      <point x="305" y="530" type="curve"/>
-      <point x="270" y="530" type="line"/>
-      <point x="250" y="530"/>
-      <point x="235" y="515"/>
-      <point x="235" y="495" type="curve"/>
-      <point x="235" y="449" type="line"/>
-      <point x="235" y="429"/>
-      <point x="250" y="414"/>
-      <point x="270" y="414" type="curve"/>
-      <point x="305" y="414" type="line"/>
-      <point x="326" y="414"/>
-      <point x="340" y="428"/>
-      <point x="340" y="449" type="curve"/>
-    </contour>
-    <contour>
-      <point x="340" y="72" type="line"/>
-      <point x="340" y="92"/>
-      <point x="326" y="107"/>
-      <point x="305" y="107" type="curve"/>
-      <point x="270" y="107" type="line"/>
-      <point x="250" y="107"/>
-      <point x="235" y="92"/>
-      <point x="235" y="72" type="curve"/>
-      <point x="235" y="25" type="line"/>
-      <point x="235" y="4"/>
-      <point x="250" y="-10"/>
-      <point x="270" y="-10" type="curve"/>
-      <point x="305" y="-10" type="line"/>
-      <point x="326" y="-10"/>
-      <point x="340" y="4"/>
-      <point x="340" y="25" type="curve"/>
-    </contour>
-    <contour>
-      <point x="75" y="247" type="line"/>
-      <point x="75" y="227"/>
-      <point x="90" y="212"/>
-      <point x="110" y="212" type="curve"/>
-      <point x="465" y="212" type="line"/>
-      <point x="486" y="212"/>
-      <point x="500" y="227"/>
-      <point x="500" y="247" type="curve"/>
-      <point x="500" y="274" type="line"/>
-      <point x="500" y="294"/>
-      <point x="486" y="309"/>
-      <point x="465" y="309" type="curve"/>
-      <point x="110" y="309" type="line"/>
-      <point x="90" y="309"/>
-      <point x="75" y="294"/>
-      <point x="75" y="273" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 14:06:58 +0000</string>
-    </dict>
-  </lib>
+<glyph name="divide" format="2">
+	<advance width="575"/>
+	<unicode hex="00F7"/>
+	<outline>
+		<contour>
+			<point x="340" y="449" type="curve"/>
+			<point x="340" y="495" type="line"/>
+			<point x="340" y="515"/>
+			<point x="326" y="530"/>
+			<point x="305" y="530" type="curve"/>
+			<point x="270" y="530" type="line"/>
+			<point x="250" y="530"/>
+			<point x="235" y="515"/>
+			<point x="235" y="495" type="curve"/>
+			<point x="235" y="449" type="line"/>
+			<point x="235" y="429"/>
+			<point x="250" y="414"/>
+			<point x="270" y="414" type="curve"/>
+			<point x="305" y="414" type="line"/>
+			<point x="326" y="414"/>
+			<point x="340" y="428"/>
+		</contour>
+		<contour>
+			<point x="340" y="25" type="curve"/>
+			<point x="340" y="72" type="line"/>
+			<point x="340" y="92"/>
+			<point x="326" y="107"/>
+			<point x="305" y="107" type="curve"/>
+			<point x="270" y="107" type="line"/>
+			<point x="250" y="107"/>
+			<point x="235" y="92"/>
+			<point x="235" y="72" type="curve"/>
+			<point x="235" y="25" type="line"/>
+			<point x="235" y="4"/>
+			<point x="250" y="-10"/>
+			<point x="270" y="-10" type="curve"/>
+			<point x="305" y="-10" type="line"/>
+			<point x="326" y="-10"/>
+			<point x="340" y="4"/>
+		</contour>
+		<contour>
+			<point x="75" y="273" type="curve"/>
+			<point x="75" y="247" type="line"/>
+			<point x="75" y="227"/>
+			<point x="90" y="212"/>
+			<point x="110" y="212" type="curve"/>
+			<point x="465" y="212" type="line"/>
+			<point x="486" y="212"/>
+			<point x="500" y="227"/>
+			<point x="500" y="247" type="curve"/>
+			<point x="500" y="274" type="line"/>
+			<point x="500" y="294"/>
+			<point x="486" y="309"/>
+			<point x="465" y="309" type="curve"/>
+			<point x="110" y="309" type="line"/>
+			<point x="90" y="309"/>
+			<point x="75" y="294"/>
+		</contour>
+	</outline>
 </glyph>

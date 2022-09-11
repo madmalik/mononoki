@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="less" format="1">
-  <advance width="575"/>
-  <unicode hex="003C"/>
-  <outline>
-    <component base="greater" xOffset="575" xScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 11:58:38 +0000</string>
-    </dict>
-  </lib>
+<glyph name="less" format="2">
+	<advance width="575"/>
+	<unicode hex="003C"/>
+	<outline>
+		<component base="greater" xScale="-1" xOffset="575"/>
+	</outline>
 </glyph>

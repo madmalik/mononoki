@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onedotenleader" format="1">
-  <advance width="575"/>
-  <unicode hex="2024"/>
-  <outline>
-    <contour>
-      <point x="200" y="35" type="line"/>
-      <point x="200" y="15"/>
-      <point x="215" y="0"/>
-      <point x="235" y="0" type="curve"/>
-      <point x="340" y="0" type="line"/>
-      <point x="361" y="0"/>
-      <point x="375" y="15"/>
-      <point x="375" y="35" type="curve"/>
-      <point x="375" y="122" type="line"/>
-      <point x="375" y="143"/>
-      <point x="361" y="157"/>
-      <point x="340" y="157" type="curve"/>
-      <point x="235" y="157" type="line"/>
-      <point x="215" y="157"/>
-      <point x="200" y="143"/>
-      <point x="200" y="122" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-23 09:15:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="onedotenleader" format="2">
+	<advance width="575"/>
+	<unicode hex="2024"/>
+	<outline>
+		<contour>
+			<point x="200" y="122" type="curve"/>
+			<point x="200" y="35" type="line"/>
+			<point x="200" y="15"/>
+			<point x="215" y="0"/>
+			<point x="235" y="0" type="curve"/>
+			<point x="340" y="0" type="line"/>
+			<point x="361" y="0"/>
+			<point x="375" y="15"/>
+			<point x="375" y="35" type="curve"/>
+			<point x="375" y="122" type="line"/>
+			<point x="375" y="143"/>
+			<point x="361" y="157"/>
+			<point x="340" y="157" type="curve"/>
+			<point x="235" y="157" type="line"/>
+			<point x="215" y="157"/>
+			<point x="200" y="143"/>
+		</contour>
+	</outline>
 </glyph>

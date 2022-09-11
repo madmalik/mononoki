@@ -1,62 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0427" format="1">
-  <advance width="575"/>
-  <unicode hex="0427"/>
-  <outline>
-    <contour>
-      <point x="501" y="700" type="line" smooth="yes"/>
-      <point x="484" y="700"/>
-      <point x="475" y="691"/>
-      <point x="472" y="675" type="curve" smooth="yes"/>
-      <point x="416" y="320" type="line"/>
-      <point x="371" y="317"/>
-      <point x="331" y="316"/>
-      <point x="307" y="316" type="curve" smooth="yes"/>
-      <point x="216" y="316"/>
-      <point x="186" y="348"/>
-      <point x="200" y="442" type="curve" smooth="yes"/>
-      <point x="237" y="675" type="line" smooth="yes"/>
-      <point x="240" y="691"/>
-      <point x="232" y="700"/>
-      <point x="216" y="700" type="curve" smooth="yes"/>
-      <point x="181" y="700" type="line" smooth="yes"/>
-      <point x="164" y="700"/>
-      <point x="155" y="691"/>
-      <point x="152" y="675" type="curve" smooth="yes"/>
-      <point x="115" y="442" type="line" smooth="yes"/>
-      <point x="112" y="421"/>
-      <point x="110" y="401"/>
-      <point x="110" y="384" type="curve" smooth="yes"/>
-      <point x="110" y="281"/>
-      <point x="169" y="240"/>
-      <point x="295" y="240" type="curve" smooth="yes"/>
-      <point x="318" y="240"/>
-      <point x="358" y="241"/>
-      <point x="404" y="245" type="curve"/>
-      <point x="369" y="25" type="line" smooth="yes"/>
-      <point x="367" y="9"/>
-      <point x="374" y="0"/>
-      <point x="390" y="0" type="curve" smooth="yes"/>
-      <point x="425" y="0" type="line" smooth="yes"/>
-      <point x="441" y="0"/>
-      <point x="452" y="9"/>
-      <point x="454" y="25" type="curve" smooth="yes"/>
-      <point x="557" y="675" type="line" smooth="yes"/>
-      <point x="560" y="691"/>
-      <point x="552" y="700"/>
-      <point x="536" y="700" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="359" y="700" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="515" y="0" type="move" name="bottomright"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-30 10:12:16 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni0427" format="2">
+	<advance width="575"/>
+	<unicode hex="0427"/>
+	<anchor x="515" y="0" name="bottomright"/>
+	<anchor x="359" y="700" name="top"/>
+	<outline>
+		<contour>
+			<point x="536" y="700" type="curve" smooth="yes"/>
+			<point x="501" y="700" type="line" smooth="yes"/>
+			<point x="484" y="700"/>
+			<point x="475" y="691"/>
+			<point x="472" y="675" type="curve" smooth="yes"/>
+			<point x="416" y="320" type="line"/>
+			<point x="371" y="317"/>
+			<point x="331" y="316"/>
+			<point x="307" y="316" type="curve" smooth="yes"/>
+			<point x="216" y="316"/>
+			<point x="186" y="348"/>
+			<point x="200" y="442" type="curve" smooth="yes"/>
+			<point x="237" y="675" type="line" smooth="yes"/>
+			<point x="240" y="691"/>
+			<point x="232" y="700"/>
+			<point x="216" y="700" type="curve" smooth="yes"/>
+			<point x="181" y="700" type="line" smooth="yes"/>
+			<point x="164" y="700"/>
+			<point x="155" y="691"/>
+			<point x="152" y="675" type="curve" smooth="yes"/>
+			<point x="115" y="442" type="line" smooth="yes"/>
+			<point x="112" y="421"/>
+			<point x="110" y="401"/>
+			<point x="110" y="384" type="curve" smooth="yes"/>
+			<point x="110" y="281"/>
+			<point x="169" y="240"/>
+			<point x="295" y="240" type="curve" smooth="yes"/>
+			<point x="318" y="240"/>
+			<point x="358" y="241"/>
+			<point x="404" y="245" type="curve"/>
+			<point x="369" y="25" type="line" smooth="yes"/>
+			<point x="367" y="9"/>
+			<point x="374" y="0"/>
+			<point x="390" y="0" type="curve" smooth="yes"/>
+			<point x="425" y="0" type="line" smooth="yes"/>
+			<point x="441" y="0"/>
+			<point x="452" y="9"/>
+			<point x="454" y="25" type="curve" smooth="yes"/>
+			<point x="557" y="675" type="line" smooth="yes"/>
+			<point x="560" y="691"/>
+			<point x="552" y="700"/>
+		</contour>
+	</outline>
 </glyph>

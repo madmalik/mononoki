@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
@@ -10,16 +10,12 @@
 	<integer>-250</integer>
 	<key>familyName</key>
 	<string>mononoki</string>
-	<key>isFixedPitch</key>
-	<true/>
 	<key>italicAngle</key>
-	<real>-9</real>
+	<real>-9.0</real>
 	<key>openTypeHeadCreated</key>
-	<string>2016/05/30 11:02:42</string>
+	<string>2016/05/30 09:02:42</string>
 	<key>openTypeNameDesigner</key>
 	<string>Matthias Tellen</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>mononoki</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Italic</string>
 	<key>openTypeOS2WeightClass</key>
@@ -32,27 +28,26 @@
 	<integer>250</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-15</integer>
-		<integer>0</integer>
-		<integer>500</integer>
-		<integer>516</integer>
-		<integer>700</integer>
-		<integer>716</integer>
-		<integer>750</integer>
-		<integer>766</integer>
+		<real>-15.0</real>
+		<real>0.0</real>
+		<real>500.0</real>
+		<real>516.0</real>
+		<real>700.0</real>
+		<real>716.0</real>
+		<real>750.0</real>
+		<real>766.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>mononoki-Italic</string>
 	<key>postscriptOtherBlues</key>
-	<array>
-	</array>
+	<array/>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>78</integer>
+		<real>78.0</real>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>85</integer>
+		<real>85.0</real>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>italic</string>
@@ -63,7 +58,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>4</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>

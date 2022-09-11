@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="W" format="1">
-  <advance width="575"/>
-  <unicode hex="0057"/>
-  <outline>
-    <component base="M" xOffset="607" yOffset="700" xScale="-1" yScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 18:35:33 +0000</string>
-    </dict>
-  </lib>
+<glyph name="W" format="2">
+	<advance width="575"/>
+	<unicode hex="0057"/>
+	<outline>
+		<component base="M" xScale="-1" yScale="-1" xOffset="607" yOffset="700"/>
+	</outline>
 </glyph>

@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="periodcentered" format="1">
-  <advance width="575"/>
-  <unicode hex="00B7"/>
-  <outline>
-    <contour>
-      <point x="340" y="284" type="line"/>
-      <point x="340" y="304"/>
-      <point x="326" y="319"/>
-      <point x="305" y="319" type="curve"/>
-      <point x="270" y="319" type="line"/>
-      <point x="250" y="319"/>
-      <point x="235" y="304"/>
-      <point x="235" y="283" type="curve"/>
-      <point x="235" y="237" type="line"/>
-      <point x="235" y="217"/>
-      <point x="250" y="202"/>
-      <point x="270" y="202" type="curve"/>
-      <point x="305" y="202" type="line"/>
-      <point x="326" y="202"/>
-      <point x="340" y="217"/>
-      <point x="340" y="237" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 20:53:09 +0000</string>
-    </dict>
-  </lib>
+<glyph name="periodcentered" format="2">
+	<advance width="575"/>
+	<unicode hex="00B7"/>
+	<outline>
+		<contour>
+			<point x="340" y="237" type="curve"/>
+			<point x="340" y="284" type="line"/>
+			<point x="340" y="304"/>
+			<point x="326" y="319"/>
+			<point x="305" y="319" type="curve"/>
+			<point x="270" y="319" type="line"/>
+			<point x="250" y="319"/>
+			<point x="235" y="304"/>
+			<point x="235" y="283" type="curve"/>
+			<point x="235" y="237" type="line"/>
+			<point x="235" y="217"/>
+			<point x="250" y="202"/>
+			<point x="270" y="202" type="curve"/>
+			<point x="305" y="202" type="line"/>
+			<point x="326" y="202"/>
+			<point x="340" y="217"/>
+		</contour>
+	</outline>
 </glyph>

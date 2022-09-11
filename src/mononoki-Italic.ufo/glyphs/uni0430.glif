@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0430" format="1">
-  <advance width="575"/>
-  <unicode hex="0430"/>
-  <outline>
-    <component base="a"/>
-    <contour>
-      <point x="328" y="500" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-23 16:17:55 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni0430" format="2">
+	<advance width="575"/>
+	<unicode hex="0430"/>
+	<anchor x="328" y="500" name="top"/>
+	<outline>
+		<component base="a"/>
+	</outline>
 </glyph>

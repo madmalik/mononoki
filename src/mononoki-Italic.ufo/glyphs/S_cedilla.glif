@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scedilla" format="1">
-  <advance width="575"/>
-  <unicode hex="015E"/>
-  <outline>
-    <component base="S"/>
-    <component base="cedilla" xOffset="6"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-21 21:19:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Scedilla" format="2">
+	<advance width="575"/>
+	<unicode hex="015E"/>
+	<outline>
+		<component base="S"/>
+		<component base="cedilla" xOffset="6"/>
+	</outline>
 </glyph>

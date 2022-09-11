@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nu" format="1">
-  <advance width="575"/>
-  <unicode hex="03BD"/>
-  <outline>
-    <component base="v"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 12:42:54 +0000</string>
-    </dict>
-  </lib>
+<glyph name="nu" format="2">
+	<advance width="575"/>
+	<unicode hex="03BD"/>
+	<outline>
+		<component base="v"/>
+	</outline>
 </glyph>

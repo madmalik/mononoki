@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="exclam_equal" format="1">
-  <advance width="600"/>
-  <outline>
-    <component base="exclam"/>
-    <component base="equal"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 18:31:24 +0000</string>
-    </dict>
-  </lib>
+<glyph name="exclam_equal" format="2">
+	<advance width="575"/>
+	<outline>
+		<component base="exclam"/>
+		<component base="equal"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>exclam</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>equal</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
 </glyph>

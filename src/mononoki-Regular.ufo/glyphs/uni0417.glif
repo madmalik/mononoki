@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0417" format="1">
-  <advance width="575"/>
-  <unicode hex="0417"/>
-  <outline>
-    <component base="three"/>
-    <contour>
-      <point x="288" y="700" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="288" y="0" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-23 13:11:27 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni0417" format="2">
+	<advance width="575"/>
+	<unicode hex="0417"/>
+	<anchor x="288" y="0" name="bottom"/>
+	<anchor x="288" y="700" name="top"/>
+	<outline>
+		<component base="three"/>
+	</outline>
 </glyph>

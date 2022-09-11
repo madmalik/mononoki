@@ -1,63 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f" format="1">
-  <advance width="575"/>
-  <unicode hex="0066"/>
-  <outline>
-    <contour>
-      <point x="506" y="717" type="line"/>
-      <point x="514" y="736"/>
-      <point x="507" y="756"/>
-      <point x="486" y="763" type="curve"/>
-      <point x="453" y="775"/>
-      <point x="414" y="783"/>
-      <point x="378" y="783" type="curve"/>
-      <point x="280" y="783"/>
-      <point x="186" y="726"/>
-      <point x="186" y="559" type="curve"/>
-      <point x="186" y="520" type="line"/>
-      <point x="100" y="520" type="line"/>
-      <point x="80" y="520"/>
-      <point x="65" y="505"/>
-      <point x="65" y="485" type="curve"/>
-      <point x="65" y="459" type="line"/>
-      <point x="65" y="438"/>
-      <point x="80" y="424"/>
-      <point x="100" y="424" type="curve"/>
-      <point x="186" y="424" type="line"/>
-      <point x="186" y="35" type="line"/>
-      <point x="186" y="15"/>
-      <point x="200" y="0"/>
-      <point x="221" y="0" type="curve"/>
-      <point x="256" y="0" type="line"/>
-      <point x="276" y="0"/>
-      <point x="291" y="15"/>
-      <point x="291" y="35" type="curve"/>
-      <point x="291" y="424" type="line"/>
-      <point x="445" y="424" type="line"/>
-      <point x="465" y="424"/>
-      <point x="480" y="439"/>
-      <point x="480" y="459" type="curve"/>
-      <point x="480" y="485" type="line"/>
-      <point x="480" y="505"/>
-      <point x="465" y="520"/>
-      <point x="445" y="520" type="curve"/>
-      <point x="292" y="520" type="line"/>
-      <point x="292" y="559" type="line"/>
-      <point x="292" y="660"/>
-      <point x="326" y="685"/>
-      <point x="378" y="685" type="curve"/>
-      <point x="402" y="685"/>
-      <point x="423" y="681"/>
-      <point x="450" y="672" type="curve"/>
-      <point x="468" y="664"/>
-      <point x="487" y="672"/>
-      <point x="495" y="691" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 18:35:33 +0000</string>
-    </dict>
-  </lib>
+<glyph name="f" format="2">
+	<advance width="575"/>
+	<unicode hex="0066"/>
+	<outline>
+		<contour>
+			<point x="495" y="691" type="curve"/>
+			<point x="506" y="717" type="line"/>
+			<point x="514" y="736"/>
+			<point x="507" y="756"/>
+			<point x="486" y="763" type="curve"/>
+			<point x="453" y="775"/>
+			<point x="414" y="783"/>
+			<point x="378" y="783" type="curve"/>
+			<point x="280" y="783"/>
+			<point x="186" y="726"/>
+			<point x="186" y="559" type="curve"/>
+			<point x="186" y="520" type="line"/>
+			<point x="100" y="520" type="line"/>
+			<point x="80" y="520"/>
+			<point x="65" y="505"/>
+			<point x="65" y="485" type="curve"/>
+			<point x="65" y="459" type="line"/>
+			<point x="65" y="438"/>
+			<point x="80" y="424"/>
+			<point x="100" y="424" type="curve"/>
+			<point x="186" y="424" type="line"/>
+			<point x="186" y="35" type="line"/>
+			<point x="186" y="15"/>
+			<point x="200" y="0"/>
+			<point x="221" y="0" type="curve"/>
+			<point x="256" y="0" type="line"/>
+			<point x="276" y="0"/>
+			<point x="291" y="15"/>
+			<point x="291" y="35" type="curve"/>
+			<point x="291" y="424" type="line"/>
+			<point x="445" y="424" type="line"/>
+			<point x="465" y="424"/>
+			<point x="480" y="439"/>
+			<point x="480" y="459" type="curve"/>
+			<point x="480" y="485" type="line"/>
+			<point x="480" y="505"/>
+			<point x="465" y="520"/>
+			<point x="445" y="520" type="curve"/>
+			<point x="292" y="520" type="line"/>
+			<point x="292" y="559" type="line"/>
+			<point x="292" y="660"/>
+			<point x="326" y="685"/>
+			<point x="378" y="685" type="curve"/>
+			<point x="402" y="685"/>
+			<point x="423" y="681"/>
+			<point x="450" y="672" type="curve"/>
+			<point x="468" y="664"/>
+			<point x="487" y="672"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2595" format="1">
-  <advance width="575"/>
-  <unicode hex="2595"/>
-  <outline>
-    <contour>
-      <point x="503" y="-250" type="line"/>
-      <point x="575" y="-250" type="line"/>
-      <point x="575" y="900" type="line"/>
-      <point x="503" y="900" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-10 08:26:49 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni2595" format="2">
+	<advance width="575"/>
+	<unicode hex="2595"/>
+	<outline>
+		<contour>
+			<point x="503" y="900" type="line"/>
+			<point x="503" y="-250" type="line"/>
+			<point x="575" y="-250" type="line"/>
+			<point x="575" y="900" type="line"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,62 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four.dnom" format="1">
-  <advance width="250"/>
-  <outline>
-    <contour>
-      <point x="228" y="121" type="line"/>
-      <point x="228" y="196" type="line"/>
-      <point x="228" y="208"/>
-      <point x="217" y="219"/>
-      <point x="203" y="219" type="curve"/>
-      <point x="186" y="219" type="line"/>
-      <point x="172" y="219"/>
-      <point x="161" y="208"/>
-      <point x="161" y="196" type="curve"/>
-      <point x="161" y="121" type="line"/>
-      <point x="101" y="121" type="line"/>
-      <point x="206" y="331" type="line"/>
-      <point x="213" y="344"/>
-      <point x="203" y="360"/>
-      <point x="186" y="360" type="curve"/>
-      <point x="168" y="360" type="line"/>
-      <point x="154" y="360"/>
-      <point x="143" y="353"/>
-      <point x="138" y="343" type="curve"/>
-      <point x="29" y="124" type="line"/>
-      <point x="29" y="124" type="line"/>
-      <point x="26" y="118"/>
-      <point x="25" y="112"/>
-      <point x="25" y="105" type="curve"/>
-      <point x="25" y="85" type="line"/>
-      <point x="25" y="73"/>
-      <point x="35" y="63"/>
-      <point x="49" y="63" type="curve"/>
-      <point x="161" y="63" type="line"/>
-      <point x="161" y="13" type="line"/>
-      <point x="161" y="2"/>
-      <point x="171" y="-10"/>
-      <point x="185" y="-10" type="curve"/>
-      <point x="203" y="-10" type="line"/>
-      <point x="217" y="-10"/>
-      <point x="227" y="2"/>
-      <point x="227" y="13" type="curve"/>
-      <point x="227" y="63" type="line"/>
-      <point x="243" y="63" type="line"/>
-      <point x="257" y="63"/>
-      <point x="267" y="73"/>
-      <point x="267" y="85" type="curve"/>
-      <point x="267" y="98" type="line"/>
-      <point x="267" y="109"/>
-      <point x="257" y="121"/>
-      <point x="243" y="121" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:05:53 +0000</string>
-    </dict>
-  </lib>
+<glyph name="four.dnom" format="2">
+	<advance width="575"/>
+	<outline>
+		<contour>
+			<point x="470" y="-71" type="curve" smooth="yes"/>
+			<point x="390" y="-71" type="line"/>
+			<point x="390" y="25" type="line" smooth="yes"/>
+			<point x="390" y="41"/>
+			<point x="381" y="50"/>
+			<point x="365" y="50" type="curve" smooth="yes"/>
+			<point x="330" y="50" type="line" smooth="yes"/>
+			<point x="314" y="50"/>
+			<point x="305" y="41"/>
+			<point x="305" y="25" type="curve" smooth="yes"/>
+			<point x="305" y="-71" type="line"/>
+			<point x="205" y="-71" type="line"/>
+			<point x="205" y="125" type="line" smooth="yes"/>
+			<point x="205" y="141"/>
+			<point x="196" y="150"/>
+			<point x="180" y="150" type="curve" smooth="yes"/>
+			<point x="145" y="150" type="line" smooth="yes"/>
+			<point x="129" y="150"/>
+			<point x="120" y="141"/>
+			<point x="120" y="125" type="curve" smooth="yes"/>
+			<point x="120" y="-124" type="line" smooth="yes"/>
+			<point x="120" y="-140"/>
+			<point x="129" y="-149"/>
+			<point x="145" y="-149" type="curve" smooth="yes"/>
+			<point x="305" y="-149" type="line"/>
+			<point x="305" y="-225" type="line" smooth="yes"/>
+			<point x="305" y="-241"/>
+			<point x="314" y="-250"/>
+			<point x="330" y="-250" type="curve" smooth="yes"/>
+			<point x="365" y="-250" type="line" smooth="yes"/>
+			<point x="381" y="-250"/>
+			<point x="390" y="-241"/>
+			<point x="390" y="-225" type="curve" smooth="yes"/>
+			<point x="390" y="-149" type="line"/>
+			<point x="470" y="-149" type="line" smooth="yes"/>
+			<point x="486" y="-149"/>
+			<point x="495" y="-140"/>
+			<point x="495" y="-124" type="curve" smooth="yes"/>
+			<point x="495" y="-96" type="line" smooth="yes"/>
+			<point x="495" y="-80"/>
+			<point x="486" y="-71"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
 </glyph>

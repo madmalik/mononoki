@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>a</key>
+	<string>a.glif</string>
+	<key>alpha</key>
+	<string>alpha.glif</string>
+	<key>circlemultiply</key>
+	<string>circlemultiply.glif</string>
+	<key>multiply</key>
+	<string>multiply.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
+	<key>uni0394</key>
+	<string>uni0394.glif</string>
+</dict>
+</plist>

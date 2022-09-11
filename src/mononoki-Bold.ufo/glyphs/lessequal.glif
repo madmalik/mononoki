@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lessequal" format="1">
-  <advance width="575"/>
-  <unicode hex="2264"/>
-  <outline>
-    <component base="greaterequal" xOffset="575" xScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 14:15:30 +0000</string>
-    </dict>
-  </lib>
+<glyph name="lessequal" format="2">
+	<advance width="575"/>
+	<unicode hex="2264"/>
+	<outline>
+		<component base="greaterequal" xScale="-1" xOffset="575"/>
+	</outline>
 </glyph>

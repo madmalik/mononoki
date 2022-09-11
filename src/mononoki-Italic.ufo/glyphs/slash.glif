@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="slash" format="1">
-  <advance width="575"/>
-  <unicode hex="002F"/>
-  <outline>
-    <component base="backslash" xOffset="575" xScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 18:35:33 +0000</string>
-    </dict>
-  </lib>
+<glyph name="slash" format="2">
+	<advance width="575"/>
+	<unicode hex="002F"/>
+	<outline>
+		<component base="backslash" xScale="-1" xOffset="575"/>
+	</outline>
 </glyph>

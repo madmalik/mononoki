@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="twodotenleader" format="1">
-  <advance width="575"/>
-  <unicode hex="2025"/>
-  <outline>
-    <component base="period" xOffset="-10" yOffset="1" xScale="0.683" yScale="0.683"/>
-    <component base="period" xOffset="193" yOffset="1" xScale="0.683" yScale="0.683"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:48:56 +0000</string>
-    </dict>
-  </lib>
+<glyph name="twodotenleader" format="2">
+	<advance width="575"/>
+	<unicode hex="2025"/>
+	<outline>
+		<component base="period" xScale="0.683" yScale="0.683" xOffset="-10" yOffset="1"/>
+		<component base="period" xScale="0.683" yScale="0.683" xOffset="193" yOffset="1"/>
+	</outline>
 </glyph>

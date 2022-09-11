@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2074" format="2">
+	<advance width="575"/>
+	<unicode hex="2074"/>
+	<outline>
+		<component base="four.dnom" xOffset="95" yOffset="600"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>four.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>four.dnom</string>
+		</dict>
+	</lib>
+</glyph>

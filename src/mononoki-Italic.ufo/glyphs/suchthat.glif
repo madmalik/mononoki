@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="suchthat" format="2">
+	<advance width="575"/>
+	<unicode hex="220B"/>
+	<outline>
+		<component base="element" xScale="-1" yScale="-1" xOffset="591" yOffset="600"/>
+	</outline>
+</glyph>

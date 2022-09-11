@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ltshade" format="1">
-  <advance width="575"/>
-  <unicode hex="2591"/>
-  <outline>
-    <contour>
-      <point x="0" y="-250" type="line"/>
-      <point x="28" y="-250" type="line"/>
-      <point x="0" y="-194" type="line"/>
-    </contour>
-    <contour>
-      <point x="287" y="-250" type="line"/>
-      <point x="315" y="-250" type="line"/>
-      <point x="0" y="380" type="line"/>
-      <point x="0" y="324" type="line"/>
-    </contour>
-    <contour>
-      <point x="575" y="-250" type="line"/>
-      <point x="575" y="-194" type="line"/>
-      <point x="28" y="900" type="line"/>
-      <point x="0" y="900" type="line"/>
-    </contour>
-    <contour>
-      <point x="575" y="324" type="line"/>
-      <point x="575" y="380" type="line"/>
-      <point x="315" y="900" type="line"/>
-      <point x="287" y="900" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-10 08:26:49 +0000</string>
-    </dict>
-  </lib>
+<glyph name="ltshade" format="2">
+	<advance width="575"/>
+	<unicode hex="2591"/>
+	<outline>
+		<contour>
+			<point x="0" y="-194" type="line"/>
+			<point x="0" y="-250" type="line"/>
+			<point x="28" y="-250" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="324" type="line"/>
+			<point x="287" y="-250" type="line"/>
+			<point x="315" y="-250" type="line"/>
+			<point x="0" y="380" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="900" type="line"/>
+			<point x="575" y="-250" type="line"/>
+			<point x="575" y="-194" type="line"/>
+			<point x="28" y="900" type="line"/>
+		</contour>
+		<contour>
+			<point x="287" y="900" type="line"/>
+			<point x="575" y="324" type="line"/>
+			<point x="575" y="380" type="line"/>
+			<point x="315" y="900" type="line"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="edieresis" format="1">
-  <advance width="575"/>
-  <unicode hex="00EB"/>
-  <outline>
-    <component base="e"/>
-    <component base="dieresis" xOffset="23" yOffset="70"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 16:29:58 +0000</string>
-    </dict>
-  </lib>
+<glyph name="edieresis" format="2">
+	<advance width="575"/>
+	<unicode hex="00EB"/>
+	<outline>
+		<component base="e"/>
+		<component base="dieresis" xOffset="23" yOffset="70"/>
+	</outline>
 </glyph>

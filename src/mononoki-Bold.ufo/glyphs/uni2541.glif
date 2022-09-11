@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2541" format="1">
-  <advance width="575"/>
-  <unicode hex="2541"/>
-  <outline>
-    <contour>
-      <point x="-21" y="304" type="line"/>
-      <point x="596" y="304" type="line"/>
-      <point x="596" y="346" type="line"/>
-      <point x="-21" y="346" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="325" type="line"/>
-      <point x="308" y="325" type="line"/>
-      <point x="308" y="900" type="line"/>
-      <point x="266" y="900" type="line"/>
-    </contour>
-    <contour>
-      <point x="244" y="-250" type="line"/>
-      <point x="330" y="-250" type="line"/>
-      <point x="330" y="325" type="line"/>
-      <point x="244" y="325" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-10 08:26:49 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni2541" format="2">
+	<advance width="575"/>
+	<unicode hex="2541"/>
+	<outline>
+		<contour>
+			<point x="-21" y="346" type="line"/>
+			<point x="-21" y="304" type="line"/>
+			<point x="596" y="304" type="line"/>
+			<point x="596" y="346" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="900" type="line"/>
+			<point x="266" y="325" type="line"/>
+			<point x="308" y="325" type="line"/>
+			<point x="308" y="900" type="line"/>
+		</contour>
+		<contour>
+			<point x="244" y="325" type="line"/>
+			<point x="244" y="-250" type="line"/>
+			<point x="330" y="-250" type="line"/>
+			<point x="330" y="325" type="line"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0410" format="1">
-  <advance width="575"/>
-  <unicode hex="0410"/>
-  <outline>
-    <component base="A"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-30 08:50:22 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni0410" format="2">
+	<advance width="575"/>
+	<unicode hex="0410"/>
+	<outline>
+		<component base="A"/>
+	</outline>
 </glyph>

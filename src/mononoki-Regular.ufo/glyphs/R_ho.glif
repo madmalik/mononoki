@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Rho" format="1">
-  <advance width="575"/>
-  <unicode hex="03A1"/>
-  <outline>
-    <component base="P"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-23 16:24:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Rho" format="2">
+	<advance width="575"/>
+	<unicode hex="03A1"/>
+	<outline>
+		<component base="P"/>
+	</outline>
 </glyph>

@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="greater_greater" format="1">
-  <advance width="1150"/>
-  <outline>
-    <component base="greater" xOffset="497"/>
-    <component base="greater" xOffset="77"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 18:31:33 +0000</string>
-    </dict>
-  </lib>
+<glyph name="greater_greater" format="2">
+	<advance width="575"/>
+	<outline>
+		<component base="greater" xOffset="497"/>
+		<component base="greater" xOffset="77"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>greater</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>greater</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
 </glyph>

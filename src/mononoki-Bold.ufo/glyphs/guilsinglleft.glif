@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guilsinglleft" format="1">
-  <advance width="575"/>
-  <unicode hex="2039"/>
-  <outline>
-    <contour>
-      <point x="246" y="260" type="line"/>
-      <point x="426" y="440" type="line"/>
-      <point x="441" y="455"/>
-      <point x="441" y="477"/>
-      <point x="424" y="491" type="curve"/>
-      <point x="402" y="511" type="line"/>
-      <point x="387" y="524"/>
-      <point x="367" y="524"/>
-      <point x="353" y="509" type="curve"/>
-      <point x="176" y="333" type="line"/>
-      <point x="157" y="314"/>
-      <point x="138" y="291"/>
-      <point x="138" y="260" type="curve"/>
-      <point x="138" y="229"/>
-      <point x="157" y="207"/>
-      <point x="176" y="188" type="curve"/>
-      <point x="353" y="11" type="line"/>
-      <point x="367" y="-3"/>
-      <point x="387" y="-3"/>
-      <point x="401" y="9" type="curve"/>
-      <point x="425" y="31" type="line"/>
-      <point x="441" y="44"/>
-      <point x="441" y="66"/>
-      <point x="426" y="80" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:57:17 +0000</string>
-    </dict>
-  </lib>
+<glyph name="guilsinglleft" format="2">
+	<advance width="575"/>
+	<unicode hex="2039"/>
+	<outline>
+		<contour>
+			<point x="426" y="80" type="curve"/>
+			<point x="246" y="260" type="line"/>
+			<point x="426" y="440" type="line"/>
+			<point x="441" y="455"/>
+			<point x="441" y="477"/>
+			<point x="424" y="491" type="curve"/>
+			<point x="402" y="511" type="line"/>
+			<point x="387" y="524"/>
+			<point x="367" y="524"/>
+			<point x="353" y="509" type="curve"/>
+			<point x="176" y="333" type="line"/>
+			<point x="157" y="314"/>
+			<point x="138" y="291"/>
+			<point x="138" y="260" type="curve"/>
+			<point x="138" y="229"/>
+			<point x="157" y="207"/>
+			<point x="176" y="188" type="curve"/>
+			<point x="353" y="11" type="line"/>
+			<point x="367" y="-3"/>
+			<point x="387" y="-3"/>
+			<point x="401" y="9" type="curve"/>
+			<point x="425" y="31" type="line"/>
+			<point x="441" y="44"/>
+			<point x="441" y="66"/>
+		</contour>
+	</outline>
 </glyph>

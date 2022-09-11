@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iacute" format="1">
-  <advance width="575"/>
-  <unicode hex="00ED"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="acute" xOffset="-13" yOffset="50"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-23 11:47:03 +0000</string>
-    </dict>
-  </lib>
+<glyph name="iacute" format="2">
+	<advance width="575"/>
+	<unicode hex="00ED"/>
+	<outline>
+		<component base="dotlessi"/>
+		<component base="acute" xOffset="-13" yOffset="50"/>
+	</outline>
 </glyph>

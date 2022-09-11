@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cent" format="1">
-  <advance width="575"/>
-  <unicode hex="00A2"/>
-  <outline>
-    <contour>
-      <point x="248" y="455" type="line"/>
-      <point x="353" y="471" type="line"/>
-      <point x="353" y="653" type="line"/>
-      <point x="353" y="674"/>
-      <point x="338" y="688"/>
-      <point x="318" y="688" type="curve"/>
-      <point x="283" y="688" type="line"/>
-      <point x="263" y="688"/>
-      <point x="248" y="674"/>
-      <point x="248" y="653" type="curve"/>
-    </contour>
-    <contour>
-      <point x="353" y="40" type="line"/>
-      <point x="248" y="56" type="line"/>
-      <point x="248" y="-153" type="line"/>
-      <point x="248" y="-174"/>
-      <point x="263" y="-188"/>
-      <point x="283" y="-188" type="curve"/>
-      <point x="318" y="-188" type="line"/>
-      <point x="338" y="-188"/>
-      <point x="353" y="-174"/>
-      <point x="353" y="-153" type="curve"/>
-    </contour>
-    <component base="c"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 14:01:47 +0000</string>
-    </dict>
-  </lib>
+<glyph name="cent" format="2">
+	<advance width="575"/>
+	<unicode hex="00A2"/>
+	<outline>
+		<contour>
+			<point x="248" y="653" type="curve"/>
+			<point x="248" y="455" type="line"/>
+			<point x="353" y="471" type="line"/>
+			<point x="353" y="653" type="line"/>
+			<point x="353" y="674"/>
+			<point x="338" y="688"/>
+			<point x="318" y="688" type="curve"/>
+			<point x="283" y="688" type="line"/>
+			<point x="263" y="688"/>
+			<point x="248" y="674"/>
+		</contour>
+		<contour>
+			<point x="353" y="-153" type="curve"/>
+			<point x="353" y="40" type="line"/>
+			<point x="248" y="56" type="line"/>
+			<point x="248" y="-153" type="line"/>
+			<point x="248" y="-174"/>
+			<point x="263" y="-188"/>
+			<point x="283" y="-188" type="curve"/>
+			<point x="318" y="-188" type="line"/>
+			<point x="338" y="-188"/>
+			<point x="353" y="-174"/>
+		</contour>
+		<component base="c"/>
+	</outline>
 </glyph>

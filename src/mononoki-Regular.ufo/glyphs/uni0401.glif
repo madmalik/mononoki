@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0401" format="1">
-  <advance width="575"/>
-  <unicode hex="0401"/>
-  <outline>
-    <component base="E"/>
-    <component base="dieresis" yOffset="200"/>
-    <contour>
-      <point x="288" y="700" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 18:35:34 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni0401" format="2">
+	<advance width="575"/>
+	<unicode hex="0401"/>
+	<anchor x="288" y="700" name="top"/>
+	<outline>
+		<component base="E"/>
+		<component base="dieresis" yOffset="200"/>
+	</outline>
 </glyph>

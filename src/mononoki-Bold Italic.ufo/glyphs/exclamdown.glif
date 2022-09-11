@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="exclamdown" format="1">
-  <advance width="575"/>
-  <unicode hex="00A1"/>
-  <outline>
-    <component base="exclam" xOffset="575" yOffset="520" xScale="-1" yScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:43:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="exclamdown" format="2">
+	<advance width="575"/>
+	<unicode hex="00A1"/>
+	<outline>
+		<component base="exclam" xScale="-1" yScale="-1" xOffset="575" yOffset="520"/>
+	</outline>
 </glyph>

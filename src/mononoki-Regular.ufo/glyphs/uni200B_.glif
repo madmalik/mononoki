@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni200B" format="1">
-  <advance width="575"/>
-  <unicode hex="200B"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-05-22 18:19:20 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni200B" format="2">
+	<advance width="575"/>
+	<unicode hex="200B"/>
+	<outline>
+	</outline>
 </glyph>

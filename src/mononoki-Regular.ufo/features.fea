@@ -1,15 +1,135 @@
-@hex_digit_decorated = [ zero.hex one.hex two.hex three.hex four.hex five.hex six.hex seven.hex eight.hex nine.hex a.hex b.hex c.hex d.hex e.hex f.hex A.hex B.hex C.hex D.hex E.hex F.hex ];
+### class:0:hex_digit_decorated ###
+@hex_digit_decorated = [
+### open class 'hex_digit_decorated' ###
+zero.hex one.hex two.hex three.hex four.hex five.hex six.hex seven.hex eight.hex nine.hex a.hex b.hex c.hex d.hex e.hex f.hex A.hex B.hex C.hex D.hex E.hex F.hex 
+### close class 'hex_digit_decorated' ###
+];
 
-@hex_digit = [ zero one two three four five six seven eight nine a b c d e f A B C D E F ];
+### class:1:hex_digit ###
+@hex_digit = [
+### open class 'hex_digit' ###
+zero one two three four five six seven eight nine a b c d e f A B C D E F
+### close class 'hex_digit' ###
+];
 
-# Prefix: Languagesystems
-# automatic
+### prefix:-1: ###
+### open prefix '' ###
 languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+### close prefix '' ###
 
-feature aalt {
-# automatic
-feature locl;
-feature frac;
-feature ordn;
-} aalt;
+### feature:1:locl ###
+feature locl {
+### open feature 'locl' ###
+lookup locl_latn_0 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_0;
+### close feature 'locl' ###
+} locl;
 
+### feature:2:subs ###
+feature subs {
+### open feature 'subs' ###
+sub zero by uni2080;
+sub one by uni2081;
+sub two by uni2082;
+sub three by uni2083;
+sub four by uni2084;
+sub five by uni2085;
+sub six by uni2086;
+sub seven by uni2087;
+sub eight by uni2088;
+sub nine by uni2089;
+sub parenleft by uni208D;
+sub parenright by uni208E;
+sub equal by uni208C;
+sub minus by uni208B;
+sub plus by uni208A;
+### close feature 'subs' ###
+} subs;
+
+### feature:3:sinf ###
+feature sinf {
+### open feature 'sinf' ###
+sub zero by uni2080;
+sub one by uni2081;
+sub two by uni2082;
+sub three by uni2083;
+sub four by uni2084;
+sub five by uni2085;
+sub six by uni2086;
+sub seven by uni2087;
+sub eight by uni2088;
+sub nine by uni2089;
+sub parenleft by uni208D;
+sub parenright by uni208E;
+sub equal by uni208C;
+sub minus by uni208B;
+sub plus by uni208A;
+### close feature 'sinf' ###
+} sinf;
+
+### feature:4:sups ###
+feature sups {
+### open feature 'sups' ###
+sub zero by uni2070;
+sub one by uni00B9;
+sub two by uni00B2;
+sub three by uni00B3;
+sub four by uni2074;
+sub five by uni2075;
+sub six by uni2076;
+sub seven by uni2077;
+sub eight by uni2078;
+sub nine by uni2079;
+sub parenleft by uni207D;
+sub parenright by uni207E;
+sub equal by uni207C;
+sub minus by uni207B;
+sub plus by uni207A;
+### close feature 'sups' ###
+} sups;
+
+### feature:5:frac ###
+feature frac {
+### open feature 'frac' ###
+sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub three slash eight by threeeighths;
+sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
+sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
+sub one slash three by uni2153;
+sub two slash three by uni2154;
+sub one slash five by uni2155;
+sub two slash five by uni2156;
+sub three slash five by uni2157;
+sub four slash five by uni2158;
+sub one slash six by uni2159;
+sub five slash six by uni215A;
+sub zero slash three by uni2189;
+sub one slash by uni215F;
+### close feature 'frac' ###
+} frac;
+
+### feature:6:ordn ###
+feature ordn {
+### open feature 'ordn' ###
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+### close feature 'ordn' ###
+} ordn;
+
+
+table GDEF {
+ GlyphClassDef ,# Base 
+ , # Liga 
+ [uni0306.cy dotbelowcomb], # Mark 
+ ;
+ } GDEF;

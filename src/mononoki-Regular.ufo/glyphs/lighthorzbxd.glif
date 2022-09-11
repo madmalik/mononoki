@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lighthorzbxd" format="1">
-  <advance width="600"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-09 18:43:36 +0000</string>
-    </dict>
-  </lib>
+<glyph name="lighthorzbxd" format="2">
+	<advance width="575"/>
+	<outline>
+		<contour>
+			<point x="-21" y="346" type="line"/>
+			<point x="-21" y="304" type="line"/>
+			<point x="596" y="304" type="line"/>
+			<point x="596" y="346" type="line"/>
+		</contour>
+	</outline>
 </glyph>
