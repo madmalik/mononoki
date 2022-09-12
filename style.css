@@ -153,8 +153,12 @@ h1 {
 }
 
 .showcase {
-  font-size: 100%;
   color: var(--base1);
+}
+
+.showcase-title {
+  text-align: right;
+  margin: 16px 0;
 }
 
 .italic {
