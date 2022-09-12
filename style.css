@@ -28,6 +28,9 @@
 }
 
 :root {
+  /* --------------- */
+  /* solarized theme */
+  /* --------------- */
   --base03: #002b36;
   --base02: #073642;
   --base01: #586e75;
@@ -44,17 +47,43 @@
   --blue: #268bd2;
   --cyan: #2aa198;
   --green: #859900;
+
+  --color-a0: var(--base0);
+  --color-a1: var(--base1);
+  --color-a2: var(--base2);
+  --color-a3: var(--base3);
+  --color-b0: var(--base00);
+  --color-b1: var(--base01);
+  --color-b2: var(--base02);
+  --color-b3: var(--base03);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-a0: var(--base00);
+    --color-a1: var(--base01);
+    --color-a2: var(--base02);
+    --color-a3: var(--base03);
+    --color-b0: var(--base0);
+    --color-b1: var(--base1);
+    --color-b2: var(--base2);
+    --color-b3: var(--base3);
+  }
+
+  #low-png {
+    filter: invert();
+  }
 }
 
 body {
-  color: var(--base01);
+  color: var(--color-b1);
   font-family: mononoki;
   width: 90%;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   font-size: 16px;
-  background-color: var(--base3);
+  background-color: var(--color-a3);
 }
 
 a {
@@ -88,7 +117,7 @@ h1 {
 
 .wingdings {
   font-size: 200%;
-  color: var(--base1);
+  color: var(--color-a1);
 }
 
 .container {
@@ -124,13 +153,12 @@ h1 {
   font-weight: normal;
   font-size: 300%;
   text-align: right;
-  color: var(--base03);
 }
 
 .monospaced-title .accent {
   border-radius: 3px;
-  color: var(--base3);
-  background-color: var(--base03);
+  color: var(--color-a3);
+  background-color: var(--color-b1);
   height: 20px;
 }
 
@@ -143,7 +171,7 @@ h1 {
 }
 
 .background {
-  color: var(--base2);
+  color: var(--color-a2);
   font-size: 400%;
   position: absolute;
   top: 0;
@@ -153,7 +181,7 @@ h1 {
 }
 
 .showcase {
-  color: var(--base1);
+  color: var(--color-a1);
 }
 
 .showcase-title {
@@ -177,7 +205,7 @@ h1 {
 
 
 .big {
-  color: var(--base1);
+  color: var(--color-a1);
   font-size: 400%;
 }
 
@@ -208,17 +236,17 @@ h1 {
 }
 
 .comment {
-  color: var(--base1);
+  color: var(--color-a1);
   font-style: italic;
 }
 
 .linenr {
-  color: var(--base1);
+  color: var(--color-a1);
 }
 
 footer {
   margin-top: 160px;
   text-align: center;
   font-style: italic;
-  color: var(--base1);
+  color: var(--color-a1);
 }
