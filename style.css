@@ -55,53 +55,53 @@
   font-style: italic;
 }
 
-/*
-$base03:    #002b36
-$base02:    #073642
-$base01:    #586e75
-$base00:    #657b83
-$base0:     #839496
-$base1:     #93a1a1
-$base2:     #eee8d5
-$base3:     #fdf6e3
-$yellow:    #b58900
-$orange:    #cb4b16
-$red:       #dc322f
-$magenta:   #d33682
-$violet:    #6c71c4
-$blue:      #268bd2
-$cyan:      #2aa198
-$green:     #859900*/
-
+:root {
+  --base03: #002b36;
+  --base02: #073642;
+  --base01: #586e75;
+  --base00: #657b83;
+  --base0: #839496;
+  --base1: #93a1a1;
+  --base2: #eee8d5;
+  --base3: #fdf6e3;
+  --yellow: #b58900;
+  --orange: #cb4b16;
+  --red: #dc322f;
+  --magenta: #d33682;
+  --violet: #6c71c4;
+  --blue: #268bd2;
+  --cyan: #2aa198;
+  --green: #859900;
+}
 
 body {
-  color: #586e75;
+  color: var(--base01);
   font-family: mononoki;
   width: 90%;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   font-size: 16px;
-  background-color: #fdf6e3;
+  background-color: var(--base3);
 }
 
 a {
   transition: color 0.5s ease;
-  color: #268bd2;
+  color: var(--blue);
   text-decoration: none;
 }
 
 a:hover {
-  color: #cb4b16;
+  color: var(--orange);
 }
 
 .orange {
-  color: #cb4b16;
+  color: var(--orange);
 }
 
 .headline {
   text-align: center;
-  color: #cb4b16;
+  color: var(--orange);
   margin-bottom: 48px;
 }
 
@@ -111,17 +111,17 @@ h1 {
   font-weight: normal;
   font-size: 96px;
   text-align: center;
-  color: #cb4b16;
+  color: var(--orange);
 }
 
 .headline .mono {
-  color: #93a1a1;
+  color: var(--base1);
   font-weight: bold;
 }
 
 .wingdings {
   font-size: 200%;
-  color: #93a1a1;
+  color: var(--base1);
 }
 
 .container {
@@ -153,13 +153,13 @@ h1 {
   font-weight: normal;
   font-size: 300%;
   text-align: right;
-  color: #002b36;
+  color: var(--base03);
 }
 
 .monospaced-title .accent {
   border-radius: 3px;
-  color: #fdf6e3;
-  background-color: #002b36;
+  color: var(--base3);
+  background-color: var(--base03);
   height: 20px;
 }
 
@@ -172,7 +172,7 @@ h1 {
 }
 
 .background {
-  color: #eee8d5;
+  color: var(--base2);
   font-size: 400%;
   position: absolute;
   top: 0;
@@ -183,7 +183,7 @@ h1 {
 
 .showcase {
   font-size: 100%;
-  color: #93a1a1;
+  color: var(--base1);
 }
 
 .italic {
@@ -195,14 +195,14 @@ h1 {
 }
 
 .box .dropcap {
-  color: #cb4b16;
+  color: var(--orange);
   float: left;
   margin: 0px 0px 0px 0px;
 }
 
 
 .big {
-  color: #93a1a1;
+  color: var(--base1);
   font-size: 400%;
 }
 
@@ -221,29 +221,29 @@ h1 {
 
 /* code highlights */
 .keyword {
-  color: #b58900;
+  color: var(--yellow);
 }
 
 .op {
-  color: #cb4b16;
+  color: var(--orange);
 }
 
 .string {
-  color: #268bd2;
+  color: var(--blue);
 }
 
 .comment {
-  color: #93a1a1;
+  color: var(--base1);
   font-style: italic;
 }
 
 .linenr {
-  color: #93a1a1;
+  color: var(--base1);
 }
 
 footer {
   margin-top: 160px;
   text-align: center;
   font-style: italic;
-  color: #93a1a1;
+  color: var(--base1);
 }
