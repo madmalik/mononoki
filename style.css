@@ -1,41 +1,20 @@
 @font-face {
   font-family: 'mononoki';
-  src: url('fonts/mononoki-Regular.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */
-    url('fonts/mononoki-Regular.woff2') format('woff2'),
-    /* Super Modern Browsers */
-    url('fonts/mononoki-Regular.woff') format('woff'),
-    /* Pretty Modern Browsers */
-    url('fonts/mononoki-Regular.ttf') format('truetype');
-  /* Safari, Android, iOS */
+  src: url('fonts/mononoki-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'mononoki';
-  src: url('fonts/mononoki-Bold.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */
-    url('fonts/mononoki-Bold.woff2') format('woff2'),
-    /* Super Modern Browsers */
-    url('fonts/mononoki-Bold.woff') format('woff'),
-    /* Pretty Modern Browsers */
-    url('fonts/mononoki-Bold.ttf') format('truetype');
-  /* Safari, Android, iOS */
+  src: url('fonts/mononoki-Bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'mononoki';
-  src: url('fonts/mononoki-Italic.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */
-    url('fonts/mononoki-Italic.woff2') format('woff2'),
-    /* Super Modern Browsers */
-    url('fonts/mononoki-Italic.woff') format('woff'),
-    /* Pretty Modern Browsers */
-    url('fonts/mononoki-Italic.ttf') format('truetype');
-  /* Safari, Android, iOS */
+  src: url('fonts/mononoki-Italic.woff2') format('woff2');
   font-weight: normal;
   font-style: italic;
 
@@ -43,14 +22,7 @@
 
 @font-face {
   font-family: 'mononoki';
-  src: url('fonts/mononoki-BoldItalic.eot?#iefix') format('embedded-opentype'),
-    /* IE6-IE8 */
-    url('fonts/mononoki-BoldItalic.woff2') format('woff2'),
-    /* Super Modern Browsers */
-    url('fonts/mononoki-BoldItalic.woff') format('woff'),
-    /* Pretty Modern Browsers */
-    url('fonts/mononoki-BoldItalic.ttf') format('truetype');
-  /* Safari, Android, iOS */
+  src: url('fonts/mononoki-BoldItalic.woff2') format('woff2');
   font-weight: bold;
   font-style: italic;
 }
