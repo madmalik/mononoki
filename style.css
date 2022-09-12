@@ -111,6 +111,10 @@ h1 {
   margin: 16px 50px;
 }
 
+.centered {
+  text-align: center;
+}
+
 .monospaced-title {
   font-style: normal;
   font-weight: normal;
