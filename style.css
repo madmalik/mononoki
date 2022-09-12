@@ -115,6 +115,10 @@ h1 {
   text-align: center;
 }
 
+.code {
+  float: right;
+}
+
 .monospaced-title {
   font-style: normal;
   font-weight: normal;
