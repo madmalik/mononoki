@@ -86,11 +86,6 @@ h1 {
   color: var(--orange);
 }
 
-.headline .mono {
-  color: var(--base1);
-  font-weight: bold;
-}
-
 .wingdings {
   font-size: 200%;
   color: var(--base1);
@@ -109,10 +104,6 @@ h1 {
 
   flex-flow: row wrap;
   justify-content: center;
-}
-
-.container .showcase-left {
-  flex-flow: row wrap-reverse;
 }
 
 .box {
