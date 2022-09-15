@@ -28,25 +28,25 @@
 }
 
 :root {
-  /* --------------- */
-  /* solarized theme */
-  /* --------------- */
-  --base03: #002b36;
-  --base02: #073642;
-  --base01: #586e75;
-  --base00: #657b83;
-  --base0: #839496;
-  --base1: #93a1a1;
-  --base2: #eee8d5;
+  /* --------------------- */
+  /* quasi-solarized theme */
+  /* --------------------- */
+  --base03: #0D2B1E;
+  --base02: #1A362A;
+  --base01: #5C6F5F;
+  --base00: #687C6B;
+  --base0: #839584;
+  --base1: #92A291;
+  --base2: #EBE9D3;
   --base3: #fdf6e3;
-  --yellow: #b58900;
-  --orange: #cb4b16;
-  --red: #dc322f;
-  --magenta: #d33682;
-  --violet: #6c71c4;
-  --blue: #268bd2;
-  --cyan: #2aa198;
-  --green: #859900;
+  --yellow: #A09206;
+  --orange: #B07112;
+  --red: #B04216;
+  --magenta: #AD2E6E;
+  --violet: #8849CA;
+  --blue: #5666BD;
+  --cyan: #3C9463;
+  --green: #6B9300;
 
   --background: var(--base3);
   --background-accent: var(--base2);
