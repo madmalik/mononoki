@@ -80,7 +80,7 @@ body {
 
 a {
   transition: color 0.5s ease;
-  color: var(--blue);
+  color: var(--yellow);
   text-decoration: none;
 }
 
