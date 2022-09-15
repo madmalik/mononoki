@@ -136,8 +136,10 @@ h1 {
   text-align: center;
 }
 
-.code {
+code {
+  font-family: mononoki;
   float: right;
+  white-space: pre;
 }
 
 .monospaced-title {
@@ -215,15 +217,19 @@ h1 {
 
 /* code highlights */
 .keyword {
-  color: var(--yellow);
-}
-
-.op {
   color: var(--orange);
 }
 
+.built_in {
+  color: var(--red);
+}
+
 .string {
-  color: var(--blue);
+  color: var(--green);
+}
+
+.number {
+  color: var(--yellow);
 }
 
 .comment {
