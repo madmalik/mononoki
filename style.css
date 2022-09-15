@@ -88,10 +88,6 @@ a:hover {
   color: var(--orange);
 }
 
-.orange {
-  color: var(--orange);
-}
-
 .headline {
   text-align: center;
   color: var(--orange);
@@ -205,6 +201,7 @@ code {
 .donation {
   text-align: center;
   margin-bottom: 32px;
+  color: var(--cyan)
 }
 
 .small-headline {
@@ -225,7 +222,7 @@ code {
 }
 
 .string {
-  color: var(--green);
+  color: var(--cyan);
 }
 
 .number {
