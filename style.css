@@ -48,26 +48,18 @@
   --cyan: #2aa198;
   --green: #859900;
 
-  --color-a0: var(--base0);
-  --color-a1: var(--base1);
-  --color-a2: var(--base2);
-  --color-a3: var(--base3);
-  --color-b0: var(--base00);
-  --color-b1: var(--base01);
-  --color-b2: var(--base02);
-  --color-b3: var(--base03);
+  --background: var(--base3);
+  --background-accent: var(--base2);
+  --main-text: var(--base01);
+  --greyed-out-text: var(--base0);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-a0: var(--base00);
-    --color-a1: var(--base01);
-    --color-a2: var(--base02);
-    --color-a3: var(--base03);
-    --color-b0: var(--base0);
-    --color-b1: var(--base1);
-    --color-b2: var(--base2);
-    --color-b3: var(--base3);
+    --background: var(--base03);
+    --background-accent: var(--base02);
+    --main-text: var(--base1);
+    --greyed-out-text: var(--base00);
   }
 
   #low-png {
@@ -76,14 +68,14 @@
 }
 
 body {
-  color: var(--color-b1);
+  color: var(--main-text);
   font-family: mononoki;
   width: 90%;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   font-size: 16px;
-  background-color: var(--color-a3);
+  background-color: var(--background);
 }
 
 a {
@@ -117,7 +109,7 @@ h1 {
 
 .wingdings {
   font-size: 200%;
-  color: var(--color-a1);
+  color: var(--greyed-out-text);
 }
 
 .container {
@@ -157,8 +149,8 @@ h1 {
 
 .monospaced-title .accent {
   border-radius: 3px;
-  color: var(--color-a3);
-  background-color: var(--color-b1);
+  color: var(--background);
+  background-color: var(--main-text);
   height: 20px;
 }
 
@@ -171,7 +163,7 @@ h1 {
 }
 
 .background {
-  color: var(--color-a2);
+  color: var(--background-accent);
   font-size: 400%;
   position: absolute;
   top: 0;
@@ -181,7 +173,7 @@ h1 {
 }
 
 .showcase {
-  color: var(--color-a1);
+  color: var(--greyed-out-text);
 }
 
 .showcase-title {
@@ -203,9 +195,8 @@ h1 {
   margin: 0px 0px 0px 0px;
 }
 
-
 .big {
-  color: var(--color-a1);
+  color: var(--greyed-out-text);
   font-size: 400%;
 }
 
@@ -236,17 +227,13 @@ h1 {
 }
 
 .comment {
-  color: var(--color-a1);
+  color: var(--greyed-out-text);
   font-style: italic;
-}
-
-.linenr {
-  color: var(--color-a1);
 }
 
 footer {
   margin-top: 160px;
   text-align: center;
   font-style: italic;
-  color: var(--color-a1);
+  color: var(--greyed-out-text);
 }
