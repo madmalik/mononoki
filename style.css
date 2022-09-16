@@ -203,13 +203,9 @@ code {
 }
 
 .donation {
+  color: var(--cyan);
   text-align: center;
-  margin-bottom: 32px;
-  color: var(--cyan)
-}
-
-.small-headline {
-  margin-bottom: 1.3em;
+  margin-bottom: 3em;
 }
 
 .align-right {
