@@ -168,16 +168,6 @@ code {
   font-size: 275%;
 }
 
-.background {
-  color: var(--background-accent);
-  font-size: 400%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  white-space: pre;
-}
-
 .showcase {
   color: var(--greyed-out-text);
 }
