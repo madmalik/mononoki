@@ -117,17 +117,9 @@ h1 {
 }
 
 .container {
-  padding: 0;
-  margin: 0;
   position: relative;
-
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
   display: flex;
-
-  flex-flow: row wrap;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
