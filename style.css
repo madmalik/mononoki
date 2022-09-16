@@ -79,13 +79,15 @@ body {
 }
 
 a {
-  transition: color 0.5s ease;
-  color: var(--yellow);
+  color: var(--green);
   text-decoration: none;
+  transition: color 400ms ease;
 }
 
-a:hover {
-  color: var(--orange);
+a:hover,
+a:focus {
+  color: var(--red);
+  transition: color 200ms ease;
 }
 
 .headline {
@@ -209,7 +211,7 @@ code {
 }
 
 .donation {
-  color: var(--cyan);
+  color: var(--orange);
   text-align: center;
   margin-bottom: 3em;
 }
@@ -228,7 +230,7 @@ code {
 }
 
 .string {
-  color: var(--cyan);
+  color: var(--green);
 }
 
 .number {
