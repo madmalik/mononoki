@@ -187,10 +187,14 @@ code {
   font-weight: bold;
 }
 
-.box .dropcap {
+.dropcap {
   color: var(--orange);
   float: left;
-  margin: 0px 0px 0px 0px;
+}
+
+.droptext::first-letter {
+  color: #0000;
+  margin-left: -1ch;
 }
 
 .big {
