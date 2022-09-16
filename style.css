@@ -39,14 +39,14 @@
   --base1: #92A291;
   --base2: #EBE9D3;
   --base3: #fdf6e3;
-  --yellow: #A09206;
-  --orange: #B07112;
-  --red: #B04216;
-  --magenta: #AD2E6E;
-  --violet: #8849CA;
-  --blue: #5666BD;
-  --cyan: #3C9463;
-  --green: #6B9300;
+  --yellow: #B69200;
+  --orange: #C76C1C;
+  --red: #BD4026;
+  --magenta: #B53775;
+  --violet: #9D40DD;
+  --blue: #4268CA;
+  --cyan: #00997A;
+  --green: #5E9500;
 
   --background: var(--base3);
   --background-accent: var(--base2);
