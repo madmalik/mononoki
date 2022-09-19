@@ -96,19 +96,17 @@ a:focus {
   margin-bottom: 48px;
 }
 
-.top-link {
-  padding: .5em .75em;
-  border: 2px solid;
-  border-radius: 3px;
-}
-
 h1 {
   line-height: 64px;
   margin-bottom: 16px;
   font-weight: normal;
   font-size: 96px;
-  text-align: center;
-  color: var(--orange);
+}
+
+.top-link {
+  padding: .5em .75em;
+  border: 2px solid;
+  border-radius: 3px;
 }
 
 .wingdings {
