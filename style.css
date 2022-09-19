@@ -68,14 +68,15 @@
 }
 
 body {
-  color: var(--main-text);
   font-family: mononoki;
+  font-size: 16px;
+  color: var(--main-text);
+  background-color: var(--background);
+
   width: 90%;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  font-size: 16px;
-  background-color: var(--background);
 }
 
 a {
