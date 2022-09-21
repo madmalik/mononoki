@@ -87,18 +87,6 @@ body {
   margin-right: auto;
 }
 
-a {
-  color: var(--green);
-  text-decoration: none;
-  transition: color 400ms ease;
-}
-
-a:hover,
-a:focus {
-  color: var(--red);
-  transition: color 200ms ease;
-}
-
 .headline {
   text-align: center;
   color: var(--orange);
@@ -111,6 +99,18 @@ a:focus {
   margin-bottom: calc(0.5rem + (2 * var(--unit)));
   font-weight: normal;
   font-size: calc(2rem + (6.5 * var(--unit)));
+}
+
+a {
+  color: var(--green);
+  text-decoration: none;
+  transition: color 400ms ease;
+}
+
+a:hover,
+a:focus {
+  color: var(--red);
+  transition: color 200ms ease;
 }
 
 .top-link {
