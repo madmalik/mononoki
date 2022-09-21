@@ -107,6 +107,11 @@ a {
   transition: color 400ms ease;
 }
 
+a::before {
+  content: '\2192';
+  padding-right: .5ch;
+}
+
 a:hover,
 a:focus {
   color: var(--red);
