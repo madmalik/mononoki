@@ -52,6 +52,14 @@
   --background-accent: var(--base2);
   --main-text: var(--base01);
   --greyed-out-text: var(--base0);
+
+  /* -------------------- */
+  /* Dimensions and sizes */
+  /* -------------------- */
+  --unit-min: 3.2px;
+  --unit-max: 10px;
+  --unit-flex: 1vw;
+  --unit: clamp(var(--unit-min), var(--unit-flex), var(--unit-max));
 }
 
 @media (prefers-color-scheme: dark) {
@@ -94,14 +102,15 @@ a:focus {
 .headline {
   text-align: center;
   color: var(--orange);
-  margin-bottom: 48px;
+  margin-bottom: calc(1rem + (3 * var(--unit)));
+  font-size: calc(1rem + (.5 * var(--unit)));
 }
 
-h1 {
-  line-height: 64px;
-  margin-bottom: 16px;
+.headline h1 {
+  line-height: calc(1.3rem + (4.5 * var(--unit)));
+  margin-bottom: calc(0.5rem + (2 * var(--unit)));
   font-weight: normal;
-  font-size: 96px;
+  font-size: calc(2rem + (6.5 * var(--unit)));
 }
 
 .top-link {
