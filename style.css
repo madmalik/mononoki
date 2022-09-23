@@ -81,16 +81,15 @@ body {
   color: var(--main-text);
   background-color: var(--background);
 
-  width: 90%;
+  min-width: 320px;
   max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 1rem auto;
 }
 
 .headline {
   text-align: center;
   color: var(--orange);
-  margin-bottom: calc(1rem + (3 * var(--unit)));
+  margin: 0 10% calc(1rem + (3 * var(--unit)));
   font-size: calc(1rem + (.5 * var(--unit)));
 }
 
@@ -236,7 +235,7 @@ code {
 }
 
 footer {
-  margin-top: 160px;
+  margin: calc(1rem + (3 * var(--unit))) 10% 0;
   text-align: center;
   font-style: italic;
   color: var(--greyed-out-text);
