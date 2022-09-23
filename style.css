@@ -89,17 +89,19 @@ body {
 }
 
 .headline {
-  text-align: center;
-  color: var(--orange);
-  margin: 0 10% var(--v-space);
   font-size: calc(1rem + (.5 * var(--unit)));
+  color: var(--orange);
+  text-align: center;
+
+  margin: 0 10% var(--v-space);
 }
 
 .headline h1 {
-  line-height: calc(1.3rem + (4.5 * var(--unit)));
-  margin-bottom: calc(0.5rem + (2 * var(--unit)));
-  font-weight: normal;
   font-size: calc(2rem + (6.5 * var(--unit)));
+  font-weight: normal;
+  line-height: calc(1.3rem + (4.5 * var(--unit)));
+
+  margin-bottom: calc(0.5rem + (2 * var(--unit)));
 }
 
 .grid {
