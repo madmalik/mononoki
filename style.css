@@ -101,6 +101,20 @@ body {
   font-size: calc(2rem + (6.5 * var(--unit)));
 }
 
+.grid {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fit, 400px);
+  row-gap: 30px;
+  column-gap: 100px;
+  padding: 30px 50px;
+}
+
+.span-all {
+  grid-column: 1 / -1;
+}
+
 a {
   color: var(--green);
   text-decoration: none;
@@ -127,22 +141,9 @@ a:focus {
 .wingdings {
   font-size: 200%;
   color: var(--greyed-out-text);
+  justify-self: start;
 }
 
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.box {
-  width: 400px;
-  margin: 16px 50px;
-}
-
-.centered {
-  text-align: center;
-}
 
 code {
   font-family: mononoki;
