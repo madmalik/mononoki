@@ -240,3 +240,7 @@ footer {
   font-style: italic;
   color: var(--greyed-out-text);
 }
+
+.nowrap {
+  white-space: nowrap;
+}
