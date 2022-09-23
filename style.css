@@ -62,6 +62,8 @@
   --unit: clamp(var(--unit-min), var(--unit-flex), var(--unit-max));
 
   --v-space: calc(1rem + (3 * var(--unit)));
+  --col-width: calc(90 * var(--unit));
+  --col-gap: calc(10 * var(--unit));
 }
 
 @media (prefers-color-scheme: dark) {
@@ -74,6 +76,12 @@
 
   #low-png {
     content: url(low_light.png);
+  }
+}
+
+@media (min-width: 720px) {
+  :root {
+    --col-width: calc(40 * var(--unit));
   }
 }
 
@@ -109,10 +117,10 @@ body {
   display: grid;
   justify-content: center;
   justify-items: center;
-  grid-template-columns: repeat(auto-fit, 400px);
+  grid-template-columns: repeat(auto-fit, var(--col-width));
   row-gap: var(--v-space);
-  column-gap: 100px;
-  padding: var(--v-space) 50px;
+  column-gap: var(--col-gap);
+  padding: var(--v-space) 5%;
 }
 
 .span-all {
