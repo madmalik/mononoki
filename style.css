@@ -60,6 +60,8 @@
   --unit-max: 10px;
   --unit-flex: 1vw;
   --unit: clamp(var(--unit-min), var(--unit-flex), var(--unit-max));
+
+  --v-space: calc(1rem + (3 * var(--unit)));
 }
 
 @media (prefers-color-scheme: dark) {
@@ -89,7 +91,7 @@ body {
 .headline {
   text-align: center;
   color: var(--orange);
-  margin: 0 10% calc(1rem + (3 * var(--unit)));
+  margin: 0 10% var(--v-space);
   font-size: calc(1rem + (.5 * var(--unit)));
 }
 
@@ -105,9 +107,9 @@ body {
   justify-content: center;
   justify-items: center;
   grid-template-columns: repeat(auto-fit, 400px);
-  row-gap: 30px;
+  row-gap: var(--v-space);
   column-gap: 100px;
-  padding: 30px 50px;
+  padding: var(--v-space) 50px;
 }
 
 .span-all {
@@ -142,7 +144,6 @@ a:focus {
   color: var(--greyed-out-text);
   justify-self: start;
 }
-
 
 code {
   font-family: mononoki;
@@ -235,7 +236,7 @@ code {
 }
 
 footer {
-  margin: calc(1rem + (3 * var(--unit))) 10% 0;
+  margin: var(--v-space) 10% 0;
   text-align: center;
   font-style: italic;
   color: var(--greyed-out-text);
