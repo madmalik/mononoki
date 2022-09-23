@@ -71,7 +71,7 @@
   }
 
   #low-png {
-    filter: invert();
+    content: url(low_light.png);
   }
 }
 
