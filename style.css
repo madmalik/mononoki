@@ -82,6 +82,7 @@ body {
   font-size: 16px;
   color: var(--main-text);
   background-color: var(--background);
+  background: linear-gradient(to right, var(--background-accent) 0 calc(50% - 500px), var(--background) 0 calc(50% + 500px), var(--background-accent) 0);
 
   min-width: 320px;
   max-width: 1000px;
