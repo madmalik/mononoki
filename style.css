@@ -214,10 +214,6 @@ code {
   font-style: italic;
 }
 
-.bold {
-  font-weight: bold;
-}
-
 .dropcap {
   color: var(--orange);
   float: left;
