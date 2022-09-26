@@ -180,10 +180,9 @@ code {
 }
 
 .monospaced-title .accent {
-  border-radius: 3px;
   color: var(--background);
   background-color: var(--main-text);
-  height: 20px;
+  border-radius: 3px;
 }
 
 .resolution-title {
