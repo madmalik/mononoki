@@ -258,8 +258,8 @@ code {
 }
 
 footer {
-  margin: var(--v-space) 10% 0;
-  text-align: center;
-  font-style: italic;
   color: var(--greyed-out-text);
+  font-style: italic;
+  text-align: center;
+  margin: var(--v-space) 10% 0;
 }
