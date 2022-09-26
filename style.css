@@ -163,6 +163,16 @@ a:focus {
   border-radius: 3px;
 }
 
+.dropcap {
+  color: var(--orange);
+  float: left;
+}
+
+.droptext::first-letter {
+  color: #0000;
+  margin-left: -1ch;
+}
+
 .wingdings {
   font-size: 200%;
   color: var(--greyed-out-text);
@@ -173,6 +183,30 @@ code {
   font-family: mononoki;
   white-space: pre;
 }
+
+/* code highlights */
+.keyword {
+  color: var(--orange);
+}
+
+.built_in {
+  color: var(--red);
+}
+
+.string {
+  color: var(--green);
+}
+
+.number {
+  color: var(--yellow);
+}
+
+.comment {
+  color: var(--greyed-out-text);
+  font-style: italic;
+}
+
+/* --------------- */
 
 .monospaced-title {
   font-size: 300%;
@@ -201,6 +235,11 @@ code {
   color: var(--greyed-out-text);
 }
 
+.donation {
+  color: var(--orange);
+  text-align: center;
+}
+
 .showcase-title {
   text-align: center;
   margin: 1rem 0;
@@ -214,41 +253,8 @@ code {
   font-style: italic;
 }
 
-.dropcap {
-  color: var(--orange);
-  float: left;
-}
-
-.droptext::first-letter {
-  color: #0000;
-  margin-left: -1ch;
-}
-
-.donation {
-  color: var(--orange);
-  text-align: center;
-}
-
-/* code highlights */
-.keyword {
-  color: var(--orange);
-}
-
-.built_in {
-  color: var(--red);
-}
-
-.string {
-  color: var(--green);
-}
-
-.number {
-  color: var(--yellow);
-}
-
-.comment {
-  color: var(--greyed-out-text);
-  font-style: italic;
+.nowrap {
+  white-space: nowrap;
 }
 
 footer {
@@ -256,8 +262,4 @@ footer {
   text-align: center;
   font-style: italic;
   color: var(--greyed-out-text);
-}
-
-.nowrap {
-  white-space: nowrap;
 }
