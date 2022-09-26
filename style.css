@@ -192,6 +192,15 @@ code {
   font-size: 275%;
 }
 
+.differentiation-title {
+  text-align: center;
+}
+
+.differentiation-title .example {
+  font-size: 300%;
+  color: var(--greyed-out-text);
+}
+
 .showcase {
   color: var(--greyed-out-text);
 }
@@ -219,18 +228,9 @@ code {
   margin-left: -1ch;
 }
 
-.big {
-  color: var(--greyed-out-text);
-  font-size: 400%;
-}
-
 .donation {
   color: var(--orange);
   text-align: center;
-}
-
-.align-right {
-  text-align: right;
 }
 
 /* code highlights */
