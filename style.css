@@ -259,7 +259,6 @@ code {
 
 footer {
   color: var(--greyed-out-text);
-  font-style: italic;
   text-align: center;
   margin: var(--v-space) 10% 0;
 }
