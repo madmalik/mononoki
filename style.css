@@ -201,13 +201,13 @@ code {
   color: var(--greyed-out-text);
 }
 
-.showcase {
-  color: var(--greyed-out-text);
+.showcase-title {
+  text-align: center;
+  margin: 1rem 0;
 }
 
-.showcase-title {
-  text-align: right;
-  margin: 16px 0;
+.showcase {
+  color: var(--greyed-out-text);
 }
 
 .italic {
