@@ -116,7 +116,7 @@ body {
 .grid {
   display: grid;
   justify-content: center;
-  justify-items: center;
+  place-items: center;
   grid-template-columns: repeat(auto-fit, var(--col-width));
   row-gap: var(--v-space);
   column-gap: var(--col-gap);
