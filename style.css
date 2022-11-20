@@ -247,10 +247,15 @@ code {
 
 .showcase {
   color: var(--greyed-out-text);
+  line-height: 1.7rem;
 }
 
 .italic {
   font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 .nowrap {
