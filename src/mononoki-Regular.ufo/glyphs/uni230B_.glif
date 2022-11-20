@@ -16,14 +16,14 @@
 			<point x="416" y="-178"/>
 			<point x="425" y="-170"/>
 			<point x="425" y="-153" type="curve" smooth="yes"/>
-			<point x="425" y="525" type="line" smooth="yes"/>
-			<point x="425" y="541"/>
-			<point x="416" y="550"/>
-			<point x="400" y="550" type="curve" smooth="yes"/>
-			<point x="365" y="550" type="line" smooth="yes"/>
-			<point x="349" y="550"/>
-			<point x="340" y="541"/>
-			<point x="340" y="525" type="curve" smooth="yes"/>
+			<point x="425" y="725" type="line" smooth="yes"/>
+			<point x="425" y="741"/>
+			<point x="416" y="750"/>
+			<point x="400" y="750" type="curve" smooth="yes"/>
+			<point x="365" y="750" type="line" smooth="yes"/>
+			<point x="349" y="750"/>
+			<point x="340" y="741"/>
+			<point x="340" y="725" type="curve" smooth="yes"/>
 			<point x="340" y="-102" type="line"/>
 		</contour>
 	</outline>

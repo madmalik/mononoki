@@ -608,6 +608,8 @@
 	<string>infinity.glif</string>
 	<key>integral</key>
 	<string>integral.glif</string>
+	<key>intersection</key>
+	<string>intersection.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
 	<key>iota</key>
@@ -684,6 +686,8 @@
 	<string>notelement.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
+	<key>notsubset</key>
+	<string>notsubset.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>nu</key>
@@ -768,6 +772,8 @@
 	<string>plusminus.glif</string>
 	<key>product</key>
 	<string>product.glif</string>
+	<key>propersubset</key>
+	<string>propersubset.glif</string>
 	<key>propersuperset</key>
 	<string>propersuperset.glif</string>
 	<key>psi</key>
@@ -1278,10 +1284,6 @@
 	<string>uni219E_.glif</string>
 	<key>uni21A0</key>
 	<string>uni21A_0.glif</string>
-	<key>uni21A0.001</key>
-	<string>uni21A_0.001.glif</string>
-	<key>uni21A0.002</key>
-	<string>uni21A_0.002.glif</string>
 	<key>uni2204</key>
 	<string>uni2204.glif</string>
 	<key>uni2206</key>
@@ -1316,6 +1318,8 @@
 	<string>uni2272.glif</string>
 	<key>uni2273</key>
 	<string>uni2273.glif</string>
+	<key>uni2285</key>
+	<string>uni2285.glif</string>
 	<key>uni228E</key>
 	<string>uni228E_.glif</string>
 	<key>uni2294</key>
@@ -1690,6 +1694,8 @@
 	<string>uniE_0B_F_.glif</string>
 	<key>uniFEFF</key>
 	<string>uniF_E_F_F_.glif</string>
+	<key>union</key>
+	<string>union.glif</string>
 	<key>universal</key>
 	<string>universal.glif</string>
 	<key>uogonek</key>

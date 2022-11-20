@@ -2,7 +2,7 @@
 <glyph name="six.numr" format="2">
 	<advance width="575"/>
 	<outline>
-		<component base="six.dnom" xOffset="63" yOffset="400"/>
+		<component base="six.dnom" xOffset="103" yOffset="600"/>
 	</outline>
 	<lib>
 		<dict>

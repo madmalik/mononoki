@@ -143,7 +143,7 @@ feature mark {
 		pos base uni0416  <anchor 288 720> mark @mark_top;
 		pos base uni0417  <anchor 288 720> mark @mark_top;
 		pos base uni0418  <anchor 288 720> mark @mark_top;
-		pos base uni0419  <anchor 863 720> mark @mark_top;
+		pos base uni0419  <anchor 288 720> mark @mark_top;
 		pos base uni041A  <anchor 288 720> mark @mark_top;
 		pos base uni040C  <anchor 288 720> mark @mark_top;
 		pos base uni041C  <anchor 288 720> mark @mark_top;

@@ -649,6 +649,8 @@
 		<string>uni220C</string>
 		<string>notelement</string>
 		<string>uni2262</string>
+		<string>notsubset</string>
+		<string>uni2285</string>
 		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
@@ -668,6 +670,8 @@
 		<string>infinity</string>
 		<string>logicaland</string>
 		<string>logicalor</string>
+		<string>intersection</string>
+		<string>union</string>
 		<string>integral</string>
 		<string>uni2206</string>
 		<string>product</string>
@@ -685,6 +689,7 @@
 		<string>uni22A2</string>
 		<string>uni2218</string>
 		<string>uni2294</string>
+		<string>propersubset</string>
 		<string>suchthat</string>
 		<string>propersuperset</string>
 		<string>uni22A4</string>
@@ -711,8 +716,6 @@
 		<string>arrowdblright</string>
 		<string>arrowdblleft</string>
 		<string>arrowdblboth</string>
-		<string>uni21A0.001</string>
-		<string>uni21A0.002</string>
 		<string>arrowdblleft.001</string>
 		<string>uni2581</string>
 		<string>uni2582</string>

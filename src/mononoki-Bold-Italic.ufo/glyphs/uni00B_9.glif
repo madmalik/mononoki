@@ -3,6 +3,6 @@
 	<advance width="575"/>
 	<unicode hex="00B9"/>
 	<outline>
-		<component base="two.numr"/>
+		<component base="one.dnom" xOffset="95" yOffset="600"/>
 	</outline>
 </glyph>

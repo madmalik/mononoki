@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="intersection" format="2">
+	<advance width="575"/>
+	<unicode hex="2229"/>
+	<outline>
+		<component base="union" yScale="-1" yOffset="435"/>
+	</outline>
+</glyph>

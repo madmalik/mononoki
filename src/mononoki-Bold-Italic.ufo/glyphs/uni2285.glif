@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2285" format="2">
+	<advance width="575"/>
+	<unicode hex="2285"/>
+	<outline>
+		<component base="propersuperset"/>
+		<contour>
+			<point x="148" y="-86" type="curve"/>
+			<point x="463" y="666" type="line"/>
+			<point x="469" y="681"/>
+			<point x="464" y="692"/>
+			<point x="449" y="696" type="curve" smooth="yes"/>
+			<point x="417" y="704" type="line" smooth="yes"/>
+			<point x="403" y="708"/>
+			<point x="390" y="701"/>
+			<point x="384" y="686" type="curve"/>
+			<point x="69" y="-66" type="line"/>
+			<point x="63" y="-81"/>
+			<point x="68" y="-92"/>
+			<point x="83" y="-96" type="curve" smooth="yes"/>
+			<point x="115" y="-104" type="line" smooth="yes"/>
+			<point x="129" y="-108"/>
+			<point x="141" y="-101"/>
+		</contour>
+	</outline>
+</glyph>

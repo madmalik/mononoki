@@ -3,13 +3,13 @@
 	<advance width="575"/>
 	<unicode hex="0061"/>
 	<anchor x="248" y="0" name="bottom"/>
-	<anchor x="477" y="10" name="ogonek"/>
+	<anchor x="427" y="10" name="ogonek"/>
 	<anchor x="338" y="550" name="top"/>
 	<outline>
 		<contour>
 			<point x="454" y="30" type="curve" smooth="yes"/>
 			<point x="522" y="471" type="line" smooth="yes"/>
-			<point x="525" y="487"/>
+			<point x="524" y="487"/>
 			<point x="517" y="497"/>
 			<point x="501" y="500" type="curve" smooth="yes"/>
 			<point x="440" y="508"/>
