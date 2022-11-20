@@ -862,10 +862,14 @@
 	<string>space.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
+	<key>subsetorequal</key>
+	<string>subsetorequal.glif</string>
 	<key>suchthat</key>
 	<string>suchthat.glif</string>
 	<key>summation</key>
 	<string>summation.glif</string>
+	<key>supersetorequal</key>
+	<string>supersetorequal.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>tau</key>
@@ -1320,6 +1324,14 @@
 	<string>uni2273.glif</string>
 	<key>uni2285</key>
 	<string>uni2285.glif</string>
+	<key>uni2288</key>
+	<string>uni2288.glif</string>
+	<key>uni2289</key>
+	<string>uni2289.glif</string>
+	<key>uni228A</key>
+	<string>uni228A_.glif</string>
+	<key>uni228B</key>
+	<string>uni228B_.glif</string>
 	<key>uni228E</key>
 	<string>uni228E_.glif</string>
 	<key>uni2294</key>
@@ -1716,8 +1728,8 @@
 	<string>v.glif</string>
 	<key>var_phi</key>
 	<string>var_phi.glif</string>
-	<key>var_theta</key>
-	<string>var_theta.glif</string>
+	<key>vartheta</key>
+	<string>vartheta.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>wacute</key>

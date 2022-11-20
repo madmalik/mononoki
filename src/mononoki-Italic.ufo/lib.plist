@@ -692,12 +692,18 @@
 		<string>uni2218</string>
 		<string>uni2294</string>
 		<string>propersubset</string>
+		<string>subsetorequal</string>
 		<string>suchthat</string>
 		<string>propersuperset</string>
+		<string>supersetorequal</string>
 		<string>uni22A4</string>
 		<string>uni22A3</string>
 		<string>uni2204</string>
 		<string>therefore</string>
+		<string>uni2288</string>
+		<string>uni2289</string>
+		<string>uni228A</string>
+		<string>uni228B</string>
 		<string>circleplus</string>
 		<string>universal</string>
 		<string>uni22A5</string>
@@ -921,7 +927,7 @@
 		<string>lighthorzbxd</string>
 		<string>unbenannt</string>
 		<string>var_phi</string>
-		<string>var_theta</string>
+		<string>vartheta</string>
 	</array>
 	<key>public.skipExportGlyphs</key>
 	<array>

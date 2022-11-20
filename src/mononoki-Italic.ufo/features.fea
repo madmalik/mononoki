@@ -450,7 +450,7 @@ feature mark {
 		pos base c.hex  <anchor 366 550> mark @mark_top;
 		pos base d.hex  <anchor 439 520> mark @mark_top;
 		pos base e.hex  <anchor 344 550> mark @mark_top;
-		pos base uni02E1  <anchor 328 700> mark @mark_top;
+		pos base uni02E1  <anchor 399 699> mark @mark_top;
 		pos base uni207F  <anchor 368 800> mark @mark_top;
 		pos base ordmasculine  <anchor 315 450> mark @mark_top;
 	} mark_latn;

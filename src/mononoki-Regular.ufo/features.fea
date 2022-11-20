@@ -131,7 +131,7 @@ sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ### feature:-1:mark ###
 feature mark {
 	lookup mark_DFLT {
-		pos base uni1D9C  <anchor 288 810> mark @mark_top;
+		pos base uni1D9C  <anchor 288 960> mark @mark_top;
 		pos base cent  <anchor 288 550> mark @mark_top;
 		pos base uniE0A3  <anchor -412 700> mark @mark_top;
 	} mark_DFLT;

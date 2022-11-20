@@ -446,7 +446,7 @@ feature mark {
 		pos base c.hex  <anchor 371 570> mark @mark_top;
 		pos base d.hex  <anchor 439 520> mark @mark_top;
 		pos base e.hex  <anchor 351 570> mark @mark_top;
-		pos base uni02E1  <anchor 341 720> mark @mark_top;
+		pos base uni02E1  <anchor 358 700> mark @mark_top;
 		pos base uni207F  <anchor 369 820> mark @mark_top;
 	} mark_latn;
 	lookupflag 0;

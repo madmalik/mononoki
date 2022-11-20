@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="subsetorequal" format="2">
+	<advance width="575"/>
+	<unicode hex="2286"/>
+	<outline>
+		<component base="propersubset" yOffset="150"/>
+		<component base="minus" yOffset="-212"/>
+	</outline>
+</glyph>
