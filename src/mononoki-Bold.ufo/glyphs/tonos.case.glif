@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos.case" format="2">
+	<advance width="575"/>
+	<anchor x="40" y="730" name="_topleft"/>
+	<outline>
+		<component base="tonos"/>
+	</outline>
+</glyph>

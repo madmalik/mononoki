@@ -2,7 +2,12 @@
 <glyph name="O" format="2">
 	<advance width="575"/>
 	<unicode hex="004F"/>
+	<anchor x="288" y="0" name="bottom"/>
+	<anchor x="288" y="350" name="center"/>
+	<anchor x="518" y="10" name="ogonek"/>
 	<anchor x="288" y="700" name="top"/>
+	<anchor x="20" y="700" name="topleft"/>
+	<anchor x="555" y="700" name="topright"/>
 	<outline>
 		<contour>
 			<point x="288" y="710" type="curve" smooth="yes"/>

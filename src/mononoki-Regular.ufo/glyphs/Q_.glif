@@ -2,6 +2,7 @@
 <glyph name="Q" format="2">
 	<advance width="575"/>
 	<unicode hex="0051"/>
+	<anchor x="288" y="0" name="bottom"/>
 	<anchor x="288" y="700" name="top"/>
 	<outline>
 		<contour>

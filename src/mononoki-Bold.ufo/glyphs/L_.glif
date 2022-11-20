@@ -3,7 +3,9 @@
 	<advance width="575"/>
 	<unicode hex="004C"/>
 	<anchor x="288" y="0" name="bottom"/>
+	<anchor x="288" y="360" name="center"/>
 	<anchor x="288" y="700" name="top"/>
+	<anchor x="555" y="720" name="topright"/>
 	<outline>
 		<contour>
 			<point x="529" y="97" type="curve"/>

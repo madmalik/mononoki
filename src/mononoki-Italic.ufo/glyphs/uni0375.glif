@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0375" format="2">
+	<advance width="575"/>
+	<unicode hex="0375"/>
+	<outline>
+		<component base="minute" xOffset="-100" yOffset="-600"/>
+	</outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0BA" format="2">
+	<advance width="575"/>
+	<unicode hex="E0BA"/>
+	<note>
+		uniE0BA
+	</note>
+	<outline>
+		<contour>
+			<point x="-345" y="-250" type="curve" smooth="yes"/>
+			<point x="595" y="-250" type="line"/>
+			<point x="595" y="900" type="line"/>
+			<point x="490" y="900" type="line" smooth="yes"/>
+			<point x="477" y="900"/>
+			<point x="468" y="895"/>
+			<point x="460" y="885" type="curve" smooth="yes"/>
+			<point x="-360" y="-220" type="line" smooth="yes"/>
+			<point x="-372" y="-237"/>
+			<point x="-366" y="-250"/>
+		</contour>
+	</outline>
+</glyph>

@@ -2,26 +2,24 @@
 <glyph name="eta" format="2">
 	<advance width="575"/>
 	<unicode hex="03B7"/>
+	<anchor x="333" y="550" name="top"/>
 	<outline>
 		<contour>
 			<point x="120" y="471" type="curve" smooth="yes"/>
 			<point x="49" y="25" type="line" smooth="yes"/>
-			<point x="47" y="9"/>
+			<point x="46" y="9"/>
 			<point x="54" y="0"/>
 			<point x="70" y="0" type="curve" smooth="yes"/>
 			<point x="105" y="0" type="line" smooth="yes"/>
 			<point x="122" y="0"/>
-			<point x="132" y="9"/>
+			<point x="131" y="9"/>
 			<point x="134" y="25" type="curve" smooth="yes"/>
 			<point x="199" y="430" type="line"/>
 			<point x="244" y="433"/>
 			<point x="283" y="434"/>
 			<point x="307" y="434" type="curve" smooth="yes"/>
-			<point x="384" y="434"/>
-			<point x="418" y="411"/>
-			<point x="418" y="348" type="curve" smooth="yes"/>
-			<point x="418" y="336"/>
-			<point x="416" y="323"/>
+			<point x="398" y="434"/>
+			<point x="429" y="402"/>
 			<point x="414" y="308" type="curve" smooth="yes"/>
 			<point x="330" y="-225" type="line" smooth="yes"/>
 			<point x="327" y="-241"/>
@@ -32,11 +30,8 @@
 			<point x="412" y="-241"/>
 			<point x="415" y="-225" type="curve" smooth="yes"/>
 			<point x="499" y="308" type="line" smooth="yes"/>
-			<point x="502" y="329"/>
-			<point x="504" y="349"/>
-			<point x="504" y="366" type="curve" smooth="yes"/>
-			<point x="504" y="469"/>
-			<point x="445" y="510"/>
+			<point x="522" y="454"/>
+			<point x="467" y="510"/>
 			<point x="319" y="510" type="curve" smooth="yes"/>
 			<point x="286" y="510"/>
 			<point x="222" y="509"/>

@@ -14,6 +14,8 @@
 	<real>-9.0</real>
 	<key>openTypeHeadCreated</key>
 	<string>2016/05/30 09:02:42</string>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Matthias Tellen</string>
 	<key>openTypeNamePreferredSubfamilyName</key>

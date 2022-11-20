@@ -2,6 +2,8 @@
 <glyph name="W" format="2">
 	<advance width="575"/>
 	<unicode hex="0057"/>
+	<anchor x="248" y="0" name="bottom"/>
+	<anchor x="359" y="700" name="top"/>
 	<outline>
 		<component base="M" xScale="-1" yScale="-1" xOffset="607" yOffset="700"/>
 	</outline>

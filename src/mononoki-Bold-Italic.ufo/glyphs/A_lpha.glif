@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alpha" format="2">
+	<advance width="575"/>
+	<unicode hex="0391"/>
+	<anchor x="143" y="720" name="topleft"/>
+	<outline>
+		<component base="A"/>
+	</outline>
+</glyph>

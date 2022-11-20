@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.customValue</key>
 	<integer>0</integer>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
-	<true/>
+	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
 	<array>
 		<dict>
@@ -72,6 +72,7 @@
 		<string>Eogonek</string>
 		<string>F</string>
 		<string>G</string>
+		<string>Gbreve</string>
 		<string>Gcircumflex</string>
 		<string>H</string>
 		<string>Hcircumflex</string>
@@ -80,6 +81,7 @@
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
+		<string>Idot</string>
 		<string>Igrave</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
@@ -186,6 +188,7 @@
 		<string>eogonek</string>
 		<string>f</string>
 		<string>g</string>
+		<string>gbreve</string>
 		<string>gcircumflex</string>
 		<string>h</string>
 		<string>hcircumflex</string>
@@ -271,6 +274,8 @@
 		<string>d.hex</string>
 		<string>e.hex</string>
 		<string>f.hex</string>
+		<string>uni1D62</string>
+		<string>uni1D62.001</string>
 		<string>uni02E1</string>
 		<string>uni207F</string>
 		<string>uni02B3</string>
@@ -383,6 +388,15 @@
 		<string>Chi</string>
 		<string>Psi</string>
 		<string>uni03A9</string>
+		<string>Alphatonos</string>
+		<string>Epsilontonos</string>
+		<string>Etatonos</string>
+		<string>Iotatonos</string>
+		<string>Omicrontonos</string>
+		<string>Upsilontonos</string>
+		<string>Omegatonos</string>
+		<string>Iotadieresis</string>
+		<string>Upsilondieresis</string>
 		<string>alpha</string>
 		<string>beta</string>
 		<string>gamma</string>
@@ -400,6 +414,7 @@
 		<string>omicron</string>
 		<string>pi</string>
 		<string>rho</string>
+		<string>uni03C2</string>
 		<string>sigma</string>
 		<string>tau</string>
 		<string>upsilon</string>
@@ -407,6 +422,17 @@
 		<string>chi</string>
 		<string>psi</string>
 		<string>omega</string>
+		<string>iotatonos</string>
+		<string>iotadieresis</string>
+		<string>iotadieresistonos</string>
+		<string>upsilontonos</string>
+		<string>upsilondieresis</string>
+		<string>upsilondieresistonos</string>
+		<string>omicrontonos</string>
+		<string>omegatonos</string>
+		<string>alphatonos</string>
+		<string>epsilontonos</string>
+		<string>etatonos</string>
 		<string>uni2102</string>
 		<string>uni210D</string>
 		<string>uni2115</string>
@@ -516,6 +542,8 @@
 		<string>uni2009</string>
 		<string>uni2004</string>
 		<string>uni200B</string>
+		<string>anoteleia</string>
+		<string>uni037E</string>
 		<string>uni27E8</string>
 		<string>uni27E9</string>
 		<string>hyphen_greater</string>
@@ -570,6 +598,8 @@
 		<string>quotedbl</string>
 		<string>quotesingle</string>
 		<string>florin</string>
+		<string>uni0374</string>
+		<string>uni0375</string>
 		<string>ampersand_ampersand</string>
 		<string>bar_bar</string>
 		<string>equal_equal</string>
@@ -681,6 +711,9 @@
 		<string>arrowdblright</string>
 		<string>arrowdblleft</string>
 		<string>arrowdblboth</string>
+		<string>uni21A0.001</string>
+		<string>uni21A0.002</string>
+		<string>arrowdblleft.001</string>
 		<string>uni2581</string>
 		<string>uni2582</string>
 		<string>uni2583</string>
@@ -843,6 +876,9 @@
 		<string>uni255E</string>
 		<string>heart</string>
 		<string>uni0306.cy</string>
+		<string>tonos</string>
+		<string>tonos.case</string>
+		<string>dieresistonos</string>
 		<string>dotbelowcomb</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
@@ -860,11 +896,27 @@
 		<string>uniE0A0</string>
 		<string>uniE0A1</string>
 		<string>uniE0A2</string>
+		<string>uniE0A3</string>
 		<string>uniE0B0</string>
 		<string>uniE0B1</string>
 		<string>uniE0B2</string>
 		<string>uniE0B3</string>
+		<string>uniE0B4</string>
+		<string>uniE0B5</string>
+		<string>uniE0B6</string>
+		<string>uniE0B7</string>
+		<string>uniE0B8</string>
+		<string>uniE0B9</string>
+		<string>uniE0BA</string>
+		<string>uniE0BB</string>
+		<string>uniE0BC</string>
+		<string>uniE0BD</string>
+		<string>uniE0BE</string>
+		<string>uniE0BF</string>
 		<string>lighthorzbxd</string>
+		<string>unbenannt</string>
+		<string>var_phi</string>
+		<string>var_theta</string>
 	</array>
 	<key>public.skipExportGlyphs</key>
 	<array>

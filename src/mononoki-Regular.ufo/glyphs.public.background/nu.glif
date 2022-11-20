@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nu" format="2">
+	<advance width="575"/>
+	<outline>
+		<contour>
+			<point x="493" y="500" type="curve"/>
+			<point x="407" y="500" type="line"/>
+			<point x="440" y="298"/>
+			<point x="363" y="149"/>
+			<point x="236" y="63" type="curve"/>
+			<point x="284" y="-1" type="line"/>
+			<point x="427" y="97"/>
+			<point x="523" y="279"/>
+		</contour>
+	</outline>
+</glyph>

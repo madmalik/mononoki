@@ -10,8 +10,16 @@
 	<string>M_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>Phi</key>
+	<string>P_hi.glif</string>
+	<key>Psi</key>
+	<string>P_si.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>Theta</key>
+	<string>T_heta.glif</string>
+	<key>Upsilon</key>
+	<string>U_psilon.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>Y</key>
@@ -26,8 +34,14 @@
 	<string>ampersand.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
+	<key>beta</key>
+	<string>beta.glif</string>
+	<key>chi</key>
+	<string>chi.glif</string>
 	<key>circlemultiply</key>
 	<string>circlemultiply.glif</string>
+	<key>delta</key>
+	<string>delta.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>equal_greater</key>
@@ -38,16 +52,28 @@
 	<string>five.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>gamma</key>
+	<string>gamma.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>kappa</key>
+	<string>kappa.glif</string>
+	<key>lambda</key>
+	<string>lambda.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nu</key>
+	<string>nu.glif</string>
+	<key>omega</key>
+	<string>omega.glif</string>
+	<key>omicron</key>
+	<string>omicron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
 	<key>ordfeminine</key>
@@ -56,6 +82,16 @@
 	<string>parenleft.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
+	<key>phi</key>
+	<string>phi.glif</string>
+	<key>pi</key>
+	<string>pi.glif</string>
+	<key>psi</key>
+	<string>psi.glif</string>
+	<key>rho</key>
+	<string>rho.glif</string>
+	<key>sigma</key>
+	<string>sigma.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>two</key>
@@ -64,17 +100,41 @@
 	<string>u.glif</string>
 	<key>uni00B9</key>
 	<string>uni00B_9.glif</string>
+	<key>uni03A9</key>
+	<string>uni03A_9.glif</string>
+	<key>uni03C2</key>
+	<string>uni03C_2.glif</string>
+	<key>uni0431</key>
+	<string>uni0431.glif</string>
 	<key>uni1E9E</key>
 	<string>uni1E_9E_.glif</string>
 	<key>uni207C</key>
 	<string>uni207C_.glif</string>
+	<key>uni2197</key>
+	<string>uni2197.glif</string>
+	<key>uni2198</key>
+	<string>uni2198.glif</string>
 	<key>uni2605</key>
 	<string>uni2605.glif</string>
 	<key>uniE0A1</key>
 	<string>uniE_0A_1.glif</string>
+	<key>uniE0A3</key>
+	<string>uniE_0A_3.glif</string>
+	<key>uniE0B5</key>
+	<string>uniE_0B_5.glif</string>
+	<key>uniE0B9</key>
+	<string>uniE_0B_9.glif</string>
+	<key>upsilon</key>
+	<string>upsilon.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>var_phi</key>
+	<string>var_phi.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
+	<key>xi</key>
+	<string>xi.glif</string>
+	<key>zeta</key>
+	<string>zeta.glif</string>
 </dict>
 </plist>

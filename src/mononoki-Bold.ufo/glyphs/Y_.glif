@@ -2,7 +2,9 @@
 <glyph name="Y" format="2">
 	<advance width="575"/>
 	<unicode hex="0059"/>
+	<anchor x="288" y="0" name="bottom"/>
 	<anchor x="288" y="700" name="top"/>
+	<anchor x="20" y="720" name="topleft"/>
 	<outline>
 		<contour>
 			<point x="532" y="720" type="curve"/>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>770</integer>
+	<key>capHeight</key>
+	<integer>720</integer>
+	<key>descender</key>
+	<integer>-250</integer>
+	<key>familyName</key>
+	<string>mononoki</string>
+	<key>italicAngle</key>
+	<real>-9.0</real>
+	<key>openTypeHeadCreated</key>
+	<string>2016/05/30 09:02:42</string>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Matthias Tellen</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>BoldItalic</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>900</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>250</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-15.0</real>
+		<real>0.0</real>
+		<real>520.0</real>
+		<real>536.0</real>
+		<real>720.0</real>
+		<real>736.0</real>
+		<real>770.0</real>
+		<real>786.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>mononoki-BoldItalic</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<real>98.0</real>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<real>105.0</real>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>mononoki</string>
+	<key>styleMapStyleName</key>
+	<string>bold italic</string>
+	<key>styleName</key>
+	<string>BoldItalic</string>
+	<key>unitsPerEm</key>
+	<integer>1024</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>4</integer>
+	<key>xHeight</key>
+	<integer>520</integer>
+</dict>
+</plist>

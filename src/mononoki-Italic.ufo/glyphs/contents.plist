@@ -22,6 +22,8 @@
 	<string>A_grave.glif</string>
 	<key>Alpha</key>
 	<string>A_lpha.glif</string>
+	<key>Alphatonos</key>
+	<string>A_lphatonos.glif</string>
 	<key>Amacron</key>
 	<string>A_macron.glif</string>
 	<key>Aogonek</key>
@@ -80,8 +82,12 @@
 	<string>E_ogonek.glif</string>
 	<key>Epsilon</key>
 	<string>E_psilon.glif</string>
+	<key>Epsilontonos</key>
+	<string>E_psilontonos.glif</string>
 	<key>Eta</key>
 	<string>E_ta.glif</string>
+	<key>Etatonos</key>
+	<string>E_tatonos.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
 	<key>Euro</key>
@@ -94,6 +100,8 @@
 	<string>G_.glif</string>
 	<key>Gamma</key>
 	<string>G_amma.glif</string>
+	<key>Gbreve</key>
+	<string>G_breve.glif</string>
 	<key>Gcircumflex</key>
 	<string>G_circumflex.glif</string>
 	<key>H</key>
@@ -110,6 +118,8 @@
 	<string>I_circumflex.glif</string>
 	<key>Idieresis</key>
 	<string>I_dieresis.glif</string>
+	<key>Idot</key>
+	<string>I_dot.glif</string>
 	<key>Igrave</key>
 	<string>I_grave.glif</string>
 	<key>Imacron</key>
@@ -118,6 +128,10 @@
 	<string>I_ogonek.glif</string>
 	<key>Iota</key>
 	<string>I_ota.glif</string>
+	<key>Iotadieresis</key>
+	<string>I_otadieresis.glif</string>
+	<key>Iotatonos</key>
+	<string>I_otatonos.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>Jcircumflex</key>
@@ -168,8 +182,12 @@
 	<string>O_hungarumlaut.glif</string>
 	<key>Omacron</key>
 	<string>O_macron.glif</string>
+	<key>Omegatonos</key>
+	<string>O_megatonos.glif</string>
 	<key>Omicron</key>
 	<string>O_micron.glif</string>
+	<key>Omicrontonos</key>
+	<string>O_microntonos.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
 	<key>Otilde</key>
@@ -236,6 +254,10 @@
 	<string>U_ogonek.glif</string>
 	<key>Upsilon</key>
 	<string>U_psilon.glif</string>
+	<key>Upsilondieresis</key>
+	<string>U_psilondieresis.glif</string>
+	<key>Upsilontonos</key>
+	<string>U_psilontonos.glif</string>
 	<key>Uring</key>
 	<string>U_ring.glif</string>
 	<key>V</key>
@@ -294,12 +316,16 @@
 	<string>agrave.glif</string>
 	<key>alpha</key>
 	<string>alpha.glif</string>
+	<key>alphatonos</key>
+	<string>alphatonos.glif</string>
 	<key>amacron</key>
 	<string>amacron.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>ampersand_ampersand</key>
 	<string>ampersand_ampersand.glif</string>
+	<key>anoteleia</key>
+	<string>anoteleia.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
 	<key>approxequal</key>
@@ -312,6 +338,8 @@
 	<string>arrowdblboth.glif</string>
 	<key>arrowdblleft</key>
 	<string>arrowdblleft.glif</string>
+	<key>arrowdblleft.001</key>
+	<string>arrowdblleft.001.glif</string>
 	<key>arrowdblright</key>
 	<string>arrowdblright.glif</string>
 	<key>arrowdown</key>
@@ -414,6 +442,8 @@
 	<string>delta.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>dieresistonos</key>
+	<string>dieresistonos.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>dkshade</key>
@@ -468,6 +498,8 @@
 	<string>eogonek.glif</string>
 	<key>epsilon</key>
 	<string>epsilon.glif</string>
+	<key>epsilontonos</key>
+	<string>epsilontonos.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>equal_equal</key>
@@ -478,6 +510,8 @@
 	<string>equivalence.glif</string>
 	<key>eta</key>
 	<string>eta.glif</string>
+	<key>etatonos</key>
+	<string>etatonos.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
 	<key>exclam</key>
@@ -520,6 +554,8 @@
 	<string>g.glif</string>
 	<key>gamma</key>
 	<string>gamma.glif</string>
+	<key>gbreve</key>
+	<string>gbreve.glif</string>
 	<key>gcircumflex</key>
 	<string>gcircumflex.glif</string>
 	<key>germandbls</key>
@@ -576,6 +612,12 @@
 	<string>iogonek.glif</string>
 	<key>iota</key>
 	<string>iota.glif</string>
+	<key>iotadieresis</key>
+	<string>iotadieresis.glif</string>
+	<key>iotadieresistonos</key>
+	<string>iotadieresistonos.glif</string>
+	<key>iotatonos</key>
+	<string>iotatonos.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
 	<key>jcircumflex</key>
@@ -668,8 +710,12 @@
 	<string>omacron.glif</string>
 	<key>omega</key>
 	<string>omega.glif</string>
+	<key>omegatonos</key>
+	<string>omegatonos.glif</string>
 	<key>omicron</key>
 	<string>omicron.glif</string>
+	<key>omicrontonos</key>
+	<string>omicrontonos.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
 	<key>one.dnom</key>
@@ -842,6 +888,10 @@
 	<string>threequarters.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+	<key>tonos</key>
+	<string>tonos.glif</string>
+	<key>tonos.case</key>
+	<string>tonos.case.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>
@@ -870,6 +920,8 @@
 	<string>uhungarumlaut.glif</string>
 	<key>umacron</key>
 	<string>umacron.glif</string>
+	<key>unbenannt</key>
+	<string>unbenannt.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
 	<key>uni00A0</key>
@@ -896,12 +948,20 @@
 	<string>uni02E_1.glif</string>
 	<key>uni0306.cy</key>
 	<string>uni0306.cy.glif</string>
+	<key>uni0374</key>
+	<string>uni0374.glif</string>
+	<key>uni0375</key>
+	<string>uni0375.glif</string>
+	<key>uni037E</key>
+	<string>uni037E_.glif</string>
 	<key>uni0394</key>
 	<string>uni0394.glif</string>
 	<key>uni03A9</key>
 	<string>uni03A_9.glif</string>
 	<key>uni03BC</key>
 	<string>uni03B_C_.glif</string>
+	<key>uni03C2</key>
+	<string>uni03C_2.glif</string>
 	<key>uni0401</key>
 	<string>uni0401.glif</string>
 	<key>uni0403</key>
@@ -1072,6 +1132,10 @@
 	<string>uni180E_.glif</string>
 	<key>uni1D47</key>
 	<string>uni1D_47.glif</string>
+	<key>uni1D62</key>
+	<string>uni1D_62.glif</string>
+	<key>uni1D62.001</key>
+	<string>uni1D_62.001.glif</string>
 	<key>uni1D9C</key>
 	<string>uni1D_9C_.glif</string>
 	<key>uni1E9E</key>
@@ -1214,6 +1278,10 @@
 	<string>uni219E_.glif</string>
 	<key>uni21A0</key>
 	<string>uni21A_0.glif</string>
+	<key>uni21A0.001</key>
+	<string>uni21A_0.001.glif</string>
+	<key>uni21A0.002</key>
+	<string>uni21A_0.002.glif</string>
 	<key>uni2204</key>
 	<string>uni2204.glif</string>
 	<key>uni2206</key>
@@ -1586,6 +1654,8 @@
 	<string>uniE_0A_1.glif</string>
 	<key>uniE0A2</key>
 	<string>uniE_0A_2.glif</string>
+	<key>uniE0A3</key>
+	<string>uniE_0A_3.glif</string>
 	<key>uniE0B0</key>
 	<string>uniE_0B_0.glif</string>
 	<key>uniE0B1</key>
@@ -1594,6 +1664,30 @@
 	<string>uniE_0B_2.glif</string>
 	<key>uniE0B3</key>
 	<string>uniE_0B_3.glif</string>
+	<key>uniE0B4</key>
+	<string>uniE_0B_4.glif</string>
+	<key>uniE0B5</key>
+	<string>uniE_0B_5.glif</string>
+	<key>uniE0B6</key>
+	<string>uniE_0B_6.glif</string>
+	<key>uniE0B7</key>
+	<string>uniE_0B_7.glif</string>
+	<key>uniE0B8</key>
+	<string>uniE_0B_8.glif</string>
+	<key>uniE0B9</key>
+	<string>uniE_0B_9.glif</string>
+	<key>uniE0BA</key>
+	<string>uniE_0B_A_.glif</string>
+	<key>uniE0BB</key>
+	<string>uniE_0B_B_.glif</string>
+	<key>uniE0BC</key>
+	<string>uniE_0B_C_.glif</string>
+	<key>uniE0BD</key>
+	<string>uniE_0B_D_.glif</string>
+	<key>uniE0BE</key>
+	<string>uniE_0B_E_.glif</string>
+	<key>uniE0BF</key>
+	<string>uniE_0B_F_.glif</string>
 	<key>uniFEFF</key>
 	<string>uniF_E_F_F_.glif</string>
 	<key>universal</key>
@@ -1604,10 +1698,20 @@
 	<string>upblock.glif</string>
 	<key>upsilon</key>
 	<string>upsilon.glif</string>
+	<key>upsilondieresis</key>
+	<string>upsilondieresis.glif</string>
+	<key>upsilondieresistonos</key>
+	<string>upsilondieresistonos.glif</string>
+	<key>upsilontonos</key>
+	<string>upsilontonos.glif</string>
 	<key>uring</key>
 	<string>uring.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>var_phi</key>
+	<string>var_phi.glif</string>
+	<key>var_theta</key>
+	<string>var_theta.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>wacute</key>

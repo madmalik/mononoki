@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="upsilon" format="2">
-	<advance width="575"/>
-	<unicode hex="03C5"/>
-	<outline>
-		<component base="u"/>
-	</outline>
-</glyph>

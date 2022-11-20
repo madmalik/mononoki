@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2158" format="2">
-	<advance width="575"/>
+	<advance width="1725"/>
 	<unicode hex="2158"/>
 	<outline>
 		<component base="four.numr"/>
-		<component base="fraction"/>
-		<component base="five.dnom"/>
+		<component base="fraction" xOffset="575"/>
+		<component base="five.dnom" xOffset="1150"/>
 	</outline>
 	<lib>
 		<dict>
