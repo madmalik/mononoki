@@ -74,29 +74,17 @@
 /* DIMENSIONS AND SIZES */
 /* -------------------- */
 :root {
-  --unit-min: 3.2px;
-  --unit-max: 10px;
-  --unit-flex: 1vw;
-  --unit: clamp(var(--unit-min), var(--unit-flex), var(--unit-max));
+  --unit: clamp(3.2px, 1vw, 5px);
 
   --v-space: calc(1rem + (3 * var(--unit)));
   --col-width: calc(90 * var(--unit));
   --col-gap: calc(10 * var(--unit));
-
-  --container-width: 100vw;
-}
-
-@media (min-width: 500px) {
-  :root {
-    --col-width: 450px;
-    --container-width: 500px;
-  }
 }
 
 @media (min-width: 720px) {
   :root {
+    --unit: min(1vw, 10px);
     --col-width: calc(40 * var(--unit));
-    --container-width: 100vw;
   }
 }
 
@@ -112,10 +100,7 @@ body {
 .container {
   display: flow-root;
   background-color: var(--background);
-
-  width: var(--container-width);
-  min-width: 320px;
-  max-width: 1000px;
+  width: calc(100 * var(--unit));
   margin: 0 auto;
 }
 
