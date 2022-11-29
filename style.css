@@ -1,3 +1,6 @@
+/* -------------- */
+/* FONT: mononoki */
+/* -------------- */
 @font-face {
   font-family: 'mononoki';
   src: url('fonts/mononoki-Regular.woff2') format('woff2');
@@ -27,10 +30,10 @@
   font-style: italic;
 }
 
+/* ----------------------------- */
+/* COLORS: quasi-solarized theme */
+/* ----------------------------- */
 :root {
-  /* --------------------- */
-  /* quasi-solarized theme */
-  /* --------------------- */
   --base03: #0D2B1E;
   --base02: #1A362A;
   --base01: #5C6F5F;
@@ -52,21 +55,6 @@
   --background-accent: var(--base2);
   --main-text: var(--base01);
   --greyed-out-text: var(--base0);
-
-  /* -------------------- */
-  /* Dimensions and sizes */
-  /* -------------------- */
-  --unit-min: 3.2px;
-  --unit-max: 10px;
-  --unit-flex: 1vw;
-  --unit: clamp(var(--unit-min), var(--unit-flex), var(--unit-max));
-
-  --v-space: calc(1rem + (3 * var(--unit)));
-  --col-width: calc(90 * var(--unit));
-  --col-gap: calc(10 * var(--unit));
-
-  --left-edge: 0;
-  --right-edge: 100vw;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -80,6 +68,23 @@
   #low-png {
     content: url(low_light.png);
   }
+}
+
+/* -------------------- */
+/* DIMENSIONS AND SIZES */
+/* -------------------- */
+:root {
+  --unit-min: 3.2px;
+  --unit-max: 10px;
+  --unit-flex: 1vw;
+  --unit: clamp(var(--unit-min), var(--unit-flex), var(--unit-max));
+
+  --v-space: calc(1rem + (3 * var(--unit)));
+  --col-width: calc(90 * var(--unit));
+  --col-gap: calc(10 * var(--unit));
+
+  --left-edge: 0;
+  --right-edge: 100vw;
 }
 
 @media (min-width: 500px) {
