@@ -75,8 +75,9 @@
 /* -------------------- */
 :root {
   --unit: clamp(3.2px, 1vw, 5px);
+  --v-unit: clamp(3.2px, 1vw, 10px);
 
-  --v-space: calc(1rem + (3 * var(--unit)));
+  --v-space: calc(1rem + (3 * var(--v-unit)));
   --col-width: calc(90 * var(--unit));
   --col-gap: calc(10 * var(--unit));
 }
@@ -112,7 +113,7 @@ body {
 .headline {
   display: flow-root;
 
-  font-size: calc(1rem + (.5 * var(--unit)));
+  font-size: calc(1rem + (.5 * var(--v-unit)));
   color: var(--orange);
   text-align: center;
 
@@ -120,11 +121,11 @@ body {
 }
 
 .headline h1 {
-  font-size: calc(2rem + (6.5 * var(--unit)));
+  font-size: calc(2rem + (6.5 * var(--v-unit)));
   font-weight: normal;
-  line-height: calc(1.3rem + (4.5 * var(--unit)));
+  line-height: calc(1.3rem + (4.5 * var(--v-unit)));
 
-  margin-bottom: calc(0.5rem + (2 * var(--unit)));
+  margin-bottom: calc(0.5rem + (2 * var(--v-unit)));
 }
 
 .grid {
