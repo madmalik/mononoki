@@ -255,7 +255,7 @@ code {
 .donation {
   color: var(--orange);
   text-align: center;
-  max-width: var(--col-width);
+  max-width: 450px;
 }
 
 .showcase-title {
