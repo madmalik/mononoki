@@ -83,23 +83,20 @@
   --col-width: calc(90 * var(--unit));
   --col-gap: calc(10 * var(--unit));
 
-  --left-edge: 0;
-  --right-edge: 100vw;
+  --container-width: 100vw;
 }
 
 @media (min-width: 500px) {
   :root {
     --col-width: 450px;
-    --left-edge: calc(50% - 250px);
-    --right-edge: calc(50% + 250px);
+    --container-width: 500px;
   }
 }
 
 @media (min-width: 720px) {
   :root {
     --col-width: calc(40 * var(--unit));
-    --left-edge: calc(50% - 500px);
-    --right-edge: calc(50% + 500px);
+    --container-width: 100vw;
   }
 }
 
@@ -107,12 +104,19 @@ body {
   font-family: mononoki;
   font-size: 16px;
   color: var(--main-text);
-  background-color: var(--background);
-  background: linear-gradient(to right, var(--background-accent) 0 var(--left-edge), var(--background) 0 var(--right-edge), var(--background-accent) 0);
+  background-color: var(--background-accent);
 
+  margin: 0;
+}
+
+.container {
+  display: flow-root;
+  background-color: var(--background);
+
+  width: var(--container-width);
   min-width: 320px;
   max-width: 1000px;
-  margin: 1rem auto;
+  margin: 0 auto;
 }
 
 .headline {
@@ -120,7 +124,7 @@ body {
   color: var(--orange);
   text-align: center;
 
-  margin: 0 10% var(--v-space);
+  margin: 0 5% var(--v-space);
 }
 
 .headline h1 {
@@ -271,5 +275,5 @@ code {
 footer {
   color: var(--greyed-out-text);
   text-align: center;
-  margin: var(--v-space) 10% 0;
+  margin: var(--v-space) 5% 1rem;
 }
