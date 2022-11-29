@@ -124,7 +124,7 @@ body {
   color: var(--orange);
   text-align: center;
 
-  margin: 0 5% var(--v-space);
+  margin: 0 5% calc(1.5 * var(--v-space));
 }
 
 .headline h1 {
@@ -142,7 +142,7 @@ body {
   grid-template-columns: repeat(auto-fit, var(--col-width));
   row-gap: var(--v-space);
   column-gap: var(--col-gap);
-  padding: var(--v-space) 5%;
+  margin: 0 5%;
 }
 
 .span-all {
@@ -167,9 +167,15 @@ a:focus {
 }
 
 .top-link {
+  display: inline-block;
   padding: .5em .75em;
   border: .12em solid;
   border-radius: 3px;
+}
+
+.half-gap {
+  margin-bottom: calc(-.5 * var(--v-space));
+  align-self: start;
 }
 
 .dropcap {
@@ -275,5 +281,5 @@ code {
 footer {
   color: var(--greyed-out-text);
   text-align: center;
-  margin: var(--v-space) 5% 1rem;
+  margin: calc(1.5 * var(--v-space)) 5% 1rem;
 }
