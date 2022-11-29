@@ -120,6 +120,8 @@ body {
 }
 
 .headline {
+  display: flow-root;
+
   font-size: calc(1rem + (.5 * var(--unit)));
   color: var(--orange);
   text-align: center;
