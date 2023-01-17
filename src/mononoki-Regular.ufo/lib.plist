@@ -929,6 +929,28 @@
 	</array>
 	<key>public.skipExportGlyphs</key>
 	<array>
+		<string>A.hex</string>
+		<string>B.hex</string>
+		<string>C.hex</string>
+		<string>D.hex</string>
+		<string>E.hex</string>
+		<string>F.hex</string>
+		<string>a.hex</string>
+		<string>b.hex</string>
+		<string>c.hex</string>
+		<string>d.hex</string>
+		<string>e.hex</string>
+		<string>f.hex</string>
+		<string>zero.hex</string>
+		<string>one.hex</string>
+		<string>two.hex</string>
+		<string>three.hex</string>
+		<string>four.hex</string>
+		<string>five.hex</string>
+		<string>six.hex</string>
+		<string>seven.hex</string>
+		<string>eight.hex</string>
+		<string>nine.hex</string>
 		<string>zero.dnom</string>
 		<string>one.dnom</string>
 		<string>two.dnom</string>

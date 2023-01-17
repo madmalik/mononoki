@@ -3,7 +3,6 @@
 	<advance width="575"/>
 	<unicode hex="2289"/>
 	<outline>
-		<component base="supersetorequal"/>
 		<contour>
 			<point x="171" y="-36" type="curve"/>
 			<point x="357" y="816" type="line"/>
@@ -22,6 +21,7 @@
 			<point x="156" y="-58"/>
 			<point x="167" y="-51"/>
 		</contour>
+		<component base="supersetorequal"/>
 		<component base="supersetorequal"/>
 	</outline>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="a" format="2">
 	<advance width="575"/>
 	<unicode hex="0061"/>
-	<anchor x="338" y="570" name="top"/>
 	<anchor x="478" y="5" name="ogonek"/>
+	<anchor x="338" y="570" name="top"/>
 	<outline>
 		<contour>
 			<point x="464" y="39" type="curve" smooth="yes"/>

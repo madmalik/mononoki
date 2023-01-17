@@ -1,18 +1,4 @@
 	markClass [uni0306.cy] <anchor 288 500> @mark_top;
-### class:0:hex_digit_decorated ###
-@hex_digit_decorated = [
-### open class 'hex_digit_decorated' ###
-zero.hex one.hex two.hex three.hex four.hex five.hex six.hex seven.hex eight.hex nine.hex a.hex b.hex c.hex d.hex e.hex f.hex A.hex B.hex C.hex D.hex E.hex F.hex 
-### close class 'hex_digit_decorated' ###
-];
-
-### class:1:hex_digit ###
-@hex_digit = [
-### open class 'hex_digit' ###
-zero one two three four five six seven eight nine a b c d e f A B C D E F
-### close class 'hex_digit' ###
-];
-
 ### prefix:-1: ###
 ### open prefix '' ###
 languagesystem DFLT dflt;
@@ -335,12 +321,6 @@ feature mark {
 		pos base Zacute  <anchor 288 700> mark @mark_top;
 		pos base Zcaron  <anchor 288 700> mark @mark_top;
 		pos base Zdotaccent  <anchor 288 700> mark @mark_top;
-		pos base A.hex  <anchor 288 700> mark @mark_top;
-		pos base B.hex  <anchor 288 720> mark @mark_top;
-		pos base C.hex  <anchor 338 700> mark @mark_top;
-		pos base D.hex  <anchor 288 700> mark @mark_top;
-		pos base E.hex  <anchor 288 700> mark @mark_top;
-		pos base F.hex  <anchor 288 720> mark @mark_top;
 		pos base a  <anchor 288 570> mark @mark_top;
 		pos base aacute  <anchor 288 570> mark @mark_top;
 		pos base abreve  <anchor 288 570> mark @mark_top;
@@ -441,10 +421,6 @@ feature mark {
 		pos base zacute  <anchor 288 570> mark @mark_top;
 		pos base zcaron  <anchor 288 570> mark @mark_top;
 		pos base zdotaccent  <anchor 288 570> mark @mark_top;
-		pos base a.hex  <anchor 288 570> mark @mark_top;
-		pos base c.hex  <anchor 288 570> mark @mark_top;
-		pos base d.hex  <anchor 409 520> mark @mark_top;
-		pos base e.hex  <anchor 288 570> mark @mark_top;
 		pos base uni02E1  <anchor 288 700> mark @mark_top;
 		pos base uni207F  <anchor 288 570> mark @mark_top;
 	} mark_latn;
@@ -457,7 +433,7 @@ feature mark {
 } mark;
 
 table GDEF {
- GlyphClassDef [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex H Hcircumflex I Iacute Icircumflex Idieresis Idot Igrave Imacron Iogonek J Jcircumflex K L Lacute Lcaron Ldot Lslash M N Nacute Ncaron Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde P Q R Racute Rcaron S Sacute Scaron Scedilla Scircumflex T Tbar Tcaron uni0162 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A.hex B.hex C.hex D.hex E.hex F.hex a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde c cacute ccaron ccedilla ccircumflex d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek g gbreve gcircumflex h hcircumflex i dotlessi iacute icircumflex idieresis igrave imacron iogonek uni0237 jcircumflex k l lacute lcaron ldot lslash m n nacute ncaron ntilde o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p thorn q r racute rcaron s sacute scaron scedilla scircumflex t tcaron uni0163 u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent a.hex c.hex d.hex e.hex uni02E1 uni207F uni0410 uni0412 uni0413 uni0403 uni0415 uni0401 uni0416 uni0417 uni0418 uni0419 uni041A uni040C uni041C uni041D uni041E uni0420 uni0421 uni0422 uni0423 uni0425 uni0427 uni042B uni0405 uni042D uni0406 uni0407 uni0408 uni042F uni04C0 uni04E2 uni04EE uni0430 uni0433 uni0453 uni0435 uni0451 uni0436 uni0437 uni0438 uni043A uni045C uni043E uni0440 uni0441 uni0443 uni0447 uni044B uni0455 uni044D uni0456 uni044E uni04BB uni04E3 uni04EF Alpha Beta Epsilon Zeta Eta Iota Kappa Mu Nu Rho Tau Upsilon Chi Alphatonos Epsilontonos Etatonos Iotatonos Upsilontonos Iotadieresis Upsilondieresis alpha epsilon eta iota omicron upsilon omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos cent],# Base 
+ GlyphClassDef [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex H Hcircumflex I Iacute Icircumflex Idieresis Idot Igrave Imacron Iogonek J Jcircumflex K L Lacute Lcaron Ldot Lslash M N Nacute Ncaron Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde P Q R Racute Rcaron S Sacute Scaron Scedilla Scircumflex T Tbar Tcaron uni0162 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde c cacute ccaron ccedilla ccircumflex d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek g gbreve gcircumflex h hcircumflex i dotlessi iacute icircumflex idieresis igrave imacron iogonek uni0237 jcircumflex k l lacute lcaron ldot lslash m n nacute ncaron ntilde o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p thorn q r racute rcaron s sacute scaron scedilla scircumflex t tcaron uni0163 u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent uni02E1 uni207F uni0410 uni0412 uni0413 uni0403 uni0415 uni0401 uni0416 uni0417 uni0418 uni0419 uni041A uni040C uni041C uni041D uni041E uni0420 uni0421 uni0422 uni0423 uni0425 uni0427 uni042B uni0405 uni042D uni0406 uni0407 uni0408 uni042F uni04C0 uni04E2 uni04EE uni0430 uni0433 uni0453 uni0435 uni0451 uni0436 uni0437 uni0438 uni043A uni045C uni043E uni0440 uni0441 uni0443 uni0447 uni044B uni0455 uni044D uni0456 uni044E uni04BB uni04E3 uni04EF Alpha Beta Epsilon Zeta Eta Iota Kappa Mu Nu Rho Tau Upsilon Chi Alphatonos Epsilontonos Etatonos Iotatonos Upsilontonos Iotadieresis Upsilondieresis alpha epsilon eta iota omicron upsilon omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos cent],# Base 
  , # Liga 
  [uni0306.cy dotbelowcomb], # Mark 
  ;
