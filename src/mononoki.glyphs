@@ -1,7 +1,11 @@
 {
 .appVersion = "3133";
 DisplayStrings = (
-"Aa/Abreve/abreve ÂâEeÊêIiOoÔô/Ohorn/ohorn Uu/Uhorn/uhorn Yy\012Áá/Abreveacute/abreveacute/Acircumflexacute/acircumflexacute Éé/Ecircumflexacute/ecircumflexacute ÍíÓó/Ocircumflexacute/ocircumflexacute/Ohornacute/ohornacute Úú/Uhornacute/uhornacute Ýý\012Àà/Abrevegrave/abrevegrave/Acircumflexgrave/acircumflexgrave Èè/Ecircumflexgrave/ecircumflexgrave ÌìÒò/Ocircumflexgrave/ocircumflexgrave/Ohorngrave/ohorngrave Ùù/Uhorngrave/uhorngrave/Ygrave/ygrave \012/Ahookabove/ahookabove/Abrevehookabove/abrevehookabove/Acircumflexhookabove/acircumflexhookabove/Ehookabove/ehookabove/Ecircumflexhookabove/ecircumflexhookabove/Ihookabove/ihookabove/Ohookabove/ohookabove/Ocircumflexhookabove/ocircumflexhookabove/Ohornhookabove/ohornhookabove/Uhookabove/uhookabove/Uhornhookabove/uhornhookabove/Yhookabove/yhookabove \012Ãã/Abrevetilde/abrevetilde/Acircumflextilde/acircumflextilde/Etilde/etilde/Ecircumflextilde/ecircumflextilde/Itilde/itilde Õõ/Ocircumflextilde/ocircumflextilde/Ohorntilde/ohorntilde/Utilde/utilde/Uhorntilde/uhorntilde/Ytilde/ytilde \012/Adotbelow/adotbelow/Abrevedotbelow/abrevedotbelow/Acircumflexdotbelow/acircumflexdotbelow/Edotbelow/edotbelow/Ecircumflexdotbelow/ecircumflexdotbelow/Idotbelow/idotbelow/Odotbelow/odotbelow/Ocircumflexdotbelow/ocircumflexdotbelow/Ohorndotbelow/ohorndotbelow/Udotbelow/udotbelow/Uhorndotbelow/uhorndotbelow/Ydotbelow/ydotbelow"
+"Aa/Abreve/abreve ÂâEeÊêIiOoÔô/Ohorn/ohorn Uu/Uhorn/uhorn Yy\012Áá/Abreveacute/abreveacute/Acircumflexacute/acircumflexacute Éé/Ecircumflexacute/ecircumflexacute ÍíÓó/Ocircumflexacute/ocircumflexacute/Ohornacute/ohornacute Úú/Uhornacute/uhornacute Ýý\012Àà/Abrevegrave/abrevegrave/Acircumflexgrave/acircumflexgrave Èè/Ecircumflexgrave/ecircumflexgrave ÌìÒò/Ocircumflexgrave/ocircumflexgrave/Ohorngrave/ohorngrave Ùù/Uhorngrave/uhorngrave/Ygrave/ygrave \012/Ahookabove/ahookabove/Abrevehookabove/abrevehookabove/Acircumflexhookabove/acircumflexhookabove/Ehookabove/ehookabove/Ecircumflexhookabove/ecircumflexhookabove/Ihookabove/ihookabove/Ohookabove/ohookabove/Ocircumflexhookabove/ocircumflexhookabove/Ohornhookabove/ohornhookabove/Uhookabove/uhookabove/Uhornhookabove/uhornhookabove/Yhookabove/yhookabove \012Ãã/Abrevetilde/abrevetilde/Acircumflextilde/acircumflextilde/Etilde/etilde/Ecircumflextilde/ecircumflextilde/Itilde/itilde Õõ/Ocircumflextilde/ocircumflextilde/Ohorntilde/ohorntilde/Utilde/utilde/Uhorntilde/uhorntilde/Ytilde/ytilde \012/Adotbelow/adotbelow/Abrevedotbelow/abrevedotbelow/Acircumflexdotbelow/acircumflexdotbelow/Edotbelow/edotbelow/Ecircumflexdotbelow/ecircumflexdotbelow/Idotbelow/idotbelow/Odotbelow/odotbelow/Ocircumflexdotbelow/ocircumflexdotbelow/Ohorndotbelow/ohorndotbelow/Udotbelow/udotbelow/Uhorndotbelow/uhorndotbelow/Ydotbelow/ydotbelow",
+"",
+"/ohorngrave",
+"/ohorngrave",
+""
 );
 classes = (
 {
@@ -174012,100 +174016,6 @@ width = 575;
 );
 note = uniE0BF;
 unicode = E0BF;
-},
-{
-glyphname = odotbelowcircumflex;
-lastChange = "2023-02-25 12:06:29 +0000";
-layers = (
-{
-components = (
-{
-name = o;
-},
-{
-name = dotbelowcomb;
-},
-{
-name = circumflex;
-transform = "{1, 0, 0, 1, 0, 40}";
-}
-);
-layerId = "A14B1AE3-86D5-4EA7-AE2F-7B4FA04DAB2E";
-width = 575;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = dotbelowcomb;
-},
-{
-name = circumflex;
-transform = "{1, 0, 0, 1, 0, 60}";
-}
-);
-layerId = "FB732A47-0020-4E5B-B7FA-72B1D79E8828";
-width = 575;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = dotbelowcomb;
-},
-{
-name = circumflex;
-transform = "{1, 0, 0, 1, 0, 40}";
-}
-);
-layerId = "8A9476DE-11F4-4864-A7B4-14D9B7165FAE";
-width = 575;
-},
-{
-components = (
-{
-name = o;
-},
-{
-name = dotbelowcomb;
-},
-{
-name = circumflex;
-transform = "{1, 0, 0, 1, 1, 60}";
-}
-);
-layerId = "C492240F-DFB2-48B7-8D1C-81E7E6E3599E";
-width = 575;
-}
-);
-widthMetricsKey = space;
-},
-{
-glyphname = ohornbreve;
-lastChange = "2023-02-19 11:39:17 +0000";
-layers = (
-{
-layerId = "A14B1AE3-86D5-4EA7-AE2F-7B4FA04DAB2E";
-width = 575;
-},
-{
-layerId = "FB732A47-0020-4E5B-B7FA-72B1D79E8828";
-width = 575;
-},
-{
-layerId = "8A9476DE-11F4-4864-A7B4-14D9B7165FAE";
-width = 575;
-},
-{
-layerId = "C492240F-DFB2-48B7-8D1C-81E7E6E3599E";
-width = 575;
-}
-);
-widthMetricsKey = space;
 },
 {
 glyphname = lighthorzbxd;
