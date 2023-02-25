@@ -3,7 +3,7 @@
 	<advance width="575"/>
 	<unicode hex="0061"/>
 	<anchor x="518" y="5" name="ogonek"/>
-	<anchor x="288" y="550" name="top"/>
+	<anchor x="288" y="540" name="top"/>
 	<outline>
 		<contour>
 			<point x="470" y="29" type="curve" smooth="yes"/>

@@ -30,6 +30,8 @@
 	<string>a.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
+	<key>ae</key>
+	<string>ae.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>at</key>
@@ -134,6 +136,8 @@
 	<string>x.glif</string>
 	<key>xi</key>
 	<string>xi.glif</string>
+	<key>zero.ss01</key>
+	<string>zero.ss01.glif</string>
 	<key>zeta</key>
 	<string>zeta.glif</string>
 </dict>

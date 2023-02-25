@@ -11,7 +11,7 @@
 	<key>familyName</key>
 	<string>mononoki</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/05/30 09:02:42</string>
+	<string>2023/01/18 13:00:42</string>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
@@ -58,7 +58,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>4</integer>
+	<integer>6</integer>
 	<key>xHeight</key>
 	<integer>520</integer>
 </dict>

@@ -43,9 +43,21 @@
 		<string>A</string>
 		<string>Aacute</string>
 		<string>Abreve</string>
+		<string>uni1EAE</string>
+		<string>uni1EB6</string>
+		<string>uni1EB0</string>
+		<string>uni1EB2</string>
+		<string>uni1EB4</string>
 		<string>Acircumflex</string>
+		<string>uni1EA4</string>
+		<string>uni1EAC</string>
+		<string>uni1EA6</string>
+		<string>uni1EA8</string>
+		<string>uni1EAA</string>
 		<string>Adieresis</string>
+		<string>uni1EA0</string>
 		<string>Agrave</string>
+		<string>uni1EA2</string>
 		<string>Amacron</string>
 		<string>Aogonek</string>
 		<string>Aring</string>
@@ -65,11 +77,19 @@
 		<string>Eacute</string>
 		<string>Ecaron</string>
 		<string>Ecircumflex</string>
+		<string>uni1EBE</string>
+		<string>uni1EC6</string>
+		<string>uni1EC0</string>
+		<string>uni1EC2</string>
+		<string>uni1EC4</string>
 		<string>Edieresis</string>
 		<string>Edotaccent</string>
+		<string>uni1EB8</string>
 		<string>Egrave</string>
+		<string>uni1EBA</string>
 		<string>Emacron</string>
 		<string>Eogonek</string>
+		<string>uni1EBC</string>
 		<string>F</string>
 		<string>G</string>
 		<string>Gbreve</string>
@@ -82,9 +102,12 @@
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
 		<string>Idot</string>
+		<string>uni1ECA</string>
 		<string>Igrave</string>
+		<string>uni1EC8</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
+		<string>Itilde</string>
 		<string>J</string>
 		<string>Jcircumflex</string>
 		<string>K</string>
@@ -101,8 +124,21 @@
 		<string>O</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
+		<string>uni1ED0</string>
+		<string>uni1ED8</string>
+		<string>uni1ED2</string>
+		<string>uni1ED4</string>
+		<string>uni1ED6</string>
 		<string>Odieresis</string>
+		<string>uni1ECC</string>
 		<string>Ograve</string>
+		<string>uni1ECE</string>
+		<string>Ohorn</string>
+		<string>uni1EDA</string>
+		<string>uni1EE2</string>
+		<string>uni1EDC</string>
+		<string>uni1EDE</string>
+		<string>uni1EE0</string>
 		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
 		<string>Oslash</string>
@@ -129,11 +165,20 @@
 		<string>Ubreve</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
+		<string>uni1EE4</string>
 		<string>Ugrave</string>
+		<string>uni1EE6</string>
+		<string>Uhorn</string>
+		<string>uni1EE8</string>
+		<string>uni1EF0</string>
+		<string>uni1EEA</string>
+		<string>uni1EEC</string>
+		<string>uni1EEE</string>
 		<string>Uhungarumlaut</string>
 		<string>Umacron</string>
 		<string>Uogonek</string>
 		<string>Uring</string>
+		<string>Utilde</string>
 		<string>V</string>
 		<string>W</string>
 		<string>Wacute</string>
@@ -145,7 +190,10 @@
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
+		<string>uni1EF4</string>
 		<string>Ygrave</string>
+		<string>uni1EF6</string>
+		<string>uni1EF8</string>
 		<string>Z</string>
 		<string>Zacute</string>
 		<string>Zcaron</string>
@@ -159,9 +207,21 @@
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
+		<string>uni1EAF</string>
+		<string>uni1EB7</string>
+		<string>uni1EB1</string>
+		<string>uni1EB3</string>
+		<string>uni1EB5</string>
 		<string>acircumflex</string>
+		<string>uni1EA5</string>
+		<string>uni1EAD</string>
+		<string>uni1EA7</string>
+		<string>uni1EA9</string>
+		<string>uni1EAB</string>
 		<string>adieresis</string>
+		<string>uni1EA1</string>
 		<string>agrave</string>
+		<string>uni1EA3</string>
 		<string>amacron</string>
 		<string>aogonek</string>
 		<string>aring</string>
@@ -181,11 +241,19 @@
 		<string>eacute</string>
 		<string>ecaron</string>
 		<string>ecircumflex</string>
+		<string>uni1EBF</string>
+		<string>uni1EC7</string>
+		<string>uni1EC1</string>
+		<string>uni1EC3</string>
+		<string>uni1EC5</string>
 		<string>edieresis</string>
 		<string>edotaccent</string>
+		<string>uni1EB9</string>
 		<string>egrave</string>
+		<string>uni1EBB</string>
 		<string>emacron</string>
 		<string>eogonek</string>
+		<string>uni1EBD</string>
 		<string>f</string>
 		<string>g</string>
 		<string>gbreve</string>
@@ -197,10 +265,13 @@
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>uni1ECB</string>
 		<string>igrave</string>
+		<string>uni1EC9</string>
 		<string>ij</string>
 		<string>imacron</string>
 		<string>iogonek</string>
+		<string>itilde</string>
 		<string>j</string>
 		<string>uni0237</string>
 		<string>jcircumflex</string>
@@ -219,8 +290,21 @@
 		<string>o</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
+		<string>uni1ED1</string>
+		<string>uni1ED9</string>
+		<string>uni1ED3</string>
+		<string>uni1ED5</string>
+		<string>uni1ED7</string>
 		<string>odieresis</string>
+		<string>uni1ECD</string>
 		<string>ograve</string>
+		<string>uni1ECF</string>
+		<string>ohorn</string>
+		<string>uni1EDB</string>
+		<string>uni1EE3</string>
+		<string>uni1EDD</string>
+		<string>uni1EDF</string>
+		<string>uni1EE1</string>
 		<string>ohungarumlaut</string>
 		<string>omacron</string>
 		<string>oslash</string>
@@ -247,11 +331,20 @@
 		<string>ubreve</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
+		<string>uni1EE5</string>
 		<string>ugrave</string>
+		<string>uni1EE7</string>
+		<string>uhorn</string>
+		<string>uni1EE9</string>
+		<string>uni1EF1</string>
+		<string>uni1EEB</string>
+		<string>uni1EED</string>
+		<string>uni1EEF</string>
 		<string>uhungarumlaut</string>
 		<string>umacron</string>
 		<string>uogonek</string>
 		<string>uring</string>
+		<string>utilde</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -263,7 +356,10 @@
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
+		<string>uni1EF5</string>
 		<string>ygrave</string>
+		<string>uni1EF7</string>
+		<string>uni1EF9</string>
 		<string>z</string>
 		<string>zacute</string>
 		<string>zcaron</string>
@@ -452,6 +548,7 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>zero.ss01</string>
 		<string>zero.hex</string>
 		<string>one.hex</string>
 		<string>two.hex</string>
@@ -923,7 +1020,8 @@
 		<string>uniE0BE</string>
 		<string>uniE0BF</string>
 		<string>lighthorzbxd</string>
-		<string>unbenannt</string>
+		<string>hookabove</string>
+		<string>horn</string>
 		<string>var_phi</string>
 		<string>vartheta</string>
 	</array>

@@ -3,12 +3,12 @@
 	<advance width="575"/>
 	<unicode hex="006E"/>
 	<anchor x="247" y="0" name="bottom"/>
-	<anchor x="329" y="570" name="top"/>
+	<anchor x="329" y="560" name="top"/>
 	<outline>
 		<contour>
 			<point x="209" y="447" type="curve"/>
 			<point x="216" y="483" type="line" smooth="yes"/>
-			<point x="219" y="504"/>
+			<point x="220" y="504"/>
 			<point x="206" y="520"/>
 			<point x="185" y="520" type="curve"/>
 			<point x="148" y="520" type="line"/>

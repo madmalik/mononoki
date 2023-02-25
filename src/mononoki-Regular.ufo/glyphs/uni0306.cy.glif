@@ -2,6 +2,7 @@
 <glyph name="uni0306.cy" format="2">
 	<advance width="0"/>
 	<anchor x="288" y="500" name="_top"/>
+	<anchor x="291" y="701" name="top"/>
 	<outline>
 		<component base="breve"/>
 	</outline>

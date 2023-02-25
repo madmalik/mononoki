@@ -4,6 +4,6 @@
 	<unicode hex="00EE"/>
 	<outline>
 		<component base="dotlessi"/>
-		<component base="circumflex" xOffset="12" yOffset="50"/>
+		<component base="circumflex" xOffset="12" yOffset="40"/>
 	</outline>
 </glyph>

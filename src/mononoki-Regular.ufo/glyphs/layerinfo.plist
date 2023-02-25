@@ -7,11 +7,13 @@
 		<key>GSCornerRadius</key>
 		<integer>25</integer>
 		<key>GSOffsetHorizontal</key>
-		<real>10</real>
+		<real>40</real>
+		<key>GSOffsetMakeStroke</key>
+		<true/>
 		<key>GSOffsetPosition</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<real>10</real>
+		<real>36</real>
 	</dict>
 </dict>
 </plist>

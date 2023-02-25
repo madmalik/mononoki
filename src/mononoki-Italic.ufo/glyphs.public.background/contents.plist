@@ -22,8 +22,6 @@
 	<string>psi.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
-	<key>u</key>
-	<string>u.glif</string>
 	<key>uni02B3</key>
 	<string>uni02B_3.glif</string>
 	<key>uni1D47</key>
@@ -36,7 +34,5 @@
 	<string>uni230A_.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
-	<key>y</key>
-	<string>y.glif</string>
 </dict>
 </plist>

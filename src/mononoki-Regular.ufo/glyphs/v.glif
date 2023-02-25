@@ -2,15 +2,17 @@
 <glyph name="v" format="2">
 	<advance width="575"/>
 	<unicode hex="0076"/>
+	<anchor x="288" y="540" name="top"/>
+	<anchor x="288" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="424" y="478" type="curve" smooth="yes"/>
 			<point x="327" y="93" type="line"/>
-			<point x="323" y="75"/>
+			<point x="322" y="75"/>
 			<point x="305" y="66"/>
 			<point x="288" y="66" type="curve" smooth="yes"/>
 			<point x="271" y="66"/>
-			<point x="253" y="75"/>
+			<point x="254" y="75"/>
 			<point x="249" y="93" type="curve" smooth="yes"/>
 			<point x="152" y="478" type="line" smooth="yes"/>
 			<point x="148" y="492"/>
@@ -21,7 +23,7 @@
 			<point x="63" y="490"/>
 			<point x="67" y="472" type="curve" smooth="yes"/>
 			<point x="165" y="79" type="line" smooth="yes"/>
-			<point x="180" y="21"/>
+			<point x="179" y="21"/>
 			<point x="229" y="-10"/>
 			<point x="288" y="-10" type="curve" smooth="yes"/>
 			<point x="347" y="-10"/>
