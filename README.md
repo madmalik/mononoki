@@ -4,6 +4,10 @@
 
 For a closer look [http://madmalik.github.io/mononoki/](http://madmalik.github.io/mononoki/).
 
+## Features
+
+* Alternate stylistic set with dotted zero, configurable with `ss01`.
+
 ## Installation
 
 [Download mononoki.zip](https://github.com/madmalik/mononoki/releases/download/1.6/mononoki.zip) and unpack it.
